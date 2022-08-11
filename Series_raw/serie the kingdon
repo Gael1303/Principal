@@ -1,0 +1,14 @@
+//////////THE KINGDON
+<item>
+<title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:92847a5cb3de44ac9588fd247df1c174efa2510f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nbLv2DzKJTqRbjDCMYyzT38GkxP.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3171e1ddb45fe9a10c136d5304df1d236c74441f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nFan35eF9xGHBsro3U9YbEKsfmV.jpg</thumbnail>
+<genre></genre>
+</item>

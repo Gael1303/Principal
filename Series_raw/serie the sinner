@@ -1,0 +1,21 @@
+////////THE SHINNER
+<item>
+<title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c78aa54d0204b23cddb8d08c661955d9e19901a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mzQyhOoKxWTFtIKjQfPx2ttYyQQ.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ed5336933fa2690c0944ae608997c213d98bde6</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oxFlfbCuDmgIDEsi0JRfaGeKgQ7.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8344cfed42c8cf9e619221c9b02fc84b89dca782</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kqyo8BQRDRNxuo6RWRmFPFNCPgg.jpg</thumbnail>
+<genre></genre>
+</item>
