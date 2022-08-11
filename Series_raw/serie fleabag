@@ -1,0 +1,11 @@
+...................................................................
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR] </title>fleabag
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85e92552c4b7e7a4945f124e038b504e59aa8a01</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/2fmsjdLoBEkfhcelg9ZUAHz2pfs.jpg</thumbnail>
+</item> 
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bfc8ca9d850c57ecc456870a34ed86bc1e65cc9</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/tivjTfxoptJTguO01gKipQzQWtz.jpg</thumbnail>
+</item> ...................................................................

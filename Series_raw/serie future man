@@ -1,0 +1,28 @@
+...................................................................
+<item>
+<title>[COLOR white][B]1ª Temporada[/B][/COLOR] </title>Future man
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3822e38c846c531e3680285eba9273774925781</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mQrrNb5Lmo0u7DdQhMDigp0eUts.jpg</thumbnail>
+</item> 
+<item>
+<title>[COLOR yellow][B]1ª Temporada - Legendada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9a71fcd0cbec5d6ccca2d00c1148663793d6a266</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/mQrrNb5Lmo0u7DdQhMDigp0eUts.jpg</thumbnail>
+</item> 
+
+<item>
+<title>[COLOR cyan][B]........................................[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<thumbnail></thumbnail>
+</item> 
+
+<item>
+<title>[COLOR white][B]2ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16c1c08c613d4e06c9acfc480f2394905070c276</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/uXQi5blCBoA8OO3izKHK7x4q4Bt.jpg</thumbnail>
+</item> 
+<item>
+<title>[COLOR yellow][B]2ª Temporada - Legendada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acb03965c07f3e6ec3734ca41492e6a653b3e108</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/uXQi5blCBoA8OO3izKHK7x4q4Bt.jpg</thumbnail>
+</item>
