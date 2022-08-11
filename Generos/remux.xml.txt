@@ -1,0 +1,632 @@
+<item>
+<title>[B][COLOR white]Cidade de Deus[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a7560cf64fb2fc4a1b1973d6b4ed0c151724888</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/51cY0Lsf1DL.jpg</thumbnail>
+<genre>Crime | Drama</genre>
+<year>2002</year>
+<aired>2002/08/03</aired>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]A Vigilante do Amanhã[/B][/COLOR] </title>
+<thumbnail>https://image.tmdb.org/t/p/w342/gXNCtzD47RiRXMKYF60TWkmKjYU.jpg</thumbnail>
+<info>Remux</info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65a48efa27d9fbb259cc4f1a53394be15c591c30</link>1
+<thumbnail>https://image.tmdb.org/t/p/w342/gXNCtzD47RiRXMKYF60TWkmKjYU.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Capitão América: Guerra Civil[/B][/COLOR] [/COLOR]</title>
+<thumbnail>https://image.tmdb.org/t/p/w342/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06d947b84395ed5ddfb89d095d0a7804a7e48220</link>1
+<thumbnail>https://image.tmdb.org/t/p/w342/lS5XvvUcJy5rJcbmBeX1GPoMnWJ.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Batman vs Superman - A Origem da Justiça[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/batman-vs-superman-a-origem-da-justica-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:30e2e002ab009e4c225aecdb211062435281c111</link>1
+<thumbnail>https://ondebaixa.com/capas/batman-vs-superman-a-origem-da-justica-versao-estendida-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Homem-Aranha 2[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/homem-aranha-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:63436fc25b8f267673e58b1ca2eb00efa6c70b50$$lsname=[B]43GB[/B]</link>1
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df5bbd590334d11c19feda8d15c424a02b73f388$$lsname=[B]10GB[/B]</link>1
+<thumbnail>https://ondebaixa.com/capas/homem-aranha-2-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]American Pie - A Primeira Vez é Inesquecível - Sem Cortes[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/american-pie-a-primeira-vez-e-inesquecivel-sem-cortes-remux-download-torrent-1999-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:39f3985d84ad92d1408d2212d97e4513e151ee87</link>1
+<thumbnail>https://ondebaixa.com/capas/american-pie-a-primeira-vez-e-inesquecivel-sem-cortes-remux-download-torrent-1999-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]O Garoto (1921)[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/o-garoto-download-torrent-1921-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8182eb4b9163a4b34bdbb43fd0db253688f1179c</link>1
+<thumbnail>https://ondebaixa.com/capas/o-garoto-download-torrent-1921-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Alien - Covenant[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/alien-covenant-remux-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3668348b250d4a3c42c5fb322de3791cdc7a824a</link>1
+<thumbnail>https://ondebaixa.com/capas/alien-covenant-remux-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Tempo de Glória[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/tempo-de-gloria-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2099629c8c77c689987f44015dac2760858fed08</link>1
+<thumbnail>https://ondebaixa.com/capas/tempo-de-gloria-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Náufrago[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/naufrago-remux-download-torrent-2000-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5217ee383291c1a757ab0d2ed0bd9fc7f1070fd1</link>1
+<thumbnail>https://ondebaixa.com/capas/naufrago-remux-download-torrent-2000-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Carros 3[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/carros-3-remux-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ba924b46259b05aa47459b3e1e16df08cb83709</link>1
+<thumbnail>https://ondebaixa.com/capas/carros-3-remux-download-torrent-2017-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Transformers - O Lado Oculto da Lua[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/transformers-o-lado-oculto-da-lua-remux-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:739ec060c1c80cd7874a56b67ee85a1c13c79538</link>1
+<thumbnail>https://ondebaixa.com/capas/transformers-o-lado-oculto-da-lua-remux-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Transformers - A Era da Extinção[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/transformers-a-era-da-extincao-imax-remux-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:307cfc4c11ce7d452ecb9067684c952e9a165253</link>1
+<thumbnail>https://ondebaixa.com/capas/transformers-a-era-da-extincao-imax-remux-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Transformers[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/transformers-remux-download-torrent-2007-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29f888c18bff09e53e5185b87cc4df0928491c9b</link>1
+<thumbnail>https://ondebaixa.com/capas/transformers-remux-download-torrent-2007-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]King Kong - Versão Estendida[/B][/COLOR] [/COLOR]</title>
+<thumbnail>https://ondebaixa.com/capas/king-kong-versao-estendida-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4e107915299d9fcb298f07d983d0b3ae859693db</link>1
+<thumbnail>https://ondebaixa.com/capas/king-kong-versao-estendida-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Corações de Ferro[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/coracoes-de-ferro-bluray-remux-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd347f7beac8049d7a3e4df738238a0c14b61db2</link>1
+<thumbnail>https://ondebaixa.com/capas/coracoes-de-ferro-bluray-remux-download-torrent-2014-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]13 Horas - Os Soldados Secretos de Benghazi[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/13-horas-os-soldados-secretos-de-benghazi-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33683c9a6f809a224df3ea66999978c1bf1bf613</link>1
+<thumbnail>https://ondebaixa.com/capas/13-horas-os-soldados-secretos-de-benghazi-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Campo dos Sonhos (1989)[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/campo-dos-sonhos-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:348448f35a3e5cc7ea0d5fef1ad314027d4ecfd9</link>1
+<thumbnail>https://ondebaixa.com/capas/campo-dos-sonhos-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Trolls[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/trolls-bluray-remux-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b71080a54136bb38fe5ea1b067cc04aa52bc8a38</link>1
+<thumbnail>https://ondebaixa.com/capas/trolls-bluray-remux-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Atirador[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/atirador-bluray-remux-download-torrent-2007-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:98ed71e2323fbc6d70b566f0962353fda1b00c4c</link>1
+<thumbnail>https://ondebaixa.com/capas/atirador-bluray-remux-download-torrent-2007-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Bill e Ted - Dois Loucos no Tempo (1991)[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/bill-e-ted-dois-loucos-no-tempo-download-torrent-1991-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c69601d73f6bb10148d7ea25f3326c9eda833f1</link>1
+<thumbnail>https://ondebaixa.com/capas/bill-e-ted-dois-loucos-no-tempo-download-torrent-1991-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+20
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Vidro + Extras[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capa/vidro-extras-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c12e9b3e11b538ed5450d8ba3c7431cf6421375f</link>1
+<thumbnail>https://ondebaixa.com/capa/vidro-extras-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Bumblebee + Extras[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capa/bumblebee-extras-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4098b7ef5db917d8481292b79276d99ae9914209</link>1
+<thumbnail>https://ondebaixa.com/capa/bumblebee-extras-download-torrent-2018-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]O Espetacular Homem-Aranha[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capa/o-espetacular-homem-aranha-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:91cb826f0e382722e091fa9b23a844269abcbd8f</link>1
+<thumbnail>https://ondebaixa.com/capa/o-espetacular-homem-aranha-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Homem-Aranha 3[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capa/homem-aranha-3-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10bd746f05aa0e23f48ff1a0b902ea940a82a878</link>1
+<thumbnail>https://ondebaixa.com/capa/homem-aranha-3-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Dragon Ball Super - Broly[/B][/COLOR] </title>
+<thumbnail>https://4.bp.blogspot.com/-9oLB8JuBHzU/XDNxPm0WFEI/AAAAAAAAEig/j0ECoxxvaLIwFWn5fyXV5tPVSNGbVSfyQCLcBGAs/s1600/Dragon%2BBall%2BSuper%2BBroly%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6400a5d2a140eb9d034c5e6dbc5028be2e1bc525</link>1
+<thumbnail>https://4.bp.blogspot.com/-9oLB8JuBHzU/XDNxPm0WFEI/AAAAAAAAEig/j0ECoxxvaLIwFWn5fyXV5tPVSNGbVSfyQCLcBGAs/s1600/Dragon%2BBall%2BSuper%2BBroly%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Falcão Negro em Perigo - Versão Estendida[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capa/falcao-negro-em-perigo-versao-estendida-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a402d422892029d2ad6d70d4d4585ce4c95ba8a0</link>1
+<thumbnail>https://ondebaixa.com/capa/falcao-negro-em-perigo-versao-estendida-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]13 - O Jogador[/B][/COLOR] </title>
+<thumbnail>https://2.bp.blogspot.com/-nu446tqeRgo/W_SKGpJwtXI/AAAAAAAADCE/bWD8zIdq2Lkdw7kbJmXbT0E5e2XyGLdwACLcBGAs/s1600/13%2BO%2BJogador%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c76f62301bedb20770aef3003e157baae6a2eeb4</link>1
+<thumbnail>https://2.bp.blogspot.com/-nu446tqeRgo/W_SKGpJwtXI/AAAAAAAADCE/bWD8zIdq2Lkdw7kbJmXbT0E5e2XyGLdwACLcBGAs/s1600/13%2BO%2BJogador%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Oito Mulheres e um Segredo[/B][/COLOR] </title>
+<thumbnail>https://3.bp.blogspot.com/-0ipPxDRlW6A/W3ubHXZRpDI/AAAAAAAAPw0/XVIztNV96lY7Z4k0L5-eJHoW4sF0GnBjwCLcBGAs/s1600/Oito%2Bmulheres%2Be%2Bum%2Bsegredo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:17183b1ab1c032543a58c3724978b08ae4633f59</link>1
+<thumbnail>https://3.bp.blogspot.com/-0ipPxDRlW6A/W3ubHXZRpDI/AAAAAAAAPw0/XVIztNV96lY7Z4k0L5-eJHoW4sF0GnBjwCLcBGAs/s1600/Oito%2Bmulheres%2Be%2Bum%2Bsegredo%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Forrest Gump - O Contador de Histórias[/B][/COLOR] </title>
+<thumbnail>https://4.bp.blogspot.com/-EYmcnso6jDY/W2dYAhe6izI/AAAAAAAAPD8/FhE0Uq5vM4YrHKN0cxXoa8q6ZA1MHODJwCLcBGAs/s1600/Forrest%2BGump%2BO%2BContador%2Bde%2BHist%25C3%25B3rias%2B4K%2BUltra%2Bhd%2Buhd%2Bhdrtorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d75ad617a31cb6e15c766f8d694524502f47f43e</link>1
+<thumbnail>https://4.bp.blogspot.com/-EYmcnso6jDY/W2dYAhe6izI/AAAAAAAAPD8/FhE0Uq5vM4YrHKN0cxXoa8q6ZA1MHODJwCLcBGAs/s1600/Forrest%2BGump%2BO%2BContador%2Bde%2BHist%25C3%25B3rias%2B4K%2BUltra%2Bhd%2Buhd%2Bhdrtorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]O Resgate do Soldado Ryan[/B][/COLOR] </title>
+<thumbnail>https://1.bp.blogspot.com/-DV_xdpVWTNI/W2dYBe48KdI/AAAAAAAAPEI/JyNcQaXZHDMMNsLMcLG-o3GSEvSIGF56ACLcBGAs/s1600/O%2BResgate%2Bdo%2BSoldado%2BRyan%2B4k%2Bultra%2Bhd%2Buhd%2Bhdr%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d5d087decbc19b900fb79416e7626269129ab0c</link>1
+<thumbnail>https://1.bp.blogspot.com/-DV_xdpVWTNI/W2dYBe48KdI/AAAAAAAAPEI/JyNcQaXZHDMMNsLMcLG-o3GSEvSIGF56ACLcBGAs/s1600/O%2BResgate%2Bdo%2BSoldado%2BRyan%2B4k%2Bultra%2Bhd%2Buhd%2Bhdr%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+</item>
+
+
+30
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Vingadores - Guerra Infinita[/B][/COLOR] </title>
+<thumbnail>https://4.bp.blogspot.com/-7w2hd3isXdo/W2E9bIYW5dI/AAAAAAAAOyg/3fu1VCRibUAd0fX5qpB5aiM4F3gCLSbbQCLcBGAs/s1600/Vingadores%2BGuerra%2BInifinita%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8c97efc904d2bd293813d6677d30a544a804bcb</link>1
+<thumbnail>https://4.bp.blogspot.com/-7w2hd3isXdo/W2E9bIYW5dI/AAAAAAAAOyg/3fu1VCRibUAd0fX5qpB5aiM4F3gCLSbbQCLcBGAs/s1600/Vingadores%2BGuerra%2BInifinita%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Cinquenta Tons de Liberdade[/B][/COLOR] </title>
+<thumbnail>https://2.bp.blogspot.com/-fHmfZPgcKQQ/WspfgDzpXSI/AAAAAAAAKaQ/ETrB9KJ7fC4ewiip7_UWGk8ncvkRDJy1ACLcBGAs/s1600/Cinquenta%2BTons%2Bde%2BLiberdade%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24e0af162519bdd8385380b4a4e613c832c86d8c</link>1
+<thumbnail>https://2.bp.blogspot.com/-fHmfZPgcKQQ/WspfgDzpXSI/AAAAAAAAKaQ/ETrB9KJ7fC4ewiip7_UWGk8ncvkRDJy1ACLcBGAs/s1600/Cinquenta%2BTons%2Bde%2BLiberdade%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Mulher-Maravilha[/B][/COLOR] </title>
+<thumbnail>https://2.bp.blogspot.com/-TOe5GEte2G4/Wa996CRtUII/AAAAAAAAFS8/s8EC1xcpTTUwCn5rlBQsWkA4mheqY9YGgCEwYBhgL/s1600/Mulher-maravilha-download-torrent-dublado-2017-bluray-1080p-720p.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:87140dc5ed3ffa6e2e24282c6859f070934f03e3$nome=Dublado - 30GB</link>1
+<thumbnail>https://2.bp.blogspot.com/-TOe5GEte2G4/Wa996CRtUII/AAAAAAAAFS8/s8EC1xcpTTUwCn5rlBQsWkA4mheqY9YGgCEwYBhgL/s1600/Mulher-maravilha-download-torrent-dublado-2017-bluray-1080p-720p.jpg</thumbnail>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5d07565b0d71bffade9b238857c40b46a231cc2a$nome=Dublado - 41GB</link>1
+<thumbnail>https://2.bp.blogspot.com/-TOe5GEte2G4/Wa996CRtUII/AAAAAAAAFS8/s8EC1xcpTTUwCn5rlBQsWkA4mheqY9YGgCEwYBhgL/s1600/Mulher-maravilha-download-torrent-dublado-2017-bluray-1080p-720p.jpg</thumbnail>
+</item>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Justa Causa[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/justa-causa-bd-r-download-torrent-1995-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31bc6b37deb2baf8047be414941f61ef6fe35860</link>1
+<thumbnail>https://ondebaixa.com/capas/justa-causa-bd-r-download-torrent-1995-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Hitch - Conselheiro Amoroso[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/hitch-conselheiro-amoroso-bd-r-download-torrent-2005-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4da9b379b4b65ababee99764da934c4d46888792</link>1
+<thumbnail>https://ondebaixa.com/capas/hitch-conselheiro-amoroso-bd-r-download-torrent-2005-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]O Vidente[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/o-vidente-bd-r-download-torrent-2007-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeca5c420a8621020fa7ef91f41c895656f6abb0</link>1
+<thumbnail>https://ondebaixa.com/capas/o-vidente-bd-r-download-torrent-2007-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Consequências[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/consequencias-bd-r-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6256cd684ed8a1f88254c4ec29571e3887289592</link>1
+<thumbnail>https://ondebaixa.com/capas/consequencias-bd-r-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Jogos Letais[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/jogos-letais-bd-r-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f52582e802179f8aaa218cdee7b79dd74d131ba7</link>1
+<thumbnail>https://ondebaixa.com/capas/jogos-letais-bd-r-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Bata Antes de Entrar[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/bata-antes-de-entrar-bd-r-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea05cba9e5eb732b4a60a41791a8764650b82995</link>1
+<thumbnail>https://ondebaixa.com/capas/bata-antes-de-entrar-bd-r-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Cidade dos Anjos (1998)[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/cidade-dos-anjos-bd-r-download-torrent-1998-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1734ede51a235deb37aeb1cbf966cef8f7fbf476</link>1
+<thumbnail>https://ondebaixa.com/capas/cidade-dos-anjos-bd-r-download-torrent-1998-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]O Lobo de Wall Street[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/o-lobo-de-wall-street-bd-r-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae44244e96f4eb436b5689eb682c9cc7f99390ce</link>1
+<thumbnail>https://ondebaixa.com/capas/o-lobo-de-wall-street-bd-r-download-torrent-2013-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Romeu + Julieta (1996)[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/romeu-julieta-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5d9db8741a152acd5d233a078e766f758c75b96</link>1
+<thumbnail>https://ondebaixa.com/capas/romeu-julieta-download-torrent-1996-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Pets - A Vida Secreta dos Bichos[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/pets-a-vida-secreta-dos-bichos-bd-r-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc45be8291d579f243e7e8f87f4ad0967d6a01e3</link>1
+<thumbnail>https://ondebaixa.com/capas/pets-a-vida-secreta-dos-bichos-bd-r-download-torrent-2016-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]007 Contra Spectre[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/007-contra-spectre-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b02434ae3735af22a8534833222493be568396d3</link>1
+<thumbnail>https://ondebaixa.com/capas/007-contra-spectre-download-torrent-2015-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item>
+<title>[COLOR white][B]Thor[/B][/COLOR] </title>
+<thumbnail>https://ondebaixa.com/capas/thor-bd-r-download-torrent-2011-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<info> </info>
+
+
+
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6e8e7dfdee85160b4d28b0375c9b9b3ec9824ee5</link>1
+<thumbnail>https://ondebaixa.com/capas/thor-bd-r-download-torrent-2011-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+</item>
