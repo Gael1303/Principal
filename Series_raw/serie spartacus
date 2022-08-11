@@ -1,0 +1,30 @@
+//////////////SPARTACUS
+<item>
+<title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:34c1b9e9e5903f158f6855c504016b033c748fda</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/6TGfjey8hUzovbchHWaS8iNMTF6.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19f1a663d0fa4f8ff114e5eb3ea9f4ed0f2aacbd</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/x2K55OIAHZsiiiVsAyL2TWB1PNP.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e163872f0b286e3505e1bb2d0d09be0422d211bd</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/8tI3cyuWKbZHZLzOhyjFP9sUkRn.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>[COLOR yellow][B]4ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c78aeb209e9d1a4baef4d56ee3d7b80db3241a5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/kAUI0oOWZbGAQMmv7WM6scvoE34.jpg</thumbnail>
+<genre></genre>
+</item>
+
+
