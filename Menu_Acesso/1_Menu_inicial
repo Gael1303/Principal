@@ -2,7 +2,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] FILMES</name>
 <thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
-<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23inicio_filmes.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Filmes.xml</externallink>
 <fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
 <info>
 [B]UM ACERVO BACANA DE FILMES EM HD,FHD E 4K DUAL AUDIO.[/B]
@@ -14,7 +14,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] STREAMINGS</name>
 <thumbnail>https://hiseye.org/wp-content/uploads/2020/06/Streaming-service-collage--900x877.jpg</thumbnail>
-<externallink>https://github.com/Gael-addon-P-br/New_P-br/raw/main/%23inicio_series.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Streamings.xml</externallink>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2020/05/06113757/plataformas-de-streaming.jpg</fanart>
 <info>
 [B]VARIADAS SERIES SEPARADAS POR PLATAFORMAS DE STREAMINGS[/B]
@@ -26,7 +26,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] DESENHOS</name>
 <thumbnail>https://m.media-amazon.com/images/I/819hRzuJi+L._AC_SY450_.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Gael-addon-P-br/New_P-br/main/3_S%C3%A9ries_Animadas.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Series_Animadas.xml</externallink>
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
 <info>[B]SÉRIES ANIMADAS VIA TORRENT E/OU LINK DIRETO[/B]
 </info>
