@@ -1,35 +1,17 @@
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] EM ALTA</name>
-		<thumbnail>https://www.studytienganh.vn/upload/2021/05/101693.png</thumbnail>
-		<externallink>https://bit.ly/3aEy5nx</externallink>
-		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
-		<info>[B]FILMES MAIS POPULARES COM BASE EM PESQUISAS DO GOOGLE[/B]
-		
-
-[COLOR cyan]Telegram[/COLOR]: t.me/PirateBr
-[COLOR cyan]Doaçoes[/COLOR]: thepiratebr.ofc@gmail.com
-[COLOR cyan]Duvidas[/COLOR]: thepiratebr.ofc@gmail.com
-		</info>
-	</channel>
-</channels>
------------------------------------------------------------------------------------------------------------------------------
-
-
-<channels>
-	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] LANÇAMENTOS 2022</name>
 		<thumbnail>https://thumbs.dreamstime.com/b/clapperboard-conceito-dos-filmes-83903796.jpg</thumbnail>
-		<externallink>https://bit.ly/3OfYXZA</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
 		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
 		<info>[COLOR yellow][B]Previsoes:[/B][/COLOR]
-		[B]Lightyear - 03/08[/B]
-		[B]Minions 2 - 18/08[/B]
+	
 		[B]Top Gun: Maverick - 23/08[/B]
 		[B]Thor: Amor e Trovao - 23/08[/B]
-		[B]Elvis - 08 ou 29/08[/B]
+		
 			
 		[B]OS MAIS RECENTES LANÇAMENTOS EM VOD E STREAMINGS PARA VOCES[/B]
+		
 		</info>
 	</channel>
 </channels>
@@ -38,7 +20,7 @@
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] CINEMA</name>
 		<thumbnail>https://i.pinimg.com/originals/72/b0/48/72b0480f7f73667acecf9344dc2c5716.jpg</thumbnail>
-		<externallink>https://bit.ly/3tQWdKk</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lancamentos_cinema.xml</externallink>
 		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
 		<info>[B]FILMES AQUI SE ENCONTRAM COM AUDIO E IMAGEM DE CINEMA[/B]</info>
 	</channel>
@@ -60,7 +42,7 @@
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] COLEÇOES</name>
 		<thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
-		<externallink>https://bit.ly/3NenD3F</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/sagas.xml</externallink>
 		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
 		<info>
 [B]UM ACERVO BACANA COM MAIS DE 100 COLEÇOES DOS FILMES MAIS POPULARES.[/B]
@@ -73,7 +55,7 @@
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] 4K</name>
 		<thumbnail>https://png.pngtree.com/png-clipart/20220603/original/pngtree-4k-hd-button-png-image-png-image_7899680.png</thumbnail>
-		<externallink>https://bit.ly/39I5tcG</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/4k.xml</externallink>
 		<fanart>https://www.tremplin-numerique.org/wp-content/uploads/2022/01/Intel-interrompt-la-lecture-de-disques-Blu-Ray-4K-sur-de.jpg</fanart>
 		<info>
 [B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
@@ -88,7 +70,7 @@
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] 3D</name>
 		<thumbnail>https://play-lh.googleusercontent.com/OlYjC6F5kWdM7OuXgReDvi1iL4kx0RHovpQ2Stdpj1UhJISjQ5AtoaLl4qDbDmjd6jGq</thumbnail>
-		<externallink>https://bit.ly/3QE2fYk</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/3d.xml</externallink>
 		<fanart>https://t.ctcdn.com.br/TTL_lJTbaPOcVQ-JopMiEaGd7QQ=/50x0:1720x940/1400x788/smart/i371388.jpeg</fanart>
 		<info>
 [B]FUNCIONAL APENAS EM PC,NOTEBOOK E TV COM FUNÇÃO 3D. NÃO SE ESQUEÇA DOS OCULOS[/B]</info>
@@ -100,7 +82,7 @@
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] IMAX</name>
 		<thumbnail>https://e7.pngegg.com/pngimages/14/981/png-clipart-belgium-film-imax-kinepolis-product-belgium-film.png</thumbnail>
-		<externallink>https://bit.ly/3tT5xNQ</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/imax.xml</externallink>
 		<fanart>https://www.hardware.com.br/wp-content/uploads/static/wp/2022/06/02/1-2.jpg</fanart>
 		<info>
 [B]QUER TER UM CINEMA EM CASA? ENTÃO ESTA NO LUGAR CERTO[/B]
@@ -112,7 +94,7 @@
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] DOLBY VISION</name>
 		<thumbnail>https://news.mynavi.jp/article/20160123-ces2016_dolby/index_images/index.jpg</thumbnail>
-		<externallink>https://bit.ly/3ohzOm1</externallink>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/Dolby_Vision.xml</externallink>
 		<fanart>https://www.hardware.com.br/static/wp/2019/12/25/90-4.jpg?fm=pjpg&ixlib=php-3.3.0</fanart>
 		<info>[B][COLOR red]AVISO!!![/COLOR]: Não utilize essa aba se voce nao possui um televisor com tela dolby vision. Pois,pode queimar seus leds por causa do brilho[/B]
 
@@ -127,9 +109,9 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] LINK DIRETO</name>
+<name>[COLOR red][B]≡[/B][/COLOR] LINK DIRETO</name>
 <thumbnail>https://archive.org/download/filmes-diversos-zokos/Filmes%20Diversos%20Zokos.jpg</thumbnail>
-<externallink>https://bit.ly/3OzBsdM</externallink>
+<externallink>https://</externallink>
 <fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
 <info>
 [B]ABA COM FILMES COM LINK DIRETO (UM CLIQUE)[/B]
