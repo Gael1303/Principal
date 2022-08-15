@@ -1,6 +1,6 @@
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] FILMES</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] VOD</name>
 <thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Filmes.xml</externallink>
 <fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
@@ -24,7 +24,7 @@
 ------------------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] DESENHOS</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] SÉRIES ANIMADAS</name>
 <thumbnail>https://m.media-amazon.com/images/I/819hRzuJi+L._AC_SY450_.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Streamings/Series_Animadas.xml</externallink>
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
