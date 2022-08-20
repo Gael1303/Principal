@@ -874,6 +874,30 @@
 <duration>3000</duration>
 </item>
 
+<item>
+<title>Episodio 122</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6206fcca8c5f495ed0a47fd1c3fe158f0218466c</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 123</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7dcd447d570e5acda42c6227e22a2fc78e5f8b36</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 124</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a5a57d8661a05f226c30a0806bdafed229648d70</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
 
 <item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
