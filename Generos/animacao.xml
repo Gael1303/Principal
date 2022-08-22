@@ -1,12 +1,20 @@
-<item>
-<title>Snoopy Apresenta: A Escola da Lucy</title>
+<item>  <title>Constantine: A Casa dos Mistérios</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47962ab8b789d44f18a46ea09d4ac56b3399d57f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vKhlysJxSWt4lzuC4ScjTuOBHpO.jpg</thumbnail>
+<genre>Animação, Ação, Aventura</genre> <year>2022</year> <aired>2022/05/06</aired> <duration>1620</duration>
+<info>Após reescrever o tempo e impedir que a Guerra de Apokolips aconteça, John Constantine percebe que está preso na Casa dos Mistérios enfrentando um castigo que ainda não entende. Enquanto explora os labirintos da Casa, ele logo encontra Zatanna e muitos amigos, mas esses encontros repetidamente acabam em uma morte brutal para ele. Enquanto enfrenta o ciclo interminável de sua própria morte, o sempre brilhante Constantine começa a desvendar o caminho que o levou a este confinamento infernal.</info> </item>
+----------------------------------------------------------------------------
+<item> <title>Fullmetal Alchemist: A Vingança de Scar</title> Animação
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0439162a9ca545c058190560cffd1d093e6a0b4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qsgF3IyWmNOnYqNtweaqySWpYTz.jpg</thumbnail>
+<info>Nesta sequência do primeiro filme, os irmãos Elric encontram o oponente mais difícil até agora: um serial killer com uma grande cicatriz na testa.</info>
+<genre>Ação, Aventura, Fantasia</genre> <aired>2022/05/20</aired> <duration>7500</duration> </item>
+---------------------------------------------------------------------------------------
+<item> <title>Snoopy Apresenta: A Escola da Lucy</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:acbb87412b990d168e56c5c2303e20fde1559a07</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ikvLmYOsYjy5qoGS9Lpu092rO6z.jpg</thumbnail>
 <info>A turminha dos Peanuts fica nervosa com a escola nova, então Lucy abre uma escola. Em breve, ela descobre que ensinar é mais difícil do que ela pensava e que a mudança pode ser boa.</info>
-<genre>Família, Animação</genre>
-<aired>2022/08/12</aired>
-<duration>2280</duration>
-</item>
+<genre>Família, Animação</genre> <aired>2022/08/12</aired> <duration>2280</duration> </item>
 ---------------------------------------------------------------------------------------
 <item> 
 <title>Minions 2: A Origem de Gru</title>
