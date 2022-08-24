@@ -1,9 +1,21 @@
 <item>
 <title>Top Gun: Maverick (4K)</title>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9f13521894181ccf34ef2aa181c8f110a24303</link>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9f13521894181ccf34ef2aa181c8f110a24303$nome=Top Gun: Maverick (4K) (HDR)</link>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50dd5504bff8805a08b49048d3a0003c2505673e$nome=Top Gun: Maverick (4K) (SDR)</link>
 <thumbnail>https://dyncdn.me/mimages/29254/poster_opt.jpg</thumbnail>
 <aired>2022/08/23</aired>
 <genre>Action, Drama</genre>
+</item>
+
+<item> 
+<title>DC Liga dos Superpets (4K)</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d66ba2956d9b00697b9a177850cf56c69f1abc7$nome=DC Liga dos Superpets (4K)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3df6b2748312128188b4a1addb7d028dd01c5b5c$nome=DC League of Super-Pets (2160p) (EN)</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sexnQm1YEJMYo7hZgVP1Y6rEyWz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg</fanart>
+<genre>Animação, Ação, Família, Ficção científica, Comédia</genre>
+<year>2022</year>
+<aired>2022/07/28</aired>
 </item>
 
 <item>
@@ -65,7 +77,7 @@
 
 <item> 
 <title>Chamas da Vingança (4K)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5a5c78b216fe0694e613fe1da1b3872016daba</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5a5c78b216fe0694e613fe1da1b3872016daba&dn=Firestarter.2022.4K.UHD.2160p.HDR-U.V2.DTS-HD.5.1.Dual-www.animestotais.xyz</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qU8xM8nFsXvUYSZsRQOdIti267.jpg</thumbnail>
 <genre>Thriller, Ficção científica</genre>
 <aired>2022/05/12</aired>
