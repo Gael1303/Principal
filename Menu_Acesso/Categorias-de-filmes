@@ -4,13 +4,13 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]AÇÃO[/COLOR] - [COLOR yellow]1.115[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]AÇÃO[/COLOR] - [COLOR yellow]1.116[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/A%C3%A7%C3%A3o.xml</externallink>
 <fanart>https://</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]</info>
 
-  <date>2022.08.23</date>
+  <date>2022.08.24</date>
 </channel>
 </channels>
 
@@ -103,13 +103,13 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR yellow]636[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR yellow]637[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/drama.xml</externallink>
 <fanart>https://</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]</info>
 
- <date>2022.08.23</date> 
+ <date>2022.08.24</date> 
   </channel>
 </channels>
 
@@ -225,13 +225,13 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]ROMANCE[/COLOR] - [COLOR yellow]505[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]ROMANCE[/COLOR] - [COLOR yellow]508[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/romance.xml</externallink>
 <fanart>https://</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]</info>
 
- <date>2022.08.23</date>  
+ <date>2022.08.24</date>  
   </channel>
 </channels>
 
