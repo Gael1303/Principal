@@ -1,7 +1,15 @@
 ////////ARCANJO RENEGADO
 <item>
-<title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>
+<title>Arcanjo Renegado - 1ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b710565177b549636e356f78ea836182d8546f33</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail>
+<genre></genre>
+</item>
+
+
+<item>
+<title>Arcanjo Renegado - 2ª Temporada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48cce5bc2b04a6c8a7e5139b51ddc6f78d64c77e</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail>
 <genre></genre>
 </item>
