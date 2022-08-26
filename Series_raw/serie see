@@ -7,28 +7,28 @@
 </item> 
 
 <item>
-<title>[COLOR white][B]Episodio 01 ao 05[/B][/COLOR] </title>
+<title>See - T01 EP 01-05</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d9b7ba116b71a5c832bbe73625d788eca8656f79</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
 <genre></genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]Episodio 06[/B][/COLOR] </title>
+<title>See - T01 EP 06</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a59824a1d737c408c2738099cacf41b9ecc1f96</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
 <genre></genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]Episodio 07[/B][/COLOR] [COLOR green]*[/COLOR]</title>
+<title>See - T01 EP 07</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:11e500e0c63375e17bdfb975f0b77a77da8b8049</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
 <genre></genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]Episodio 08[/B][/COLOR] [COLOR green]*[/COLOR]</title>
+<title>See - T01 EP 08</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c63d2617c77aa88dbb17a7e895823801bf4a2afa</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/g3JsScc7mQCfc3e5e5rXwu7xVVP.jpg</thumbnail>
 <genre></genre>
@@ -45,16 +45,89 @@
 
 ........................................
 <item>
-<title>[COLOR white][B]See - 2ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4aa218b1cf7ea4391ca6a827467f7f3934472f1$nome=[B]See S02E01[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137afa572d85190d77e771997cb2b393f189d278$nome=[B]See S02E02[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47c96aaee73920bfbcdd08f243c23be19008c115$nome=[B]See S02E03[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3272a2c0c8ad59fc44122006c70950cd003b86c9$nome=[B]See S02E04[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06d3ce5f20295801e08bd27e2304d883b3054248$nome=[B]See S02E05[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9c43b16b70faf86b5c6e8b54fffa3b71f2e3564$nome=[B]See S02E06[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:014d00d811963e1bf10beb6ffb6004d0ada3752c$nome=[B]See S02E07[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9bbf4536f3ac0b9e9874038d21fc0a526b1d263$nome=[B]See S02E08[/B]</link>
+<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
 <thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
 <fanart>https://www.vodster.de/db/v4/series/361565/backgrounds/6103dd73cacc2.jpg</fanart>
 </item> 
 
+<item>
+<title>SEE - T02 EP 01</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b4aa218b1cf7ea4391ca6a827467f7f3934472f1</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+----------------------------------------
+<item>
+<title>SEE - T02 EP 02</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:137afa572d85190d77e771997cb2b393f189d278</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+----------------------------------------
+<item>
+<title>SEE - T02 EP 03</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:47c96aaee73920bfbcdd08f243c23be19008c115</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+----------------------------------------
+<item>
+<title>SEE - T02 EP 04</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3272a2c0c8ad59fc44122006c70950cd003b86c9</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+----------------------------------------
+<item>
+<title>SEE - T02 EP 05</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06d3ce5f20295801e08bd27e2304d883b3054248</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+----------------------------------------
+<item>
+<title>SEE - T02 EP 06</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9c43b16b70faf86b5c6e8b54fffa3b71f2e3564</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+----------------------------------------
+<item>
+<title>SEE - T02 EP 07</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:014d00d811963e1bf10beb6ffb6004d0ada3752c</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+----------------------------------------
+<item>
+<title>SEE - T02 EP 08</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b9bbf4536f3ac0b9e9874038d21fc0a526b1d263</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+
+<item>
+<title>[COLOR yellow][B]3ª Temporada[/B][/COLOR] </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<thumbnail>https://es.web.img3.acsta.net/pictures/21/08/02/12/33/2281163.jpg</thumbnail>
+<fanart>https://www.vodster.de/db/v4/series/361565/backgrounds/6103dd73cacc2.jpg</fanart>
+</item> 
+
+<item>
+<title>SEE - T03 EP 01</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e601644979fc6bf9506d96ce77bff0bdd1f03454$nome=SEE - T03 EP 01 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9945af0218edda0bbbbe9db5f507b9632c085f68$nome=SEE - T03 EP 01 4K - Leg</link>
+<thumbnail>https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgx_6bqKEbQAXlR8qHQdCanf7_NsXJF6vHj_SZ7dFIegP-ucuglrobsxi-YIZcgDUPEZdsYh7Ew2We09tbbfGXjpIL3EdWeZRQXIezix9c55CKhYLbMclZxIGxOw5ldedr60X5h0krCIVPQil2mxIxbljx4-GEKWssN99g56GcSUJLDLBeHnFYjcyMLZw/s350/See%20s3.jpg</thumbnail>
+<duration>3300</duration>
+<genre>Ação, Drama, Ficção</genre>
+</item>
+----------------------------------------
