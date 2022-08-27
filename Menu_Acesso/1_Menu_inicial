@@ -4,7 +4,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] VOD</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] FILMES</name>
 <thumbnail>https://archive.org/download/icon.png_202208/icon.png.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Filmes.xml</externallink>
 <fanart>https://bravi.tv/wp-content/uploads/2018/08/VOD_shutterstock.jpg</fanart>
@@ -37,15 +37,3 @@
 </channel>
 </channels>
 --------------------------------------------------------------------------------------------------
-<channels>
-<channel>
-<name>[B][COLOR red]AVISO[/COLOR][/B]: Addon de uso exclusivo apenas para algumas pessoas selecionadas.</name>
-<thumbnail>https://</thumbnail>
-<externallink>https://</externallink>
-<info>PROIBIDA A DIVULGAÇÃO EM MASSA DESTE ADDON.
-  
- QUALQUER TIPO DE DIVULGAÇÃO CAUSARA A DESCONTINUAÇÃO DESTE ADDON PARA O PUBLICO ALVO!
-</info>
-</channel>
-</channels>
-......................................................................................
