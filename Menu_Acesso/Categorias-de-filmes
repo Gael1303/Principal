@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<layouttype>square</layouttype>
+<layouttype>thumbnail</layouttype>
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]AÇÃO[/COLOR] - [COLOR yellow]1.117[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]AÇÃO[/COLOR] - [COLOR gray]1.117[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/A%C3%A7%C3%A3o.xml</externallink>
 <fanart>https://</fanart>
@@ -16,7 +16,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] - [COLOR yellow]508[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] - [COLOR gray]508[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/animacao.xml</externallink>
 <fanart>https://</fanart>
@@ -28,7 +28,7 @@
 -----------------------------------
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]AVENTURA[/COLOR] - [COLOR yellow]44[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]AVENTURA[/COLOR] - [COLOR gray]44[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Aventura.xml</externallink>
 <fanart>https://</fanart>
@@ -41,7 +41,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]BIOGRAFIA[/COLOR] - [COLOR yellow]38[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]BIOGRAFIA[/COLOR] - [COLOR gray]38[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Biografia.xml</externallink>
 <fanart>https://</fanart>
@@ -56,7 +56,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]CLÁSSICOS[/COLOR] - [COLOR yellow]65[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]CLÁSSICOS[/COLOR] - [COLOR gray]65[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/classicos.xml</externallink>
 <fanart>https://</fanart>
@@ -70,7 +70,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]COMÉDIA[/COLOR] - [COLOR yellow]446[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]COMÉDIA[/COLOR] - [COLOR gray]446[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/comedia.xml</externallink>
 <fanart>https://</fanart>
@@ -88,7 +88,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DOCUMENTARIOS[/COLOR] - [COLOR yellow]152[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]DOCUMENTARIOS[/COLOR] - [COLOR gray]152[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Documentarios.xml</externallink>
 <fanart>https://</fanart>
@@ -103,7 +103,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR yellow]637[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR gray]637[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/drama.xml</externallink>
 <fanart>https://</fanart>
@@ -117,7 +117,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FAROESTE[/COLOR] - [COLOR yellow]77[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]FAROESTE[/COLOR] - [COLOR gray]77[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Faroeste.xml</externallink>
 <fanart>https://</fanart>
@@ -131,7 +131,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FICÇÃO C.[/COLOR] - [COLOR yellow]251[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]FICÇÃO C.[/COLOR] - [COLOR gray]251[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/fic%C3%A7ao</externallink>
 <fanart>https://</fanart>
@@ -145,7 +145,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]GUERRA[/COLOR] - [COLOR yellow]168[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]GUERRA[/COLOR] - [COLOR gray]168[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/guerra.xml</externallink>
 <fanart>https://</fanart>
@@ -158,7 +158,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]LGBT[/COLOR] - [COLOR yellow]28[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]LGBT[/COLOR] - [COLOR gray]28[/COLOR]</name>
 <square>https://archive.org/download/icon_20220823/icon.png</square>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Lgbt.xml</externallink>
 <fanart>https://</fanart>
@@ -173,7 +173,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]LUTA[/COLOR] - [COLOR yellow]28[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]LUTA[/COLOR] - [COLOR gray]28[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Luta.xml</externallink>
 <fanart>https://</fanart>
@@ -186,7 +186,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]MAFIA[/COLOR] - [COLOR yellow]35[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]MAFIA[/COLOR] - [COLOR gray]35[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Mafia.xml</externallink>
 <fanart>https://images8.alphacoders.com/714/thumb-1920-714662.png</fanart>
@@ -201,7 +201,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]NACIONAIS[/COLOR] - [COLOR yellow]293[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]NACIONAIS[/COLOR] - [COLOR gray]293[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/nacional.xml</externallink>
 <fanart>https://images8.alphacoders.com/714/thumb-1920-714662.png</fanart>
@@ -213,7 +213,7 @@
 --------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]RELIGIÃO[/COLOR] - [COLOR yellow]64[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]RELIGIÃO[/COLOR] - [COLOR gray]64[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/religiosos.xml</externallink>
 <fanart>https://</fanart>
@@ -225,7 +225,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]ROMANCE[/COLOR] - [COLOR yellow]509[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]ROMANCE[/COLOR] - [COLOR gray]509[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/romance.xml</externallink>
 <fanart>https://</fanart>
@@ -241,7 +241,7 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]SUSPENSE[/COLOR] - [COLOR yellow]203[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]SUSPENSE[/COLOR] - [COLOR gray]203[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Suspense.xml</externallink>
 <fanart>https://</fanart>
@@ -254,7 +254,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]TERROR[/COLOR] - [COLOR yellow]615[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]TERROR[/COLOR] - [COLOR gray]615[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/terror.xml</externallink>
 <fanart>https://</fanart>
