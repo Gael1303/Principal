@@ -16,13 +16,13 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] - [COLOR gray]508[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] - [COLOR gray]510[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/animacao.xml</externallink>
 <fanart>https://</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]</info>
 
- <date>2022.08.23</date>  
+ <date>2022.08.29</date>  
   </channel>
 </channels>
 -----------------------------------
@@ -103,13 +103,13 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR gray]637[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR gray]639[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/drama.xml</externallink>
 <fanart>https://</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]</info>
 
- <date>2022.08.24</date> 
+ <date>2022.08.29</date> 
   </channel>
 </channels>
 
@@ -241,13 +241,13 @@
 
 <channels>                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]SUSPENSE[/COLOR] - [COLOR gray]203[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]SUSPENSE[/COLOR] - [COLOR gray]206[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Suspense.xml</externallink>
 <fanart>https://</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]</info>
 
- <date>2022.08.26</date>  
+ <date>2022.08.29</date>  
   </channel>
 </channels>
 
