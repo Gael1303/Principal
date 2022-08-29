@@ -20,19 +20,6 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue][B]AMAZON PRIME VIDEO[B][/COLOR]</name>
-		<thumbnail>https://tudosobretudo.net/wp-content/uploads/2020/03/Amazon-Prime-Video.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Prime_Video.xml</externallink>
-		<fanart>https://vejasp.abril.com.br/wp-content/uploads/2022/05/amazon.jpeg</fanart>
-		<info>
-[B]SÉRIES DISPONIVEIS PRIME VIDEO[/B]
-</info>
-	</channel>
-</channels>
------------------------------------------------------------------------------------------------------------------------------
-
-<channels>
-	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [B]APPLE TV+[/B]</name>
 		<thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Apple_tv.xml</externallink>
@@ -127,6 +114,18 @@
 	</channel>
 </channels>
 
+-----------------------------------------------------------------------------------------------------------------------------
+<channels>
+	<channel>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue][B]PRIME VIDEO[/B][/COLOR]</name>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41mpv9rBhmL.png</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Prime_Video.xml</externallink>
+		<fanart>https://vejasp.abril.com.br/wp-content/uploads/2022/05/amazon.jpeg</fanart>
+		<info>
+[B]SÉRIES DISPONIVEIS PRIME VIDEO[/B]
+</info>
+	</channel>
+</channels>
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
