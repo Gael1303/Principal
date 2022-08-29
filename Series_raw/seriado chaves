@@ -1,20 +1,17 @@
 ///////////CHAVES
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]1ª Temporada[/B][/COLOR] </title>
+<title>Chaves - 1ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8e52f0f9a031cc5908434ab4b94a4995a306f6b</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/mA1ZqoGwELDsyYkHMQfyEPHIccu.jpg</thumbnail>
 <genre></genre>
 </item> 
 
-<item>
-<title>[COLOR cyan][B]------------------------------------[/B][/COLOR] </title>
-<thumbnail>https://image.tmdb.org/t/p/w342/e8ntXD3siE0NAYwnTGncwKpIGLz.jpg</thumbnail>
-</item>
+
 
 
 <item>
-<title>[COLOR yellow][B]2ª Temporada[/B][/COLOR] </title>
+<title>>Chaves - 2ª Temporada</title>
 <thumbnail>https://image.tmdb.org/t/p/w342/e8ntXD3siE0NAYwnTGncwKpIGLz.jpg</thumbnail>
 </item>
 
@@ -147,17 +144,8 @@
 <genre></genre>
 </item> 
 
-
 <item>
-<title>[COLOR cyan][B]------------------------------------[/B][/COLOR] </title>
-<thumbnail>https://image.tmdb.org/t/p/w342/e8ntXD3siE0NAYwnTGncwKpIGLz.jpg</thumbnail>
-</item>
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>[COLOR yellow][B]5ª Temporada[/B][/COLOR] </title>
+<title>Chaves - 5ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4bd774743b29ff9e95817837270a9d78f16697b0</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg</thumbnail>
 <genre></genre>
@@ -165,7 +153,7 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]6ª Temporada[/B][/COLOR] </title>
+<title>>Chaves - 6ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:543d9e3922279fd6ff9c96625ef61a12febe0e05</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg</thumbnail>
 <genre></genre>
@@ -173,7 +161,7 @@
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>[COLOR yellow][B]7ª Temporada[/B][/COLOR] </title>
+<title>>Chaves - 7ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f2c00125597922fdb94eeb4264aba356b5ce62b</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3nwMEGhF9riFRJtqUsxCxeZL6Q5.jpg</thumbnail>
 <genre></genre>
