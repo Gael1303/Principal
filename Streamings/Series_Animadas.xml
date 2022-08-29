@@ -54,7 +54,7 @@ A Casa do Mickey Mouse é uma série de desenho animado estadunidense da Turma d
 </channels>
 ----------------------------------------
 
-<channels>Disney
+<channels>
 <channel>
 <name>A Familia Addams [COLOR yellow]7.1[/COLOR]</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20familia%20addams</externallink>
@@ -67,7 +67,7 @@ Uma família horripilante, encantadora, sarcástica e hilária, que passa por to
 </channels>
 
 -------------------------------
-<channels>Disney
+<channels>
 <channel>
 <name>A Guarda do Leao [COLOR yellow]6.5[/COLOR]</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20a%20guarda%20do%20leao</externallink>
@@ -78,8 +78,6 @@ Uma família horripilante, encantadora, sarcástica e hilária, que passa por to
 Vinte anos após o inesquecível sucesso de O Rei Leão e O Rei Leão 2 – O Reino de Simba, o encantador universo dos reis da floresta retorna para ser apresentado a uma nova geração.</info>
 </channel>
 </channels>
-<channels>Disney
-<channel>
 
  <channels><channel> <name>A Jornada Heroica do Principe Ivandoe[COLOR yellow]7.0[/COLOR]</name>
 ---<externallink>https://github.com/Gael1303/Principal/raw/main/Desenhos_raw/ivando%C3%A9</externallink>
@@ -124,8 +122,6 @@ O desenho conta a história de um menino de 8 anos chamado Mac, que foi obrigado
 <genre>Comedia</genre>
 <aired>2010/08/23</aired>
 <info>
-
-
 Agora em uma versão adolescente, a pantera ainda se livra de todas as encrencas sem dizer uma palavra, cheia de malandragem e dividindo aventuras com seus antigos amigos e novos companheiros de animação .
 </info>
 </channel>
