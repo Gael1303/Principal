@@ -2,6 +2,25 @@
 
 <layouttype>thumbnail</layouttype>
 
+
+<channels>
+	<channel>
+		<name>[COLOR yellow][B]≡[/B][/COLOR] POPULARES</name>
+		<thumbnail>https://play-lh.googleusercontent.com/c1k6gNwaVPYLjzmgqLwoddNYyg0I-F7EzZ0sV1F-n-3PjH945FPizYDWWpERVq4Rd_s</thumbnail>
+		<externallink>https://</externallink>
+		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
+		<info>[COLOR yellow][B]Previsoes:[/B][/COLOR]
+	
+	
+[B]FILMES MAIS POPULARES DE ACORDO COM PESQUISAS GOOGLE.[/B]
+		
+			
+
+		</info>
+	</channel>
+</channels>
+-----------------------------------------------------------------------------------------------------------------------------
+
 <channels>
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] LANÇAMENTOS 2022</name>
@@ -9,8 +28,7 @@
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
 		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
 		<info>[COLOR yellow][B]Previsoes:[/B][/COLOR]
-	
-	
+
 [B]Thor: Amor e Trovao - 08/09[/B]
 		
 			
@@ -26,14 +44,14 @@
 		<thumbnail>https://i.pinimg.com/originals/72/b0/48/72b0480f7f73667acecf9344dc2c5716.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lancamentos_cinema.xml</externallink>
 		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
-		<info>[B]FILMES AQUI SE ENCONTRAM COM AUDIO E IMAGEM DE CINEMA[/B]</info>
+<info>[B]FILMES AQUI SE ENCONTRAM COM AUDIO E IMAGEM DE CINEMA[/B]</info>
 	</channel>
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] GENEROS</name>
-		<thumbnail>https://static.vecteezy.com/ti/vetor-gratis/p3/2180999-elementos-do-genero-do-filme-vetor.jpg</thumbnail>
+		<thumbnail>https://thumbs.dreamstime.com/b/conjunto-de-%C3%ADcones-glifo-preto-sombra-categorias-filme-diferentes-tipos-filmes-populares-g%C3%AAneros-cinema-cinematografia-comum-181060909.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Categorias_de_filmes.xml</externallink>
 		<info>
 [B]UM ACERVO BACANA COM MAIS DE 15 GENEROS DE FILMES E COM 2 OU MAIS SERVIDORES.[/B]
@@ -80,19 +98,7 @@
 </info>
 	</channel>
 </channels>
------------------------------------------------------------------------------------------------------------------------------
-<channels>
-	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] IMAX</name>
-		<thumbnail>https://e7.pngegg.com/pngimages/14/981/png-clipart-belgium-film-imax-kinepolis-product-belgium-film.png</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/imax.xml</externallink>
-		<fanart>https://www.hardware.com.br/wp-content/uploads/static/wp/2022/06/02/1-2.jpg</fanart>
-		<info>
-[B]QUER TER UM CINEMA EM CASA? ENTÃO ESTA NO LUGAR CERTO[/B]
-</info>
-	</channel>
-</channels>
------------------------------------------------------------------------------------------------------------------------------
+----------------------------------------------------------
 <channels>
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] DOLBY VISION</name>
@@ -109,18 +115,4 @@
 </info>
 	</channel>
 </channels>
------------------------------------------------------------------------------------------------------------------------------
-<channels>
-<channel>
-<name>[COLOR red][B]≡[/B][/COLOR] LINK DIRETO</name>
-<thumbnail>https://archive.org/download/filmes-diversos-zokos/Filmes%20Diversos%20Zokos.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://d2p7ncqs8iaoqd.cloudfront.net/uploads/2021/05/GENERO.jpg</fanart>
-<info>
-[B]ABA COM FILMES COM LINK DIRETO (UM CLIQUE)[/B]
 
-[COLOR yellow]*OBS[/COLOR]: RECOMENDADO USAR UM PLAYER EXTERNO: JUST (VIDEO) PLAYER OU MX PLAYER
-</info>
-</channel>
-</channels>
-.....................................................................................
