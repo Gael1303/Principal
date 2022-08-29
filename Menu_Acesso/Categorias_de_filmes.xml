@@ -62,24 +62,68 @@ Data: 2022.08.26
 </info>  
   </channel>
 </channels>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
+--------------------------------------------------------------
 <channels>
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]COMÉDIA[/COLOR]  [COLOR gray]446[/COLOR]</name>
 <thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/comedia.xml</externallink>
-
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
-  </channel>
+</channel>
+</channels>
+-------------------------------------------------------
+--------------------------------------------------------------------------
+<channels>
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]DOCUMENTARIOS[/COLOR]  [COLOR gray]152[/COLOR]</name>
+<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Documentarios.xml</externallink>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+  Data: 2022.08.26 
+</info>
+  
+</channel>
+</channels>
+----------------------------------------------------------------------------
+<channels>
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]DRAMA[/COLOR]  [COLOR gray]639[/COLOR]</name>
+<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<externallink>https://github.com/Gael1303/Principal/raw/main/Generos/drama.xml</externallink>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+  
+Data: 2022.08.26 
+</info>
+</channel>
+</channels>
+-----------------------------------------------------
+<channels>
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]FAROESTE[/COLOR]  [COLOR gray]77[/COLOR]</name>
+<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Faroeste.xml</externallink>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+  
+Data: 2022.08.26 
+</info>
+</channel>
+</channels>
+---------------------------------------------------------
+<channels>                                                     
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]FICÇÃO C[/COLOR]  [COLOR gray]251[/COLOR]</name>
+<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/fic%C3%A7ao</externallink>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+  
+Data: 2022.08.26 
+</info>
+</channel>
 </channels>
 
-
-
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
