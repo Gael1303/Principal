@@ -1,44 +1,49 @@
-<channels>                                                     
+<?xml version="1.0" encoding="utf-8"
+standalone="yes"?>
+
+<channels>
+
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]AÇÃO[/COLOR] - [COLOR gray]1.117[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]AÇÃO[/COLOR] - [COLOR gray]1.117[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/A%C3%A7%C3%A3o.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 ------------------------------------------------------------------
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] - [COLOR gray]510[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] - [COLOR gray]510[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/animacao.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>  
   </channel>
-</channels>
+
 -----------------------------------
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]AVENTURA[/COLOR] - [COLOR gray]44[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]AVENTURA[/COLOR] - [COLOR gray]44[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Aventura.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
   </channel>
-</channels>
+
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]BIOGRAFIA[/COLOR] - [COLOR gray]38[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]BIOGRAFIA[/COLOR] - [COLOR gray]38[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Biografia.xml</externallink>
 
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
@@ -46,14 +51,14 @@ Data: 2022.08.26
 Data: 2022.08.26 
 </info>
   </channel>
-</channels>
+
 ------------------------------------------------------------
 
 
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]CLÁSSICOS[/COLOR] - [COLOR gray]65[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]CLÁSSICOS[/COLOR] - [COLOR gray]65[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/classicos.xml</externallink>
 
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
@@ -61,97 +66,97 @@ Data: 2022.08.26
 Data: 2022.08.26 
 </info>  
   </channel>
-</channels>
+
 --------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]COMÉDIA[/COLOR] - [COLOR gray]446[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]COMÉDIA[/COLOR] - [COLOR gray]446[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/comedia.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 -------------------------------------------------------
 --------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]DOCUMENTARIOS[/COLOR] - [COLOR gray]152[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]DOCUMENTARIOS[/COLOR] - [COLOR gray]152[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Documentarios.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   Data: 2022.08.26 
 </info>
   
 </channel>
-</channels>
+
 ----------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR gray]639[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR gray]639[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/drama.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 -----------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]FAROESTE[/COLOR] - [COLOR gray]77[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]FAROESTE[/COLOR] - [COLOR gray]77[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Faroeste.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 ---------------------------------------------------------------------
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]FICÇÃO C[/COLOR] - [COLOR gray]251[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]FICÇÃO C[/COLOR] - [COLOR gray]251[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/fic%C3%A7ao</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 ----------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]GUERRA[/COLOR] - [COLOR gray]168[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]GUERRA[/COLOR] - [COLOR gray]168[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/guerra.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 -------------------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]LGBT[/COLOR] - [COLOR gray]28[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]LGBT[/COLOR] - [COLOR gray]28[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Lgbt.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 -------------------------------------------------------------------------------------
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]NACIONAIS[/COLOR] - [COLOR gray]293[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]NACIONAIS[/COLOR] - [COLOR gray]293[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/nacional.xml</externallink>
 <fanart>https://images8.alphacoders.com/714/thumb-1920-714662.png</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
@@ -159,53 +164,53 @@ Data: 2022.08.26
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 ----------------------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]RELIGIÃO[/COLOR] - [COLOR gray]64[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]RELIGIÃO[/COLOR] - [COLOR gray]64[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/religiosos.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 -------------------------------------------------------------------------------------------
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]ROMANCE[/COLOR] - [COLOR gray]509[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]ROMANCE[/COLOR] - [COLOR gray]509[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/romance.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 -----------------------------------------------------------------------------------------
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]SUSPENSE[/COLOR] - [COLOR gray]206[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]SUSPENSE[/COLOR] - [COLOR gray]206[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Suspense.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
+
 ------------------------------------------------------------------------------------------
-<channels>                                                     
+                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue]CINE[/COLOR] [COLOR white]TERROR[/COLOR] - [COLOR gray]615[/COLOR]</name>
-<thumbnail>https://archive.org/download/icon_20220823/icon.png</thumbnail>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR darkpink]CINE[/COLOR] [COLOR white]TERROR[/COLOR] - [COLOR gray]615[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/terror.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
 </info>
 </channel>
-</channels>
 
+</channels>
