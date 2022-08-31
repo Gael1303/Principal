@@ -1,5 +1,31 @@
-<channels>
-<channel>
+<channels><channel> <name>A Casa do Dragão</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie-casa-do-dragao</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/ruHPkmmAwBTCzNXtHot18rs6ctN.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/Aa9TLpNpBMyRkD8sPJ7ACKLjt0l.jpg</fanart>
+<genre>Drama, Action & Adventure, Sci-Fi & Fantasy</genre> <aired>2022/08/21</aired> <studio>HBO</studio>
+<info>[COLOR cyan][B]Streaming[/COLOR][/B]: [B]HBO[/B]
+
+200 anos antes dos eventos de "Game of Thrones", os Targaryen estava no ápice de seu poder, tendo inúmeros dragões sob seu comando, mas, nem tudo dura para sempre. Em "A Casa do Dragão", o início do fim da dinastia Targaryen.</info> </channel></channels>
+---------------------------------------------
+
+<channels><channel> <name>Mulher Hulk: Defensora De Heróis</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20she-hulk</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/original/tnaznOwdOiMnGJ87zsQwEO1rV6w.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/xdcQMtVf0JXOhgXOOTAI6tNQXRP.jpg</fanart>
+<genre>Comédia, Herói</genre> <aired>2022/08/18</aired> <studio>DISNEY+</studio>
+<info>[COLOR cyan][B]Streaming[/COLOR][/B]: [B]DISNEY+[/B] 
+
+Jennifer Walters — uma advogada especializada em casos envolvendo super-humanos — deve lidar com a complicada vida de uma mulher solteira de trinta e poucos anos que, por acaso, é uma hulk superpoderosa de 2 metros.</info> 
+</channel></channels>
+-----------------------------------
+
+<channels><channel> <name>Sandman</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20sandman</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q54qEgagGOYCq5D1903eBVMNkbo.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/6KyJeOW7vTW0czdR0S6wzXAcfmw.jpg</fanart>
+<genre>Sci-Fi & Fantasy, Drama</genre> <aired>2022/08/05</aired> <studio>NETFLIX</studio>
+<info>[COLOR cyan][B]Streaming[/COLOR][/B]: [B]NETFLIX[/B]
+  
+  Um mago tenta capturar a Morte para barganhar pela vida eterna, no entanto, acaba prendendo seu irmão mais novo, Sonho. Temendo por sua segurança, o mago o mantém preso em uma garrafa de vidro por décadas. Após sua fuga, Sonho, também conhecido como Morpheus, parte em busca de seus poderosos objetos perdidos.</info> </channel></channels>
+---------------------------------------------
+<channels><channel>
 <name>Stranger Things</name>
 <thumbnail>https://www.themoviedb.org/t/p/original/9URpkzaMMLK5bdJ1a5HBafzYEWj.jpg</thumbnail>
 <fanart>https://theshoppers.com/pt-br/wp-content/uploads/sites/10/resumo-de-stranger-things-the-shoppers.jpg</fanart>
