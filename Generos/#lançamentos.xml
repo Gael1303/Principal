@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"
+standalone="yes"?>
+
+<items>
+
 <item> 
 <title>O Telefone Preto</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c53a6d5be370eb977407305bbc1e279b532d303</link>
@@ -3795,3 +3800,4 @@ para realmente se conhecer, o Sr. Anderson tera que escolher seguir o coelho bra
 <info>Situado ao longo de 24 horas em Londres, um homem segue uma jornada ousada e imprudente de auto libertação.</info>
 <genre>Suspense</genre>
 </item>
+</items>
