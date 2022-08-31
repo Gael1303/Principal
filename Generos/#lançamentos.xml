@@ -1,4 +1,18 @@
 <item> 
+<title>O Telefone Preto</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c53a6d5be370eb977407305bbc1e279b532d303</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cIh164JVqUGwVc5fkHsMKkfi9aV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h9zyS1LrufwLI9FyhiPjPWsppEK.jpg</fanart>
+<genre>Terror, Thriller</genre>
+<year>2022</year>
+<rate>7.4</rate>
+<aired>2022/05/29</aired>
+<duration>6120</duration>
+<info>Finney Shaw, um menino tímido, mas inteligente, de 13 anos, é sequestrado por um assassino sádico e preso em um porão à prova de som, onde gritar é de pouca utilidade. Quando um telefone desconectado na parede começa a tocar, Finney descobre que pode ouvir as vozes das vítimas anteriores do assassino. E eles estão determinados a garantir que o que aconteceu com eles não aconteça com Finney.</info>
+</item>
+-------------------------------------
+
+<item> 
 <title>Seul em Alta Velocidade</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b88c5254feb7d5486739b4bf0e9b795648ce9a0d</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJlannhekQTz6jzBojWHMNdDbEu.jpg</thumbnail>
@@ -637,19 +651,7 @@ Por mais de uma década, os pais Andy e Vicky estão fugindo, desesperados para 
 ----------------------------------------------------------------------------
 ----------------------------------------------------------------------------
 
-<item> 
-<title>The Black Phone (LEG)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3feeb0a65e43e2360ecbd3b85cc7e4522b9e4e9d</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cIh164JVqUGwVc5fkHsMKkfi9aV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/h9zyS1LrufwLI9FyhiPjPWsppEK.jpg</fanart>
-<genre>Terror, Thriller</genre>
-<year>2022</year>
-<rate>7.4</rate>
-<aired>2022/05/29</aired>
-<duration>6120</duration>
-<info>Finney Shaw, um menino tímido, mas inteligente, de 13 anos, é sequestrado por um assassino sádico e preso em um porão à prova de som, onde gritar é de pouca utilidade. Quando um telefone desconectado na parede começa a tocar, Finney descobre que pode ouvir as vozes das vítimas anteriores do assassino. E eles estão determinados a garantir que o que aconteceu com eles não aconteça com Finney.</info>
-</item>
-----------------------------------------------------------------------------
+-----------------------------------
 
 <item> 
 <title>South Park: Guerras do Streaming Parte 2</title>
