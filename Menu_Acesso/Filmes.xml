@@ -4,38 +4,32 @@
 
 
 <channels>
-	<channel>
-		<name>[COLOR yellow][B]≡[/B][/COLOR] POPULARES</name>
-		<thumbnail>https://play-lh.googleusercontent.com/c1k6gNwaVPYLjzmgqLwoddNYyg0I-F7EzZ0sV1F-n-3PjH945FPizYDWWpERVq4Rd_s</thumbnail>
-		<externallink>https://</externallink>
-		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
-		<info>[COLOR yellow][B]Previsoes:[/B][/COLOR]
+<channel>
+<name>[COLOR yellow][B]≡[/B][/COLOR]MAIS POPULARES</name>
+<thumbnail>https://play-lh.googleusercontent.com/c1k6gNwaVPYLjzmgqLwoddNYyg0I-F7EzZ0sV1F-n-3PjH945FPizYDWWpERVq4Rd_s</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
+<info>[COLOR yellow][B]Previsoes:[/B][/COLOR]
 	
 	
 [B]FILMES MAIS POPULARES DE ACORDO COM PESQUISAS GOOGLE.[/B]
-		
-			
-
-		</info>
-	</channel>
+</info>
+</channel>
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
 
 <channels>
-	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] LANÇAMENTOS 2022</name>
-		<thumbnail>https://thumbs.dreamstime.com/b/clapperboard-conceito-dos-filmes-83903796.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
-		<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
-		<info>[COLOR yellow][B]Previsoes:[/B][/COLOR]
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] LANÇAMENTOS 2022</name>
+<thumbnail>https://thumbs.dreamstime.com/b/clapperboard-conceito-dos-filmes-83903796.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
+<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
+<info>[COLOR yellow][B]Previsoes:[/B][/COLOR]
 
 [B]Thor: Amor e Trovao - 08/09[/B]
-		
-			
-[B]OS MAIS RECENTES LANÇAMENTOS EM VOD E STREAMINGS PARA VOCES[/B]
-		
-		</info>
-	</channel>
+
+</info>
+</channel>
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
@@ -88,24 +82,24 @@
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
-	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] 3D</name>
-		<thumbnail>https://play-lh.googleusercontent.com/OlYjC6F5kWdM7OuXgReDvi1iL4kx0RHovpQ2Stdpj1UhJISjQ5AtoaLl4qDbDmjd6jGq</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/3d.xml</externallink>
-		<fanart>https://t.ctcdn.com.br/TTL_lJTbaPOcVQ-JopMiEaGd7QQ=/50x0:1720x940/1400x788/smart/i371388.jpeg</fanart>
-		<info>
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] 3D</name>
+<thumbnail>https://play-lh.googleusercontent.com/OlYjC6F5kWdM7OuXgReDvi1iL4kx0RHovpQ2Stdpj1UhJISjQ5AtoaLl4qDbDmjd6jGq</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/3d.xml</externallink>
+<fanart>https://t.ctcdn.com.br/TTL_lJTbaPOcVQ-JopMiEaGd7QQ=/50x0:1720x940/1400x788/smart/i371388.jpeg</fanart>
+<info>
 [B]FUNCIONAL APENAS EM PC,NOTEBOOK E TV COM FUNÇÃO 3D. NÃO SE ESQUEÇA DOS OCULOS[/B]</info>
 </info>
-	</channel>
+</channel>
 </channels>
 ----------------------------------------------------------
 <channels>
-	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] DOLBY VISION</name>
-		<thumbnail>https://news.mynavi.jp/article/20160123-ces2016_dolby/index_images/index.jpg</thumbnail>
-		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/Dolby_Vision.xml</externallink>
-		<fanart>https://www.hardware.com.br/static/wp/2019/12/25/90-4.jpg?fm=pjpg&ixlib=php-3.3.0</fanart>
-		<info>[B][COLOR red]AVISO!!![/COLOR]: Não utilize essa aba se voce nao possui um televisor com tela dolby vision. Pois,pode queimar seus leds por causa do brilho[/B]
+<channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] DOLBY VISION</name>
+<thumbnail>https://news.mynavi.jp/article/20160123-ces2016_dolby/index_images/index.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/Dolby_Vision.xml</externallink>
+<fanart>https://www.hardware.com.br/static/wp/2019/12/25/90-4.jpg?fm=pjpg&ixlib=php-3.3.0</fanart>
+<info>[B][COLOR red]AVISO!!![/COLOR]: Não utilize essa aba se voce nao possui um televisor com tela dolby vision. Pois,pode queimar seus leds por causa do brilho[/B]
 
 [B][COLOR red]●[/COLOR]Apenas filmes com audio original (EN)		
 [B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
@@ -113,6 +107,30 @@
 [B][COLOR red]●[/COLOR]Ajuste o buffer da sua box[/B]
 [B][COLOR red]●[/COLOR]Minimo de 700MB de memoria RAM livres[/B]
 </info>
-	</channel>
+</channel>
 </channels>
 
+<channels>
+<channel>
+<name>[COLOR yellow][B]≡[/B][/COLOR] OSCAR</name>
+<thumbnail>https://st1.bollywoodlife.com/wp-content/uploads/2019/02/Oscars.jpg</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://movies.mxdwn.com/wp-content/uploads/2022/03/The-Oscars.jpeg</fanart>
+<info>
+[B]FILMES INDICADOS E VENCEDORES DE CADA ANO[/B]</info>
+</info>
+</channel>
+</channels>
+----------------------------------------------------------
+<channels>
+<channel>
+<name>[COLOR yellow][B]≡[/B][/COLOR] STREAMINGS</name>
+<thumbnail>https://media.istockphoto.com/photos/service-screen-with-remote-control-in-hand-picture-id1174414266?k=20&m=1174414266&s=170667a&w=0&h=y1yWUSaB0OsPIu7nw7kLH1ZTRTX9V7nqeYhw5_RnOSg=</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://www.showmetech.com.br/wp-content/uploads//2020/01/plataformas-de-streaming.jpg</fanart>
+<info>
+[B]FILMES ORIGINAIS SEPARADOS POR PLATAFORMAS DE STREAMINGS[/B]</info>
+</info>
+</channel>
+</channels>
+----------------------------------------------------------
