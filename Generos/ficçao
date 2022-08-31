@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<layouttype>thumbnail</layouttype>
+<layouttype>
 
 <item>
 <title>Alien Vs. Predador</title>
@@ -30,7 +30,6 @@
 <info>Entre os eventos de Halo 4 e Halo 5: Guardians… Halo: Nightfall conta a dramatica historia do lendario caçador de homens e oficial da Inteligência Naval Jameson Locke e sua equipe, presos em um horrivel ataque biologico enquanto investigavam atividades terroristas na distante colônia. mundo de Sedra. Enquanto desenrolam uma trama que os leva a um artefato antigo e infernal, eles serao forçados a lutar por sua sobrevivência, questionar tudo e, finalmente, escolher entre sua lealdade e suas vidas.</info>
 <aired>2014/02/05</aired>
 <year>2014</year>
-<date>2014.02.05</date>
  <duration>7200</duration>
 </item>
 -------------------------------------
@@ -3132,3 +3131,4 @@ Depois de ser morto em combate, o soldado Ray Garrison é trazido de volta à vi
 <duration>7020</duration>
 <info>Três pessoas em uma missão de dois anos para Marte enfrentam um dilema fatal depois que um passageiro inesperado coloca todos em risco.</info>
 </item>
+</layouttype>
