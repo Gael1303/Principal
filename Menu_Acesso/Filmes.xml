@@ -92,9 +92,9 @@ standalone="yes"?>
 </channel>
 
 <channel>
-<name>teste</name>
+<name>area de teste</name>
 <thumbnail>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/teste-1</thumbnail>
-<externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Populares.xml</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/teste-1</externallink>
 <fanart>https://</fanart>
 <info>area de teste</info>
 </channel>
