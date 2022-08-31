@@ -90,4 +90,14 @@ standalone="yes"?>
 <fanart>https://www.showmetech.com.br/wp-content/uploads//2020/01/plataformas-de-streaming.jpg</fanart>
 <info>[B]FILMES ORIGINAIS SEPARADOS POR PLATAFORMAS DE STREAMINGS[/B]</info>
 </channel>
+
+<channel>
+<name>teste</name>
+<thumbnail>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/teste-1</thumbnail>
+<externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Populares.xml</externallink>
+<fanart>https://</fanart>
+<info>area de teste</info>
+</channel>
 </channels>
+
+
