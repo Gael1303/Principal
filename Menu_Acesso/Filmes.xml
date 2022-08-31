@@ -95,6 +95,18 @@
 ----------------------------------------------------------
 <channels>
 <channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] OSCAR</name>
+<thumbnail>https://st1.bollywoodlife.com/wp-content/uploads/2019/02/Oscars.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Oscar/Anos_Oscar</externallink>
+<fanart>https://movies.mxdwn.com/wp-content/uploads/2022/03/The-Oscars.jpeg</fanart>
+<info>
+[B]FILMES INDICADOS E VENCEDORES DE CADA ANO[/B]</info>
+</info>
+</channel>
+</channels>
+----------------------------------------------------------
+<channels>
+<channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] DOLBY VISION</name>
 <thumbnail>https://news.mynavi.jp/article/20160123-ces2016_dolby/index_images/index.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/Dolby_Vision.xml</externallink>
@@ -110,18 +122,7 @@
 </channel>
 </channels>
 
-<channels>
-<channel>
-<name>[COLOR yellow][B]≡[/B][/COLOR] OSCAR</name>
-<thumbnail>https://st1.bollywoodlife.com/wp-content/uploads/2019/02/Oscars.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://movies.mxdwn.com/wp-content/uploads/2022/03/The-Oscars.jpeg</fanart>
-<info>
-[B]FILMES INDICADOS E VENCEDORES DE CADA ANO[/B]</info>
-</info>
-</channel>
-</channels>
-----------------------------------------------------------
+---------------------------------------------------------
 <channels>
 <channel>
 <name>[COLOR yellow][B]≡[/B][/COLOR] STREAMINGS</name>
