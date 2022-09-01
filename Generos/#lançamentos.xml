@@ -5,6 +5,20 @@ standalone="yes"?>
 
 ----------------------------------------------------------------------------
 <item> 
+<title>O Telefone Preto</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c53a6d5be370eb977407305bbc1e279b532d303</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cIh164JVqUGwVc5fkHsMKkfi9aV.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/h9zyS1LrufwLI9FyhiPjPWsppEK.jpg</fanart>
+<genre>Terror, Thriller</genre>
+<year>2022</year>
+<rate>7.4</rate>
+<aired>2022/05/29</aired>
+<duration>6120</duration>
+<info>Finney Shaw, um menino tímido, mas inteligente, de 13 anos, é sequestrado por um assassino sádico e preso em um porão à prova de som, onde gritar é de pouca utilidade. Quando um telefone desconectado na parede começa a tocar, Finney descobre que pode ouvir as vozes das vítimas anteriores do assassino. E eles estão determinados a garantir que o que aconteceu com eles não aconteça com Finney.</info>
+</item>
+-------------------------------------    
+    
+<item> 
 <title>Vizinhos</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d64dffd4e7bbb3e7ef8f7fe5f517bb6b33f7a00$nome=Vizinhos - 1080p Full</link>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:084c393e3d161a4f8d06c81c78040aea2a7941ea$nome=Vizinhos - 1080p HDR</link>
@@ -58,19 +72,7 @@ standalone="yes"?>
 </item>
 ----------------------------------------------------------------------------
     
-<item> 
-<title>O Telefone Preto</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c53a6d5be370eb977407305bbc1e279b532d303</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cIh164JVqUGwVc5fkHsMKkfi9aV.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/h9zyS1LrufwLI9FyhiPjPWsppEK.jpg</fanart>
-<genre>Terror, Thriller</genre>
-<year>2022</year>
-<rate>7.4</rate>
-<aired>2022/05/29</aired>
-<duration>6120</duration>
-<info>Finney Shaw, um menino tímido, mas inteligente, de 13 anos, é sequestrado por um assassino sádico e preso em um porão à prova de som, onde gritar é de pouca utilidade. Quando um telefone desconectado na parede começa a tocar, Finney descobre que pode ouvir as vozes das vítimas anteriores do assassino. E eles estão determinados a garantir que o que aconteceu com eles não aconteça com Finney.</info>
-</item>
--------------------------------------
+
 <item> 
 <title>First Love: Descobrindo o Amor</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:89188462de964ffc3af6c04bd7a3ab7fa1f842e6</link>
