@@ -3,6 +3,61 @@ standalone="yes"?>
 
 <items>
 
+----------------------------------------------------------------------------
+<item> 
+<title>Vizinhos</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d64dffd4e7bbb3e7ef8f7fe5f517bb6b33f7a00$nome=Vizinhos - 1080p Full</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:084c393e3d161a4f8d06c81c78040aea2a7941ea$nome=Vizinhos - 1080p HDR</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oT7388wlquvpGN3LPxVeD849QAI.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/iDzduWwkTICb1lAQoLMWLrySUNs.jpg</fanart>
+<genre>Comédia</genre>
+<year>2022</year>
+<rate>5.7</rate>
+<aired>2021/09/01</aired>
+<duration>6600</duration>
+<info>Na trama, Walter entra em colapso por estresse, e deixa a cidade grande para relaxar… Até descobrir que o seu novo vizinho é muito animado.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Passei por Aqui</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7030d8204d2099456ddf744c0ad19d5086bc278a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/txyWmAMhoy6liIueQhBnjqcbrSr.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/14wIOjYCtfbO9EHTqCbiU9wncMz.jpg</fanart>
+<genre>Suspense</genre>
+<year>2022</year>
+<rate>6.3</rate>
+<aired>2022/08/19</aired>
+<duration>6600</duration>
+<info>Um grafiteiro que picha as casas dos ricos descobre um segredo sombrio que coloca várias vidas em risco.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>A Gestora</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5af054c7b7b0ab9095cf746b93e640850c2ab7f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hRqvE6dABictKuLwqQMzq6AptiZ.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/4pWQoCHCprGEGQjaF1QKxTdPdm5.jpg</fanart>
+<genre>Drama</genre>
+<year>2022</year>
+<rate>5.8</rate>
+<aired>2022/04/29</aired>
+<duration>6600</duration>
+<info>Uma jovem ambiciosa faz um acordo inusitado com a chefe. Mas quando começam a surgir dúvidas, pode ser tarde demais para voltar atrás.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Ilusões perdidas</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:625fdea1eee7d98038a6ad05ec4f2c62ed51c964</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mjrVEuDdhaKouYz2ykwKGeryEyd.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cSCxGf1YSsNj3YxIGeWjbLUC9Xl.jpg</fanart>
+<genre>Drama, Romance</genre>
+<year>2022</year>
+<rate>7.4</rate>
+<aired>2022/06/09</aired>
+<duration>8940</duration>
+<info>Lucien é um jovem poeta desconhecido da França do século XIX. Ele tem grandes esperanças e quer escolher seu destino. Ele larga a gráfica de sua província natal para tentar a sorte em Paris, nos braços de sua protetora. Logo deixado por conta própria na fabulosa vila, o jovem rapaz vai descobrir os bastidores de um mundo condenado à lei do lucro e das falsidades. Uma comédia humana na qual tudo se compra e se vende, da literatura à imprensa, da política aos sentimentos, das reputações às almas. Ele vai amar, sofrer, e sobreviver às suas ilusões.</info>
+</item>
+----------------------------------------------------------------------------
+    
 <item> 
 <title>O Telefone Preto</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c53a6d5be370eb977407305bbc1e279b532d303</link>
