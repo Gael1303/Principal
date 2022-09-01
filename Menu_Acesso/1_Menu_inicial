@@ -26,4 +26,21 @@ standalone="yes"?>
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
 <info>[B]SÉRIES ANIMADAS VIA TORRENT[/B]</info>
 </channel>
+  
+<channel>
+<name>[B]STATUS DO ADDON[/B]: [COLOR green][B]ONLINE[/B][/COLOR]</name>
+<thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/2048px-Gtk-dialog-info.svg.png</thumbnail>
+<externallink>https://bit.ly/3Q7Jone</externallink>
+<fanart>https://</fanart>
+<info>Verifique as informações antes de acessar as abas do addon.
+
+[COLOR green]•[/COLOR]: ONLINE
+[COLOR yellow]•[/COLOR]: OFFLINE
+[COLOR red]•[/COLOR]: MANUTENÇÃO
+
+
+[COLOR yellow]Categoria em manutenção:[/COLOR]
+Nunhuma*
+</info>
+</channel>  
 </channels>
