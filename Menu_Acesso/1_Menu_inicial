@@ -34,13 +34,9 @@ standalone="yes"?>
 <fanart>https://</fanart>
 <info>Verifique as informações antes de acessar as abas do addon.
 
-[COLOR green]•[/COLOR]: ONLINE
-[COLOR yellow]•[/COLOR]: OFFLINE
-[COLOR red]•[/COLOR]: MANUTENÇÃO
-
-
 [COLOR yellow]Categoria em manutenção:[/COLOR]
-Nunhuma*
+
+- Nenhuma*
 </info>
 </channel>  
 </channels>
