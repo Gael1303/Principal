@@ -966,6 +966,22 @@
 <duration>3000</duration>
 </item> 
 
+<item>
+<title>Episodio 134</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8454e6607f6a026bf905d2a57d1157ed09db6e56</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 135</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3fe78f4e00489092da0e700627b92429b97c2f4</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
 
 <item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
