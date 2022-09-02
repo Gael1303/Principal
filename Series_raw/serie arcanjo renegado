@@ -8,8 +8,22 @@
 
 
 <item>
-<title>Arcanjo Renegado - 2ª Temporada</title>
+<title>[COLOR yellow]2ª Temporada[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>Arcanjo Renegado - T02 E01-4</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:48cce5bc2b04a6c8a7e5139b51ddc6f78d64c77e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>Arcanjo Renegado - T02 E05-6</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e2d0448dc066431cb591d9cf788ed8ad061fabb1</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/fEocazakBSDEoQMoJc3bR8AsmE5.jpg</thumbnail>
 <genre></genre>
 </item>
