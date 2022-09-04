@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="utf-8"
-standalone="yes"?>
 
 <channels>
-
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] FILMES</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-55-48-439.jpg</thumbnail>
@@ -10,7 +7,9 @@ standalone="yes"?>
 <fanart>https://bravi.tv/wp-content/uploads/2018/08/VOD_shutterstock.jpg</fanart>
 <info>[B]UM ACERVO BACANA DE FILMES EM HD,FHD E 4K DUAL AUDIO.[/B]</info>
 </channel>
+</channels>
 
+<channels>
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] STREAMING</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-29-215.jpg</thumbnail>
@@ -18,7 +17,9 @@ standalone="yes"?>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2020/05/06113757/plataformas-de-streaming.jpg</fanart>
 <info>[B]VARIADAS SERIES SEPARADAS POR PLATAFORMAS DE STREAMINGS[/B]</info>
 </channel>
+</channels>
 
+<channels>
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] DESENHOS</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-46-998.jpg</thumbnail>
@@ -26,7 +27,9 @@ standalone="yes"?>
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
 <info>[B]SÉRIES ANIMADAS VIA TORRENT[/B]</info>
 </channel>
+</channels>
   
+<channels>
 <channel>
 <name>[B]STATUS DO ADDON[/B]: [COLOR green][B]ONLINE[/B][/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/2048px-Gtk-dialog-info.svg.png</thumbnail>
