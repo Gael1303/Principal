@@ -8,7 +8,7 @@
 ----------------------------------------------------------------------------
 <item>
 <title>Nope - 4K - Leg</title>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36db72f38ebf4497b8bd398e659bb85e11c07865</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36db72f38ebf4497b8bd398e659bb85e11c07865</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
 <aired>2022/07/20</aired>
 <genre>Terror, Mistério, Ficção científica, Thriller</genre>
@@ -16,8 +16,7 @@
 
 <item>
 <title>Top Gun: Maverick - 4K</title>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9f13521894181ccf34ef2aa181c8f110a24303$nome=Top Gun: Maverick - 4K (HDR)</link>
----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50dd5504bff8805a08b49048d3a0003c2505673e$nome=Top Gun: Maverick - 4K (SDR)</link>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e9f13521894181ccf34ef2aa181c8f110a24303</link>
 <thumbnail>https://dyncdn.me/mimages/29254/poster_opt.jpg</thumbnail>
 <aired>2022/08/23</aired>
 <genre>Action, Drama</genre>
@@ -25,8 +24,7 @@
 
 <item> 
 <title>DC Liga dos Superpets - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d66ba2956d9b00697b9a177850cf56c69f1abc7$nome=DC Liga dos Superpets - 4K</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3df6b2748312128188b4a1addb7d028dd01c5b5c$nome=DC League of Super-Pets (2160p) (EN)</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d66ba2956d9b00697b9a177850cf56c69f1abc7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sexnQm1YEJMYo7hZgVP1Y6rEyWz.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg</fanart>
 <genre>Animação, Ação, Família, Ficção científica, Comédia</genre>
@@ -60,21 +58,9 @@
 <aired>2022/08/05</aired>
 </item>
 ----------------
-<item> 
-<title>Treze Vidas: O Resgate - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7c519e68d5020b509ea2a5468d9416d20e711cf&dn=Treze.Vidas.O.Resgate.2022.WEB-DL.2160p.HDR-U.V2.EAC3.5.1.Dual-www.animestotais.xyz&tr=udp%3a%2f%2fexodus.desync.com%3a6969%2fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8sO4gjzLhxndxLtMrohGV2DD2Rw.jpg</thumbnail>
-<genre>Drama, Thriller</genre>
-<year>2022</year>
-<rate>7.8</rate>
-<aired>2022/07/29</aired>
-</item>
-
 <item>
 <title>Lightyear - 4K</title>
- ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:27b8b57cd2d2827512b29d4bf35812680ee86880$nome=Lightyear - 4K Full</link>
- ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee29ff334a0cb70908f18c24e51b294eaa1cff5d$nome=Lightyear - 4K Full V2</link>
- ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6379d97afd3be5a95ee2e2aa53e67f2091d055b2$nome=Lightyear - 4K</link>
+ ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6379d97afd3be5a95ee2e2aa53e67f2091d055b2</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wc3cGQUF4P2Jetawf7YqzaWQsNc.jpg</thumbnail>
 <aired>2022/06/16</aired>
 <year>2022</year>
@@ -91,22 +77,6 @@
 <aired>2022/05/17</aired>
 </item>
 
-<item> 
-<title>Chamas da Vingança - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cd5a5c78b216fe0694e613fe1da1b3872016daba&dn=Firestarter.2022.4K.UHD.2160p.HDR-U.V2.DTS-HD.5.1.Dual-www.animestotais.xyz</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4qU8xM8nFsXvUYSZsRQOdIti267.jpg</thumbnail>
-<genre>Thriller, Ficção científica</genre>
-<aired>2022/05/12</aired>
-</item>
-
-<item> 
-<title>Agente Oculto - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a338dd4940bd2eeba895fb462cb21801131343d7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1f10KUKW7KyNt8bF8NHmwbBQ9fs.jpg</thumbnail>
-<genre>Ação, Thriller, Aventura</genre>
-<rate>6.8</rate>
-<aired>2022/07/14</aired>
-</item>
 
 <item>
 <title>Jurassic World: Dominio - 4K</title>
@@ -226,15 +196,6 @@
 </item> 
 
 <item>
-<title>Free Guy - 4K</title>
----<link>https://animezey.xyz/0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Free%20Guy%20-%20Assumindo%20o%20Controle/Free.Guy.Assumindo.O.Controle.(2021).2160p.BluRay.REMUX.DTS-HD.7.1.HDR-U.HEV.DUAL-Hiro360.mkv</link>
-<thumbnail>https://ingresso-a.akamaihd.net/prd/img/movie/free-guy-assumindo-o-controle/55e1f7dc-7c1c-4577-8dd2-77d585cc2c51.jpg</thumbnail>
-<genre>Ficção, Aventura</genre>
-<year>2021</year>
-<aired>2021/08/19</aired>
-</item>
-
-<item>
 <title>Pokémon: Detetive Pikachu - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6cd70d193f92599b2a7d9702477de1b728db2f56</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lHwEhsUaB9D0gXO6M08H5tdb2Vx.jpg</thumbnail>
@@ -290,6 +251,42 @@
 <genre>Aventura, Ação, Ficção científica</genre>
 </item> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Vingadores: Era de Ultron - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7927cb715cbe2109c5dc9a349139ef38b11dd481</link>
+<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71wV2rzkFwL._AC_SL1022_.jpg</thumbnail>
+<genre>4K</genre>
+</item> 
+------------------------
+<item>
+<title>Guardiões da Galáxia - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba421c097ded6b7b7654c7b7013065882eaa526</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/xaY92XMToaSnBuvCui3LHzNGqZB.jpg</thumbnail>
+</item>
+----------------------------------
+<item>
+<title>Capitão América 2: O Soldado Invernal - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dd8c44c46e2e4a64d7fdea9bf56e0ffb889c7ce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/iBFPjLLHXkBojKpWDluJxnpM24h.jpg</thumbnail>
+</item>
+----------------------
+<item>
+<title>Thor: O Mundo Sombrio - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d4109f38cfbefa8fabab750091f08c5dd4c18b3</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/iiCJF71QoY0cU14wHusG9LMsSrC.jpg</thumbnail>
+<info> 
+</info>
+</item>
+----------------------
+<item>
+<title>Thor - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:486e7174ed99df144cf25b0f8d1cffa2ab1276e4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/prSfAi1xGrhLQNxVSUFh61xQ4Qy.jpg</thumbnail>
+</item>
+
 <item>
 <title>Homem aranha: Longe de casa - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ced02a945f3ee4562605ac2d89e7e92c0dd1bd7a</link>
@@ -944,23 +941,6 @@ Ação | Aventura
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86f4623c57fa471c1e99a1552eb46bdfeb045571</link>
 
 </item>
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Shaun, O Carneiro - O Filme - A Fazenda Contra-Ataca - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:43333202194c036a6d3547f29cd2f07a40b39e78</link>
-<thumbnail>https://ondebaixa.com/imagens/shaun-o-carneiro-o-filme-a-fazenda-contra-ataca-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<genre>[COLOR red] Animação / Aventura / Família[/COLOR]</genre>
-<year>2020</year>
-<info> 
-</info>
-</item>
-
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Um Espião Animal - 4K</title>
@@ -1074,10 +1054,6 @@ Ação | Aventura
 
 </item> 
 
-
-
-
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>X-Men: Dias de um Futuro Esquecido - 4K</title>
@@ -1139,20 +1115,6 @@ Ação | Aventura
 </info>
 
 </item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>X-Men: Apocalipse - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1dfb1483c116d0e55c86dda3696b9d1ec8600f3</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/a6OjCxF8DW9huIdAPshWJpO0ldx.jpg</thumbnail>
-<info>
-</info>
-
-</item> 
-
-
-
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
@@ -1292,13 +1254,6 @@ Ação | Aventura
 </info>
 </item>
 
-
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>La La Land: Cantando Estações - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a86bbabb097a6a0a22f0646b8a6f371cb8a01ba</link>
@@ -1324,31 +1279,17 @@ Ação | Aventura
 <item>
 <title>Missão Impossível: Nação Secreta - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e8bf961ea3563334893ae352ee4f9a212b20960</link>
-<thumbnail>https://ondebaixa.com/imagens/missao-impossivel-nacao-secreta-4k-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/fxL6ktSUDejDq9Ni6UsoY73DC2I.jpg</thumbnail>
+<genre>Ação</genre>
 </item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Altos Negócios 4K - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feea317060fb61d3ef78dd8e5dc1779b6ee4738a</link>
-<thumbnail>https://ondebaixa.com/capas/altos-negocios-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Zumbilândia: Atire Duas Vezes - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:427c96a1bb50e57c516a91ec7e8a5fc6094bd1d4</link>
-<thumbnail>https://ondebaixa.com/capas/zumbilandia-atire-duas-vezes-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/x8T7xy6usNhTWphfQTH7vmr4tOC.jpg</thumbnail>
+<genre>Comédia, Ação</genre>
 </item>
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
@@ -1358,23 +1299,15 @@ Ação | Aventura
 <info> 
 </info>
 </item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-
-
+---------------------------------------------------------
 <item>
 <title>Homem-Aranha no Aranhaverso - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:24dd4afb64d32d9370fb0aba0f266549d3d82de6$nome=[B]4 GB[/B]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894ebf5dd5adb37107cfb5aae94c15eed1bb9735$nome=[B]14 GB[/B]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894ebf5dd5adb37107cfb5aae94c15eed1bb9735</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/ybQSBSrINtjWsJQ6Ih8sva8HlEZ.jpg</thumbnail>
 <info> 
 </info>
 </item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+----------------------------------------------------------
 <item>
 <title>Homem-Aranha: De Volta ao Lar - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9fd0fea6814b7467f8a03ce7d0cc6233b34086c0</link>
@@ -1383,16 +1316,13 @@ Ação | Aventura
 </info>
 </item>
 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>Halloween - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0858a8168b070b7c381e8ac7480835fb44f87548</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/bXs0zkv2iGVViZEy78teg2ycDBm.jpg</thumbnail>
-<info> 
-</info>
+<title>Altos Negócios - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:feea317060fb61d3ef78dd8e5dc1779b6ee4738a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/7ngM2zOxhJsYA7g15L3WFRTOgjZ.jpg</thumbnail>
 </item>
 
+-------------------------------------------------------------
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
@@ -1420,7 +1350,7 @@ Ação | Aventura
 <item>
 <title>Terremoto: A Falha de San Andreas - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da52862657eccd678c9ff7a0a875eef6f2af02f6</link>
-<thumbnail>https://4.bp.blogspot.com/-MfouoyxjB04/W4D-uc6pRBI/AAAAAAAAQB4/isnX2r8jSQg29N4vsl2xBekDE3CwRMiIgCLcBGAs/s1600/Terremoto%2B-%2BA%2BFalha%2Bde%2BSan%2BAndreas%2B4k%2Bultra%2Bhd%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/xfT3fpVI139u9FlYx7VkwEHnq95.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
@@ -1498,18 +1428,6 @@ Ação | Aventura
 
 </item> 
 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Coffee e Kareem - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f694ad92137ac97e2fc1bc0a53ba5af5c1f6149e</link>
-<thumbnail>https://superflix.me/wp-content/uploads/2020/05/jFzPMOJrjZfwCxllm3IIEKN7ceF.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
-
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Jojo Rabbit - 4K</title>
@@ -1526,41 +1444,10 @@ Ação | Aventura
 <item>
 <title>As Panteras - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:74b11ee5e4a9723be5a50c906badf081e0df68f2</link>
-<thumbnail>https://lacraiatorrent.com/capas/as-panteras-4k-download-torrent-2020-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/9jdMSIPbwK0wgjuOQz0AvkYQ4M3.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Vingadores: Era de Ultron - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7927cb715cbe2109c5dc9a349139ef38b11dd481</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/71wV2rzkFwL._AC_SL1022_.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Abominável - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f57f463c8d1d02b279e3fed83308e8b631390e3d</link>
-<thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2020/01/Abominavel-Torrent.jpeg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>O Grinch - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:233bbf1f408d9c82a0110975245a20aeb7ec5035</link>
-<thumbnail>https://4k-hd.club/uploads/posts/2019-02/1549131315_the-grinch-watch-movies-4k-all-new-4k-industry-poster.png</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
@@ -1568,14 +1455,7 @@ Ação | Aventura
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0b55c1f98cc4d45b0d86487fa79191ea691726e</link>
 <thumbnail>https://m.media-amazon.com/images/I/81CWPNg0wiL._SL1200_.jpg</thumbnail>
 <genre>4K</genre>
-
 </item> 
-
-
-
-20
-
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
@@ -1585,17 +1465,6 @@ Ação | Aventura
 <genre>4K</genre>
 
 </item> 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Hotel Artemis - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:375c71437356ad9b39635cea932db24f1b6bbe76</link>
-<thumbnail>https://m.media-amazon.com/images/I/918V6XfmlnL._AC_SL1500_.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
@@ -1636,15 +1505,6 @@ Ação | Aventura
 
 </item> 
 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>A Chegada - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec4ad9d9b04744ce8393102c10f97b5ff2ee6dc7</link>
-<thumbnail>https://http2.mlstatic.com/D_NQ_NP_755661-MLB27357460333_052018-O.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -1704,7 +1564,7 @@ Ação | Aventura
 <item>
 <title>A Origem - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b8d2b6a12a152de91d32119c38e81a53918d7d35</link>
-<thumbnail>https://www.thepiratefilmetorrent.tv/wp-content/uploads/2016/07/Inception-4k-download.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/9e3Dz7aCANy5aRUQF745IlNloJ1.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
@@ -1716,7 +1576,6 @@ Ação | Aventura
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:596cf2a18e254c11aee483a2a3cb4fe3d4f632f4</link>
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_894429-MLB40796102362_022020-O.jpg</thumbnail>
 <genre>4K</genre>
-
 </item> 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -1740,15 +1599,6 @@ Ação | Aventura
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>13 Horas: Os Soldados Secretos de Benghazi - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33683c9a6f809a224df3ea66999978c1bf1bf613</link>
-<thumbnail>https://i.imgur.com/F7sOWLL.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
 <title>Infiltrado na Klan - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a83d7fdcdd77fc7aa77440674988d4ba86559fe6</link>
 <thumbnail>https://pisces.bbystatic.com/image2/BestBuy_US/images/products/6293/6293787_sa.jpg</thumbnail>
@@ -1760,7 +1610,7 @@ Ação | Aventura
 <item>
 <title>O Ódio que Você Semeia - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2989754f692044ce822dd7b59dea6033e94c2f41</link>
-<thumbnail>https://4.bp.blogspot.com/-n61CbwmuCH4/XF4yg1cjidI/AAAAAAAAFp8/v3-ac8KCixcRzZu-O39msETA7IQ2GEHgQCLcBGAs/s1600/O%2B%25C3%2593dio%2Bque%2Bvoc%25C3%25AA%2Bsemeia%2B4k%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/e8ZaQNr1bb3iOg6NRWnkKKmbKu1.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
@@ -1769,14 +1619,9 @@ Ação | Aventura
 <item>
 <title>Bird Box - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e1be87af1c87f5da59ff5458f491bf38edf9156d</link>
-<thumbnail>https://3.bp.blogspot.com/-S-0YTbAP5bw/XCrfUmUW-lI/AAAAAAAAETA/hJL4j0Nt6zI1cX726NniT20ob8O09O4pgCLcBGAs/s1600/Caixa%2Bde%2BP%25C3%25A1ssaros%2B4K%2Bultra%2Bhd%2Buhd%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/rGfGfgL2pEPCfhIvqHXieXFn7gp.jpg</thumbnail>
 <genre>4K</genre>
 </item> 
-
-
-
-40
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
@@ -1799,40 +1644,11 @@ Ação | Aventura
 
 
 
-<item>
-<title>A Primeira Noite de Crime - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fbcf242a5222aa027b6217bea3881daf82e46d5</link>
-<thumbnail>https://4.bp.blogspot.com/-35853YzVAVI/W-DnJDmaADI/AAAAAAAACgc/HUbotqcPtlUoeY71A3QtsOvwA3jCPo89QCLcBGAs/s1600/A%2BPrimeira%2BNoite%2Bde%2Bcrime%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Rampage: Destruição Total - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4acb613d899461e8b2868ca446accb876861678</link>
-<thumbnail>https://4.bp.blogspot.com/-gzA81lMZB-U/W0pYF0BO35I/AAAAAAAAN9w/QaCqyhmMydkUBH20atimXkJK8J3A19efQCLcBGAs/s1600/Rampage%2BDestrui%25C3%25A7%25C3%25A3o%2Btotal%2B4k%2Bultra%2Bhd%2Bhdr%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Hotel Transilvânia 3: Férias Monstruosas - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:06d5984e86cca7f78b21a587494c07afb97d7647</link>
 <thumbnail>https://4.bp.blogspot.com/-UsQtECtANRQ/W713PoGJUzI/AAAAAAAABdk/PjceuESQBJYzmsH9j8obxRhmSgCC1j1ywCLcBGAs/s1600/Hotel%2BTransilvania%2B3%2BF%25C3%25A9rias%2BMonstruosas%2B4k%2Bultra%2Bhd%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Star Trek: Sem Fronteiras - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2fa5bcefaefcd1d2b24ff333a0b7fc1a579fad0a</link>
-<thumbnail>https://2.bp.blogspot.com/-vlpxdy9Unyc/W6gAc284HdI/AAAAAAAAAmg/PqDTzAZz_akuQ3kZeYIwdnkwrL_4BzyLACLcBGAs/s1600/Star%2BTrek%2BSem%2BFronteiras%2B4K%2BUltra%2BHD%2BTorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
@@ -1873,7 +1689,7 @@ Ação | Aventura
 <item>
 <title>Ad Astra: Rumo às Estrelas - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:855bb80ef8e64cd5fcda7f59e269af5e58d8e1f2</link>
-<thumbnail>https://ondebaixa.com/capas/ad-astra-rumo-as-estrelas-download-torrent-2019-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/xBHvZcjRiWyobQ9kxBhO6B2dtRI.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
@@ -1997,28 +1813,9 @@ Ação | Aventura
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>O Resgate do Soldado Ryan (1998) - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e61fff906b0cb18a3fd7c51227490eef63e8fe3$nome=[COLOR white]Dublado 34GB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d5d087decbc19b900fb79416e7626269129ab0c$nome=[COLOR white]Legendado 88GB[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e61fff906b0cb18a3fd7c51227490eef63e8fe3</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/iZ3jDTycla1JasNg6h7Gg1sEIys.jpg</thumbnail>
 <genre>4K</genre>
-
-</item> 
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Bohemian Rhapsody - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aa5b1bd21794ee87fbd224c5e7258d014d8f87c</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/oL3T7lc9NgB3tHP0lhSlyVsRMV2.jpg</thumbnail>
-<genre>4K</genre>
-
 </item> 
 
 
@@ -2034,8 +1831,7 @@ Ação | Aventura
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Nasce Uma Estrela - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76997f659d93f4f8f2112ac249bc77e43667095c$nome=[COLOR white]Nasce Uma Estrela[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f01fb46e2f9fd5d18ff118b9d33930640877767f$nome=[COLOR white]Nasce Uma Estrela Sem compactação[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:76997f659d93f4f8f2112ac249bc77e43667095c</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/8SNAXrEBIt8U9eHiIdyCEqt7XME.jpg</thumbnail>
 <genre>4K</genre>
 
@@ -2044,75 +1840,25 @@ Ação | Aventura
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>O Grande Mestre 4 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c20022cd1da074e52e077f2364b289bed9a0b968$nome=[COLOR red]O Grande Mestre 4[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc68ebbf2434f18c03776202e7c0f360a7bd5517$nome=[COLOR white]O Grande Mestre 4 Legendado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c20022cd1da074e52e077f2364b289bed9a0b968</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/7o7jvOGAIzu7nitHFGzoDjPqIJo.jpg</thumbnail>
 <genre>4K</genre>
-
 </item> 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>Mulher-Maravilha 1984 [COLOR gray]4k [/COLOR] - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42eb1c513fde6c74d0b42d388e95ab8e1e15d31$nome=[COLOR white]Mulher-Maravilha 1984[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:795fb23cc7b105d06402c5693a05ad5eaf0e2825$nome=[COLOR white]Mulher-Maravilha 1984 Legendado[/COLOR]</link>
+<title>Mulher-Maravilha 1984 - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f42eb1c513fde6c74d0b42d388e95ab8e1e15d31</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/pBHYbehxaSSMc0X5m5iKBvqWzCi.jpg</thumbnail>
 <genre>4K</genre>
-
 </item> 
 
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>A Mula - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4825e1981503aa927a17ac5d3aff22d67146fd9c$nome=[COLOR white]A Mula Dublado[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f68d4fd8a9cfbcf946f80e373866155aa665b61c$nome=[COLOR white]A Mula Legendado[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/kE9pO1utmOD5nQAcn7tyoUAldkX.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Presságio - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15aa85b484ab57f1ad5f98958c27b0675158112a</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/At03GrpqsbeomLuLTRCyCMvSFI5.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Assassin’s Creed - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53230b98a3ff668fbf8cce4dfe72cc8905673a97$nome=[COLOR white]Dublado[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ed76fd02cf67c30f09857f925fd58bde996740b$nome=[COLOR white]Legendado[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/1Cxn5MxH3dDBXauIq6XusR1ZUKJ.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>O Mistério do Relógio na Parede - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b35aa5d1697b651a7ac31f4bbfa544a191cbf186$nome=[COLOR white]Dublado - 6 GB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f29de323e7b2174541afbd3e6f64e86e6ef1e22b$nome=[COLOR white]Dublado - 12 GB[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b99dd054fad4a3147acfc216b01898827de20ea$nome=[COLOR white]Legendado - 57 GB[/COLOR]</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/nu63HA3CkIq245FphWi2zCObLVJ.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Homem de Ferro 2 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec5165e878daa611bc8383dd41000ee13fd1a2bf$nome=[COLOR white]Dublado[/COLOR]</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:018cfa9e17b1eead48dfbbdbd9516b66eff55f2d$nome=[COLOR white]Dublado IMAX[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec5165e878daa611bc8383dd41000ee13fd1a2bf</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/vzROjQbgKWMVf2EldXipCcjpuBL.jpg</thumbnail>
 <genre>4K</genre>
 
@@ -2122,40 +1868,20 @@ Ação | Aventura
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Homem de Ferro 3 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7b44ab7c64d5da7d0ff91b6f48decd7f86ff33a$nome=[COLOR white]Dublado[/COLOR]</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c7b44ab7c64d5da7d0ff91b6f48decd7f86ff33a</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/C7MZwRTjvEy7gkWcLJeBGZFE1w.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
- 
 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Pantera Negra - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:586a40c2113efebf35fcd3ea68b2abf08c6caf17</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</thumbnail>
-<wallpaper>https://image.tmdb.org/t/p/w342/2yQUnpc1BXgesJrfcdoRa6jTAnA.jpg</wallpaper>
 <genre>4K</genre>
-<time>2:14:00</time>
 <year>2018</year>
 </item> 
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Bright - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e37a93cc6201a99a56688bb8e8ee1bd32637ea2</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/wfWmA2k03GDWQmrcjusUcqBiYWT.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -2164,7 +1890,6 @@ Ação | Aventura
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5669c94c766f76a380ef9e113462585cd5468c56</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nCbkOyOMTEwlEV0LtCOvCnwEONA.jpg</thumbnail>
 <genre>4K</genre>
-
 </item> 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -2198,28 +1923,12 @@ Ação | Aventura
 
 </item> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>MIB: Homens de Preto – Internacional - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bf9e4045ba364cada7ea7a28394a7a6dc08a8931</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/mxopI5VyShCeAlJf3X4Q1T40Bub.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Prometheus - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e742061502a67a0b7353cfcac7f6f41ee41548e</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/omy5CiDMQnGqQUEJ9gNLOGPZQFW.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>A Múmia - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:93d46f3dfd93cc5f50c21b0e90849e04076d2e65</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/vH9Hd7njePEe6xnRrYYaDmF2yqX.jpg</thumbnail>
 <genre>4K</genre>
 
 </item> 
@@ -2262,25 +1971,7 @@ Ação | Aventura
 
 </item> 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>A Forma da Água - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:290ae83c450a963e01008ecd42de116a311ee672</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/hHPFq7myTjAVH6CwQjamAuUqhrr.jpg</thumbnail>
-<genre>4K</genre>
 
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>De Volta ao Jogo - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fedb435319580fc6e2bbfb709a11489aa307d31</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/rboZslo3eQWKBQ3QvlO6wGV0J3K.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>O Primeiro Homem - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b09d636d1dcec603a317d0dfcdc32d0d45f74094</link>
@@ -2308,19 +1999,6 @@ Ação | Aventura
 
 
 
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Eu Sou a Lenda - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12d92dab432b009c4837caaaac936496955ece26</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/6urQ17k0Pepx8RoYVeRbwaCSVIS.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Guerra Mundial Z - 4K</title>
@@ -2339,22 +2017,15 @@ Ação | Aventura
 
 </item> 
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>Sicário: Dia do Soldado - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a9a0ecb064a2486b47b248b2f5a32a0c8d7739c</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/aV9q6XPA4R19dzhwEmj5W20fhY5.jpg</thumbnail>
+<title>Assassin’s Creed - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53230b98a3ff668fbf8cce4dfe72cc8905673a97</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/1Cxn5MxH3dDBXauIq6XusR1ZUKJ.jpg</thumbnail>
 <genre>4K</genre>
+
 </item> 
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Chappie - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caa98f61e0b034421cb7fd8b357bd0adb0a46c39</link>
-<thumbnail>https://br.web.img2.acsta.net/pictures/15/02/10/12/43/454047.jpg</thumbnail>
-<genre>4K</genre>
-</item> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
@@ -2373,18 +2044,6 @@ Ação | Aventura
 <genre>4K</genre>
 </item> 
 
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Creed II - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a92cb2bb66d9793f1c3a7e192c418a55928480a</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/18/09/26/09/11/3946463.jpg</thumbnail>
-<genre>4K</genre>
-
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Angry Birds 2: O Filme - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53db9f89ebc8c61c77ca9c0ad8b50fd55d3081f4</link>
@@ -2433,9 +2092,6 @@ John
 <title>Annabelle 3: De Volta Para Casa - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dfc2ac3ed6aeb033464b552ba390d2182944f5c1</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/m8h2gz4El6bvYpDjyQhb7R49rSp.jpg</thumbnail>
-<info>
-</info>
-
 </item> 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -2443,9 +2099,6 @@ John
 <title>Velozes & Furiosos 8 - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc7ca6f835ebda2aa7bfd07d3e3e1b8b444c486a</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3G6PUtqIKPKyZXXWB8jgZZJF1C8.jpg</thumbnail>
-<info>
-</info>
-
 </item> 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -2453,69 +2106,13 @@ John
 <title>Maze Runner: A Cura Mortal - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:982562629855acf7402460b574e5e85930b25012</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/uBEpWurzTOiz520d1tRNhBXN7h9.jpg</thumbnail>
-<info>
-</info>
-
 </item> 
 
-
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-
-
-
-
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Os Novos Mutantes - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c2160b8bd67fba724efe51139feebe7a36e07b22</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/6RcWaW43UWIJzhIp6bcmui2efd.jpg</thumbnail>
-
-
+<thumbnail>https://www.themoviedb.org/t/p/w500/6RcWaW43UWIJzhIp6bcmui2efd.jpg</thumbnail>
 </item> 
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>A Última Coisa que Ele Queria - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a422b868bdf8842f947999e93b0c505dc6d2f25</link>
-<thumbnail>https://comandotorrents.org/wp-content/uploads/2020/02/The.Last_.Thing_.He_.Wanted.jpg</thumbnail>
-
-
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>A Casa - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df95650cda6b3102056a77bb25fa5d990155baf0</link>
-<thumbnail>https://comandotorrents.org/wp-content/uploads/2020/03/A-Casa2.jpg</thumbnail>
-
-
-</item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>As Aventuras do Dr. Dolittle - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ea7433f9342e02645db557c1a2c9265c30ef3ef2</link>
-<thumbnail>https://comandotorrents.org/wp-content/uploads/2020/02/As.Aventuras.do_.Dr_.Dolittle.jpg</thumbnail>
-
-
-</item> 
-
- 
-
 
 <item>
 <title>Aves de Rapina − Arlequina e sua Emancipação Fantabulosa - 4K</title>
@@ -2538,51 +2135,19 @@ John
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>As Golpistas - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:53f12c0c7eb04ad9b3e8b4e2b4a3e9b45d85f65d</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/19/09/20/19/07/5800273.jpg</thumbnail>
-<info>
-</info>
-
+<title>A Última Coisa que Ele Queria - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8a422b868bdf8842f947999e93b0c505dc6d2f25</link>
+<thumbnail>https://static.wikia.nocookie.net/dublagempedia/images/7/74/A-ultima-coisa-que-ele-queria-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg/revision/latest?cb=20200718234254&path-prefix=pt-br</thumbnail>
 </item> 
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>Midway – Batalha em Alto-Mar - 4K</title>
+<title>Midway: Batalha em Alto-Mar - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:384474102bab411d0d4a1e9d6fb42583f31a1a0a</link>
-<thumbnail>https://br.web.img2.acsta.net/pictures/19/09/26/09/18/5374630.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/f2x8lIh0olfwqe5Jbwsw4Ojc5ie.jpg</thumbnail>
 <info>
 </info>
 
 </item> 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Dumbo - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ba395cd731cbf158595f92ed7f61846f8ec62a8b</link>
-<thumbnail>https://pics.filmaffinity.com/Dumbo-807586129-large.jpg</thumbnail>
-<info>
-</info>
-
-</item> 
-
-<item>
-<title>Depois da terra - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ca9f318b3d261c828a981d621ae494045ba9276f</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/gTdYNQ5PKM8UjdgAkPmzbiEbeP3.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-<item>
-<title>Sully: O Herói do Rio Hudson - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c6157869d2b15075a6d1404e57ff35b6b6db8a1</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/ckmKU6zffpux1gY3pGZ8ZAxKNRD.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
 
 
 <item>
@@ -2592,12 +2157,6 @@ John
 <info> 
 </info>
 </item>
-
-
-
-
-
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item>
@@ -2607,10 +2166,6 @@ John
 <info> 
 </info>
 </item>
-
-
-
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
@@ -2623,51 +2178,10 @@ John
 </item>
 
 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<item>
-<title>Vingança a sangue frio - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1856769341b518d4e7b9223ba014518d71531c6</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/19/01/28/15/08/1460544.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>magnet:?xt=urn:btih:a40dd55f18859894c8852dd6dbe8c56a26b4d53b
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<item>
-<title>Green book - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a40dd55f18859894c8852dd6dbe8c56a26b4d53b</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/18/10/31/19/21/0693677.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-
-
-
-<item>
-<title>O protetor - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:749ec07493de8368f9fe06047ac280d38b81a996</link>
-<thumbnail>https://ingresso-a.akamaihd.net/img/cinema/cartaz/21596-cartaz.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>magnet:?xt=urn:btih:04fd987f6d7d751010056a01065c8407b3b01325
-
 <item>
 <title>Arranha-ceu - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04fd987f6d7d751010056a01065c8407b3b01325</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3166e5ae0063354bb14105e4e25b0da240b1f88</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/28/Skyscraper_(2018).jpg</thumbnail>                        
+<thumbnail>https://www.themoviedb.org/t/p/w500/fvwR00VUW2yFtSdYr8F3NUmusf6.jpg</thumbnail>                        
 <info> 
 </info>
 </item>
@@ -2677,7 +2191,7 @@ John
 <item>
 <title>Robin Hood - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58f65238d3e28a117f7819ade9f45261961cf9cf</link>
-<thumbnail>https://cinemanickelodeons.files.wordpress.com/2018/12/a-origem.jpg?w=616&h=926</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/AiRfixFcfTkNbn2A73qVJPlpkUo.jpg</thumbnail>
 <info> 
 </info>
 </item>
@@ -2687,9 +2201,7 @@ John
 <item>
 <title>Sniper Americano - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9147ef552ef8c1b857543c7adb6ca57d2fb23af9</link>
-<thumbnail>https://images-na.ssl-images-amazon.com/images/I/61x1ihJ9rbL.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/mAXzc2oDTTYcnn6IGHlSXvmXloG.jpg</thumbnail>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -2697,19 +2209,15 @@ John
 <item>
 <title>Passageiros - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1b3d1e2314143367d2972716578c75e2e3260183</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c0199a89f6cf0616f82bed2510720fa7e8d2338d</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/2/2b/Passengers_(filme).jpg</thumbnail>
-<info>[COLOR red]Sinopse[/COLOR]: 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/4ttmnglFa2WxDK3yBkMX1VlpkTo.jpg</thumbnail> 
+<genre>Ficção Cientifica, Romance, Drama</genre>
 </item>
-
 
 <item>
 <title>O regresso - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:689baa7cfdfd05b68981281921c31e5a968d5c43</link>
-<thumbnail>https://br.web.img3.acsta.net/pictures/15/12/17/18/20/090910.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/x1jViuXsm5ZmrR6uFmxU6AVdXzs.jpg</thumbnail>
+<genre>Suspense, Crime, Drama</genre>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -2717,132 +2225,36 @@ John
 <item>
 <title>Gladiador - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dbead284ff6418acd89989d5d027c5dbdd76529c</link>
-<thumbnail>https://vignette.wikia.nocookie.net/cine/images/4/47/Gladiador.jpg/revision/latest/scale-to-width-down/340?cb=20121010225749</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/4DUClyGA6OqjXv6yC0Imf6THGfp.jpg</thumbnail>
+<genre>Guerra, Ação</genre>
 </item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<item>
-<title>Operação red sparrow - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:908e59f94139a02ef08e9d9f65e2c762aab0f7e5</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/5/5a/Red_Sparrow.png</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<item>
-<title>Hellboy - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07e86109fadd08cec0e2785cb5c4f78f4fda4b82</link>
-<thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/0/08/Hellboy_(2019).jpg/250px-Hellboy_(2019).jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-magnet:?xt=urn:btih:6c2c4c4bc9f224e6a77ef7afe26c2ec35738e8de
-
-
-
 <item>
 <title>Bad boys para sempre - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dcbbc4f2219a667763b726b9ac17ab4e4e9a605e</link>
-<thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN0PVB/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg</thumbnail>
-<info>[COLOR red]Sinopse[/COLOR]: 
-</info>
+<thumbnail>https://musicimage.xboxlive.com/catalog/video.movie.8D6KGWXN0PVB/image?locale=pt-br&mode=crop&purposes=BoxArt&q=90&h=225&w=150&format=jpg</thumbnail> 
 </item>
 
-
-
-
-
-
-
-item>
+<item>
 <title>Tomb Raider - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4f12d6e2530765b60b826bbbdf662967ab4ae614</link>
 <thumbnail>https://upload.wikimedia.org/wikipedia/pt/thumb/2/20/Tomb_raider_2018_poster.jpg/250px-Tomb_raider_2018_poster.jpg</thumbnail>
-<info> 
-</info>
 </item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-
-<item>
-<title>Missao impossivel: Efeito fallout - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:450479d4b0d339902e9a9fcf503b147cb0d51510</link>
-<thumbnail>https://i.pinimg.com/736x/d9/c3/9c/d9c39c3333c3a080f91cf1df196bd27b.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>  magnet:?xt=urn:btih:0308c0db0533cba4d753e0b7728bf62831cda6c4
-
-
-
-
-
-
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Drácula de Bram Stoker (1992) - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42affa07b60ecf1026fa1bfcd9506a49bf8d3425</link>
-<thumbnail>https://ondebaixa.com/capas/dracula-de-bram-stoker-4k-download-torrent-1992-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/ecuP4ZaIHawKmmIaXD5mS55UlhL.jpg</thumbnail>
 </item>
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>007 - Operação Skyfall - 4K</title>
+<title>007: Operação Skyfall - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ffa909bdd4af7bebc6ec699b3ede82dcf63d7f9f</link>
-<thumbnail>https://ondebaixa.com/capas/007-operacao-skyfall-4k-download-torrent-2012-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>007 - Cassino Royale - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c0e143953e99eab0a019afd829d7844b89d4515</link>
-<thumbnail>https://ondebaixa.com/capas/007-cassino-royale-4k-download-torrent-2006-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>007 - Quantum of Solace - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:49194d71c3aed645b1723d8e725982114621d40f</link>
-<thumbnail>https://ondebaixa.com/capas/007-quantum-of-solace-4k-download-torrent-2008-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Invasão ao Serviço Secreto - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e666ccd2aece4866c44d92c39c765d08f87e3ae</link>
-<thumbnail>https://1.bp.blogspot.com/-PonCZEtpUZM/XV7jOjUuuAI/AAAAAAAAYq0/Mtn0Hf982eA0Uwra9lwdmdvEmBnlObn7QCLcBGAs/s1600/Invas%25C3%25A3o%2Bao%2BServi%25C3%25A7o%2BSecreto.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>X-Men - O Confronto Final - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:03c99d01f44ebb421acd770a785b7381331e18c9</link>
-<thumbnail>https://ondebaixa.com/capas/x-men-o-confronto-final-4k-download-torrent-2006-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
+<thumbnail>https://www.themoviedb.org/t/p/w500/1U1gkQynuQRNsZ8zm13zSCGOFAj.jpg</thumbnail>
 <info> 
 </info>
 </item>
@@ -2851,75 +2263,47 @@ item>
 <item>
 <title>Toy Story 3 - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:561c6ba6639ce024276f6a7b37d902fa88b2d232</link>
-<thumbnail>https://ondebaixa.com/capas/toy-story-3-4k-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/AbbXspMOwdvwWZgVN0nabZq03Ec.jpg</thumbnail>
+<genre>Animação</genre>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>O Poderoso Chefinho - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d2f6774dbac6c629ca866789a33b0244d2e8d0ac</link>
-<thumbnail>https://ondebaixa.com/capas/o-poderoso-chefinho-4k-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/6rctP6SAW7caWbx9NgxGnn3fU07.jpg</thumbnail>
+<genre>Animação</genre>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>Uma Dobra no Tempo - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0adfa7f1afa3015bc9fcae831e314f5f9e0dec60</link>
-<thumbnail>https://ondebaixa.com/capas/uma-dobra-no-tempo-4k-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Pets - A Vida Secreta dos Bichos - 4K</title>
+<title>Pets: A Vida Secreta dos Bichos - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9856b82e08fc27f20ad45fcdcfd4a78e6c994120</link>
-<thumbnail>https://ondebaixa.com/capas/pets-a-vida-secreta-dos-bichos-4k-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/gs0iSjc9tbpbAElolwbDwPDpNXo.jpg</thumbnail>
+<genre>Animação</genre>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Sing: Quem Canta Seus Males Espanta - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e3e3e1dda260970e6e7aab1ff14f83bb1f6caf8</link>
-<thumbnail>https://ondebaixa.com/capas/sing-quem-canta-seus-males-espanta-4k-download-torrent-dublado-dual-audio-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>X-Men 2 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df07d2237e6318a31a41fdf021fa05c98e909efe</link>
-<thumbnail>https://ondebaixa.com/capas/x-men-2-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/1LEeSindznWQnXIglb7Ica9MITe.jpg</thumbnail>
+<genre>Animação</genre>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Hellboy: Versão do Diretor - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d4c76b51640f5a70e058d57476852aba5196e9f</link>
-<thumbnail></thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/lmh8wXm6f3z7wcRqQ8NSXrB8tMQ.jpg</thumbnail>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>O Labirinto do Fauno - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a1056f233736415fff2a3aa80c1b3b6b8df9fcf0</link>
-<thumbnail>https://ondebaixa.com/capas/o-labirinto-do-fauno-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/53ZMT8Y18gwLpInzRLMEebAZxew.jpg</thumbnail>
+<genre>Guerra, Drama, Fantasia</genre>
 </item>
 
 
@@ -2927,9 +2311,8 @@ item>
 <item>
 <title>Homem-Formiga - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7771b78d664a04edd1a4eeb8c45f29f5820f7cd7</link>
-<thumbnail>https://ondebaixa.com/capas/homem-formiga-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/yiLqv1gwBENjbqTAdPxW4LhX6aA.jpg</thumbnail>
+<genre>Ficção, Ação</genre>
 </item>
 
 
@@ -2937,9 +2320,8 @@ item>
 <item>
 <title>Ratatouille - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3bf30bf43670d5d5aa704da194c62b3f5c42d05f</link>
-<thumbnail>https://ondebaixa.com/capas/ratatouille-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BMTMzODU0NTkxMF5BMl5BanBnXkFtZTcwMjQ4MzMzMw@@._V1_.jpg</thumbnail>
+<genre>Animação</genre>
 </item>
 
 
@@ -2947,9 +2329,8 @@ item>
 <item>
 <title>Frozen: Uma Aventura Congelante - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9ba9b65725a697ad73298e2becc00fcd94c0a58</link>
-<thumbnail>https://ondebaixa.com/capas/frozen-uma-aventura-congelante-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/hOZKUJGN0m717LRSQDxhgABqWrf.jpg</thumbnail>
+<genre>Animação</genre>
 </item>
 
 
@@ -2957,88 +2338,23 @@ item>
 <item>
 <title>Coração Valente - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f4558d5ff2f76388aa9a9b5e3a379b4284b3c91</link>
-<thumbnail>https://ondebaixa.com/capas/coracao-valente-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/tWBbNikf5ng7BuNGA55MkvhLrag.jpg</thumbnail>
+<genre>guerra</genre>
 </item>
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Guardiões da Galáxia - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6ba421c097ded6b7b7654c7b7013065882eaa526</link>
-<thumbnail>https://ondebaixa.com/capas/guardioes-da-galaxia-4k-uhd-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Capitão América 2: O Soldado Invernal - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1dd8c44c46e2e4a64d7fdea9bf56e0ffb889c7ce</link>
-<thumbnail>https://ondebaixa.com/capas/capitao-america-2-o-soldado-invernal-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Thor: O Mundo Sombrio - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2d4109f38cfbefa8fabab750091f08c5dd4c18b3</link>
-<thumbnail>https://ondebaixa.com/capas/thor-o-mundo-sombrio-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Capitão América - O Primeiro Vingador [COLOR cyan][B]Remux 4K - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35824f992e3988874cec24b7e3ba7ad5bd50aaa1</link>
-<thumbnail>https://ondebaixa.com/capas/capitao-america-o-primeiro-vingador-4k-remux-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Thor - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:486e7174ed99df144cf25b0f8d1cffa2ab1276e4</link>
-<thumbnail>https://ondebaixa.com/capas/thor-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>O Incrível Hulk - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01692f21a562407c3c6a3333f5d369bb8d06ef6f</link>
-<thumbnail>https://ondebaixa.com/capas/o-incrivel-hulk-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/h2vB6OlhTA1jAazDXrr7PEgFPnV.jpg</thumbnail>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>As Aventuras de Paddington 2 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ee7a0a8a952883ba902536a8b251a89e1bbd5bf4</link>
-<thumbnail>https://ondebaixa.com/capa/as-aventuras-de-paddington-2-4k-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
-<info> 
-</info>
-</item>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Em Ritmo de Fuga - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d703348076093b9ff4f295099d35158d68652be2</link>
-<thumbnail>https://3.bp.blogspot.com/-ysDSqZ28Pss/Wg6Xo0-5xFI/AAAAAAAAGv8/uaSTjKAgKCMqWyVtEJfRGtys-kMlCy31ACLcBGAs/s1600/Em-ritmo-de-fuga-4k-ultra-hd-torrent-down-load-dublado-dual-audio-5.1-bluray.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>
 <item>
 <title>Predadores - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9eec990032db044cd46813e2d23509c82c460199</link>
@@ -3061,109 +2377,16 @@ item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>Uma Aventura LEGO - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b66fef7d0975958cb2e3fcc2efb0a2dd364a9b8b</link>
-<thumbnail>https://4.bp.blogspot.com/-Bl-nd_cpKp4/W2VNn28X8MI/AAAAAAAAPA8/pADvGDczUDglicGPjejglc2OS_LfyhvNwCLcBGAs/s1600/Uma%2BAventura%2BLego%2B4k%2Bultra%2Bhd%2Buhd%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>O Homem das Cavernas - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d3034941f7031735e1efd6390779ff69a76a4443</link>
-<thumbnail>https://2.bp.blogspot.com/-j7WMWkVd2gs/WymIQjQuudI/AAAAAAAAMsA/k7Pmxzzq7UAwC_zW9Hy5a5029fEuzyloACLcBGAs/s1600/O%2BHomem%2Bdas%2BCavernas%2B4K%2Bultra%2Bhd%2Bdownload%2Btorrent%2Bdublado%2Bbluray.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
 <title>Batman: Trilogia - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e0dfa99ba80cb28a23b97cb72482d4bda0c84e5</link>
 <thumbnail>https://4.bp.blogspot.com/-lQb0LFNlX3w/WxVMjDVmj6I/AAAAAAAAMDY/ecaiiWIn4mYkN_Q-dqVV2klwO0yFSCLEQCLcBGAs/s1600/Batman%2Btrilogia%2B4k%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
-<info> 
-</info>
 </item>
 
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Era Uma Vez em… Hollywood - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7158281d7c15cc5bc614f7dc6a26f5bac6561f83</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/1T56UKxtiVB4ZrwFv472OtnZqjJ.jpg</thumbnail>
-<info> 
-</info>
-</item>
 
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>It: A Coisa - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:42087d38b0cce94ca856db48c5f5fdcc874d1aa0</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/yRKMgsxvvBKbeIYbFHHQigITW4i.jpg</thumbnail>
-<info> 
-</info>
-</item>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>It: Capítulo Dois - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:95712b687659a83237380a719bf9aacf0ad6c3e8</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/s6vLGKJFPPlDdlT4ygtdPaMZ9Gm.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Elysium - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8bc159ebebaf78e103ba7750347a1156517bf5d0</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/yVqtWROS3eCbBnVqDMXSK5RlqUB.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>2012 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:01a34082a721f9e48b84c11d4639fcbcdfe64822</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/yKN9Ny06JNFboVMV2RaNhfJfXoE.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Resident Evil 5: Retribuição - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:301888955b6085e7cbd3fdb6c4ba3c5f7c263fa5</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/xOhvgmflKqthQDmTc7bF7WHSseX.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Resident Evil 4: Recomeço - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6a66c57fcad64d1ea5ff41ac74cda49d9103cf47</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/sUQjueLtUx9OknaRoR9TsmcpLag.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Resident Evil 3: A Extinção - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2401cff7e13fd08a56e29cd0a96671077b4b2b26</link>
-<thumbnail>https://image.tmdb.org/t/p/w500/qtZdUwt0cgcfCCkJ0nxRhlHnYow.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Blade Runner: O Caçador de Androides - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b75017065b1396af460ff774d4817f673ca7f8cd</link>
@@ -3172,197 +2395,62 @@ item>
 </info>
 </item>
 
-10 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Inferno - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e00b82f123bc43268bae64ca0014b13babe76fcf</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg</thumbnail>
-<info> 
-</info>
-</item>
 
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Ender’s Game: O Jogo do Exterminador [B]Legendado[/B] - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a145aca6f7d13aa9f4771a682104797fd261e1f0</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/9EWwtcVqiL6B8nPuU8etH9LaiRL.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>MIB: Homens de Preto - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1011ae32e9e39c8d8e260b5ed616c0d9f00046d7</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/zUWePPb0tTbpQDGsx3m6dnyJL3L.jpg</thumbnail>
-<info> 
-</info>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
-<title>Anjos da Noite [B]Legendado[/B] - 4K</title>
+<title>Anjos da Noite - 4K - Leg</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ecf14a76cc0877cfb2f9ae0e07197d62ebfa8c0</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/w0upCZKe0JluCgKj1BJGpLa5ZR9.jpg</thumbnail>
 <info> 
 </info>
 </item>
 
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Fúria em Alto Mar - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4808482f179214aced4bd9c30aa9f311ca9243da</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/dD8Y6xjGZKLzF2JFFVYmloz3Adq.jpg</thumbnail>
-<info> 
-</info>
-</item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Missão: Impossível 3 - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:944da73b9b79fa74280ddde9548616dcde159094</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/5l0hS4A119jCA1A02XsFZHq1uRD.jpg</thumbnail>
-<info> 
-</info>
 </item>
-
-15
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Apollo 11 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:720b25c9f895e6e3767a76c799da914b5e74405c</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/fpU9gED2WfvZbGAha5QgB7DBgUp.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>O Exterminador do Futuro 2: O Julgamento Final - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6d93bbe1763c15789ca4ae4f1a9bdd47e79139e</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/dqRzbyJFeNtpBWilDS7iEPL0SfD.jpg</thumbnail>
-<info> 
-</info>
 </item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>As Viúvas - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e29c37efc6335bbff9690e9c489d5d1006179ac4</link>
-<thumbnail>http://viatorrents.com/wp-content/uploads/2018/12/as-viuvas-2018-torrent.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Coleção Uma Noite de Crime - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9f21e6c73ddad5bac38539b0b8f89062fc8743b</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/c7lOnmFKg17fE2fZdW2p6EPRZ6J.jpg</thumbnail>
-<info> 
-</info>
 </item>
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>O Dia do Atentado - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5be37ceb0fdd20171e017413731dfb5c29c14429</link>
-<thumbnail>http://viatorrents.com/wp-content/uploads/2018/09/o-dia-do-atentado-torrent-4k-dublado.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
 20
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Rei Arthur – A Lenda da Espada - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:030caeae806bab42d3bc4da2a4e33e75463e20e1</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/gvSWdJN7peehxJYOugV9IwqiAFi.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Operação Sombra: Jack Ryan - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8de74683f5a536379ed80d4ff56db1b3757877a</link>
-<thumbnail>https://image.tmdb.org/t/p/w342/m7HcLUodrD4lM4s0Hui1tzO2pjO.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>O Grande Ivan - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6846347df6e686e635623d58543da5f435a857df</link>
-<thumbnail>https://1.bp.blogspot.com/-FICFF4eilZw/X0AEQsHTEaI/AAAAAAAAfl0/VU-MxemOCdc8gRwzsBnvlWBvPe1Qf8OrwCNcBGAsYHQ/s1600/O%2BGrande%2BIvan.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Titanic [remasterizado] - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:33938a9745395bd2b9bd82b4fba4866f284aa482</link>
-<thumbnail>https://1.bp.blogspot.com/-Lljr1ZO7EGA/Xw_AWChEArI/AAAAAAAAe-w/0FTDudgTdJcT5zpOG6pr03TtvooZuaNNACNcBGAsYHQ/s350/Titanic.jpg</thumbnail>
-<info> 
-</info>
-</item>
 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Mentiras Perigosas - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6b2e513d96a7031da0cfbef0b8fb2c3728c5f8aa</link>
-<thumbnail>https://1.bp.blogspot.com/-f4ZvqZBrfH0/XqrkkvtrTSI/AAAAAAAAb3c/zbsF-tLDbckIP43dDsKHwG06XWcvmlHGQCNcBGAsYHQ/s1600/Mentiras%2BPerigosas.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/w500/3YDBuPDDIfxtYQpawlHjGL4hL8w.jpg</thumbnail>
 </item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>A Terra e o Sangue - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9e0923e723f28ad825f5610251d46036d9802df2</link>
-<thumbnail>https://1.bp.blogspot.com/-BdBAcD6VT4I/Xpn7nvq4OpI/AAAAAAAAbuY/N4f9F4JiAnckeYFkmIf569AYxiRD6EXRwCNcBGAsYHQ/s1600/A%2BTerra%2Be%2Bo%2BSangue.jpg</thumbnail>
-<info> 
-</info>
-</item>
-
-
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item>
-<title>Isi & Ossi - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:606f49ce1b55bed33c67c46b1b17cca3141f5c16</link>
-<thumbnail>https://1.bp.blogspot.com/-4NJH9YO5BG4/XkcaUeftLZI/AAAAAAAAa9g/pNl9lRrLNFgSC14dAIPfcm38nyp2drzRwCNcBGAsYHQ/s1600/Isi%2B%2526%2BOssi.jpg</thumbnail>
-<info> 
-</info>
-</item>
->>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+----------------------------------------------
 <item>
 <title>Pets: A Vida Secreta dos Bichos 2 - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7b53c684b6b0c8bb007af1cd2f8e4d3bbc357e0a</link>
 <thumbnail>https://1.bp.blogspot.com/-mJKYLgswRxE/XVMg-_iyLJI/AAAAAAAAYhw/L7wMaXiG_aMQbtS8_YXIRwx7sPUp4cz5wCLcBGAs/s1600/Pets%2B-%2BA%2BVida%2BSecreta%2Bdos%2BBichos%2B2.jpg</thumbnail>
-<info> 
-</info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 <item>
 <title>Midsommar: O Mal Não Espera a Noite - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b119104a7267d7e414dd97d70b066766fecde49</link>
-<thumbnail>https://1.bp.blogspot.com/-2qQAXqDEugM/Xfxl8iVfMCI/AAAAAAAAaSY/GrENjJGTmnst6kng7nWJsam9qhGrIIEJwCNcBGAsYHQ/s1600/Midsommar%2B2019.jpg</thumbnail>
-<info> 
-</info>
+<thumbnail>https://www.themoviedb.org/t/p/original/eycO6M2s38xO1888Gq2gSrXf0A6.jpg</thumbnail>
+
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -3373,7 +2461,38 @@ item>
 <info> 
 </info>
 </item>
-
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>O Grande Ivan - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6846347df6e686e635623d58543da5f435a857df</link>
+<thumbnail>https://1.bp.blogspot.com/-FICFF4eilZw/X0AEQsHTEaI/AAAAAAAAfl0/VU-MxemOCdc8gRwzsBnvlWBvPe1Qf8OrwCNcBGAsYHQ/s1600/O%2BGrande%2BIvan.jpg</thumbnail>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Em Ritmo de Fuga - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d703348076093b9ff4f295099d35158d68652be2</link>
+<thumbnail>https://3.bp.blogspot.com/-ysDSqZ28Pss/Wg6Xo0-5xFI/AAAAAAAAGv8/uaSTjKAgKCMqWyVtEJfRGtys-kMlCy31ACLcBGAs/s1600/Em-ritmo-de-fuga-4k-ultra-hd-torrent-down-load-dublado-dual-audio-5.1-bluray.jpg</thumbnail>
+</item>
+----------------------------------
+<item>
+<title>A Primeira Noite de Crime - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4fbcf242a5222aa027b6217bea3881daf82e46d5</link>
+<thumbnail>https://4.bp.blogspot.com/-35853YzVAVI/W-DnJDmaADI/AAAAAAAACgc/HUbotqcPtlUoeY71A3QtsOvwA3jCPo89QCLcBGAs/s1600/A%2BPrimeira%2BNoite%2Bde%2Bcrime%2B4K%2BUltra%2BHD%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<genre>4K</genre>
+</item> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Rampage: Destruição Total - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4acb613d899461e8b2868ca446accb876861678</link>
+<thumbnail>https://4.bp.blogspot.com/-gzA81lMZB-U/W0pYF0BO35I/AAAAAAAAN9w/QaCqyhmMydkUBH20atimXkJK8J3A19efQCLcBGAs/s1600/Rampage%2BDestrui%25C3%25A7%25C3%25A3o%2Btotal%2B4k%2Bultra%2Bhd%2Bhdr%2Btorrent%2Bdownload%2Bdublado%2Bbluray.jpg</thumbnail>
+<genre>4K</genre>
+</item> 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item>
+<title>Inferno - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e00b82f123bc43268bae64ca0014b13babe76fcf</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/dtMJQzCxw2AY6tfcxhzlFpiD3BM.jpg</thumbnail>
+</item>
 
 <item>
 <title>The Contractor - 4K - Leg</title>
@@ -3848,7 +2967,7 @@ item>
 
 
 <item>
-<title>Espiral - O Legado de Jogos Mortais - 4K - Leg</title>
+<title>Espiral: O Legado de Jogos Mortais - 4K - Leg</title>
 <thumbnail>https://ondebaixa.com/imagens/espiral-o-legado-de-jogos-mortais-legendado-download-torrent-dublado-dual-audio-legendado-bluray-1080p-720p-4k-hd.jpg</thumbnail>
 <year>(2021)</year>
 <genre>Mistério, Policial, Suspense, Terror</genre>
@@ -3991,5 +3110,3 @@ item>
 <genre>[COLOR red] Action, Thriller[/COLOR]</genre>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b97daf25647e8f024434d6e5162f5763603dc9</link>
 </item>
-
-
