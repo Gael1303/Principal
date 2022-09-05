@@ -990,6 +990,22 @@
 <duration>3000</duration>
 </item> 
 
+<item>
+<title>Episodio 137</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86e6cb5184fa0ca7da32a71f9720bf6a678a9137</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 138</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96b2382de2a9322afcc44a70e08dff846c064c42</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
 
 <item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
