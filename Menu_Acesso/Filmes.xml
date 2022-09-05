@@ -30,6 +30,7 @@ standalone="yes"?>
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] GENEROS</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-53-568.jpg</thumbnail>
+<fanart>https://</fanart>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Categorias_de_filmes.xml</externallink>
 <info>[B]UM ACERVO BACANA COM MAIS DE 15 GENEROS DE FILMES E COM 2 OU MAIS SERVIDORES.[/B]</info>
 </channel>
@@ -54,6 +55,16 @@ standalone="yes"?>
 </channel>
 
 <channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] IMAX</name>
+<thumbnail>https://archive.org/download/picsart-22-09-02-13-35-21-113/Picsart_22-09-02_13-35-21-113.jpg</thumbnail>
+<externallink>https://github.com/Gael1303/Principal/raw/main/Generos/imax</externallink>
+<fanart>https://www.hardware.com.br/wp-content/uploads/static/wp/2022/06/02/1-2.jpg</fanart>
+<info>[B]Aba feita para quem quer ter um "CINEMA" em casa.[/B]
+  
+Recomendado para TV's acima de 55 Polegadas  </info>
+</channel>  
+  
+<channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] 3D</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-58-58-554.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/3d.xml</externallink>
@@ -61,6 +72,7 @@ standalone="yes"?>
 <info>[B]FUNCIONAL APENAS EM PC,NOTEBOOK E TV COM FUNÇÃO 3D. NÃO SE ESQUEÇA DOS OCULOS[/B]</info>
 </channel>
 
+  
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] OSCAR</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-59-25-367.jpg</thumbnail>
@@ -83,21 +95,5 @@ standalone="yes"?>
 [B][COLOR red]●[/COLOR]Minimo de 700MB de memoria RAM livres[/B]</info>
 </channel>
 
-<channel>
-<name>[COLOR yellow][B]≡[/B][/COLOR] STREAMINGS</name>
-<thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-29-215.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://www.showmetech.com.br/wp-content/uploads//2020/01/plataformas-de-streaming.jpg</fanart>
-<info>[B]FILMES ORIGINAIS SEPARADOS POR PLATAFORMAS DE STREAMINGS[/B]</info>
-</channel>
-
-<channel>
-<name>area de teste</name>
-<thumbnail>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/teste-1</thumbnail>
-<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/teste-1</externallink>
-<fanart>https://</fanart>
-<info>area de teste</info>
-</channel>
-</channels>
 
 
