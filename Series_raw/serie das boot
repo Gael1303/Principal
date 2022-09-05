@@ -26,3 +26,15 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894b2e21af223ffa100a15e6820a66194b031f84</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
+
+<item>
+<title>Episodio 03</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cbf4f46c94414e9fb74137fa66719aaf886b3da</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Episodio 04</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caae0d163d754007dadbe79bb6863fd3ac1675ed</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
+</item> 
