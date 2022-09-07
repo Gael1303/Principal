@@ -1,4 +1,24 @@
 <item> 
+<title>Thor: Love and Thunder - 4K - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a3f7fb457c977a02ff5d6c8231f1e2edd933099</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
+<genre>Ação, Aventura, Comédia</genre>
+<year>2022</year>
+<rate>7.2</rate>
+<aired>2022/07/07</aired>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Elvis - 4K - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f5d538eac9163f6b6e4d454b5e493838fd0dcfa5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg</thumbnail>
+<genre>Drama, História, Música</genre>
+<year>2022</year>
+<rate>7.8</rate>
+<aired>2022/07/14</aired>
+</item>
+----------------------------------------------------------------------------
+<item> 
 <title>Samaritano - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:668d37244a196e31bf33510f2f1f439c8924f839</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
