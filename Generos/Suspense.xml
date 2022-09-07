@@ -2387,8 +2387,8 @@
 
 <item>
 <title>Sem Escalas</title>
------<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e1950bdd325b524ce64cde56ca82733631dab47$nome=[B]Sem Escalas - 720p[/B]</link>
------<link>plugin://plugin.video.torrest/play_magnet?magnet=magnet:?xt=urn:btih:7e1950bdd325b524ce64cde56ca82733631dab47$nome=Sem Escalas [T]</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7e1950bdd325b524ce64cde56ca82733631dab47$nome=Sem Escalas - 720p</link>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfc911985f532e557c12fd0753b9593788e96d65$nome=Sem Escalas - 720p BDrip</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/dcPPIL1Go1awFFxlcB29qqwiynz.jpg</thumbnail>
 <genre>[I] Ação/Thriller[/I]</genre>
 <aired>2014/02/28</aired>
