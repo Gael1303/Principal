@@ -50,7 +50,6 @@ standalone="yes"?>
 <fanart>https://www.tremplin-numerique.org/wp-content/uploads/2022/01/Intel-interrompt-la-lecture-de-disques-Blu-Ray-4K-sur-de.jpg</fanart>
 <info>[B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
 [B][COLOR red]●[/COLOR]Arquivos com mais de 30gb[/B]
-[B][COLOR red]●[/COLOR]Ajuste o buffer da sua box[/B]
 [B][COLOR red]●[/COLOR]Minimo de 800MB de memoria RAM livres[/B]</info>
 </channel>
 
@@ -65,9 +64,9 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 </channel>  
   
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] 3D</name>
+<name>[COLOR yellow][B]≡[/B][/COLOR] 3D [COLOR gray](MANUTENÇÃO)[/COLOR]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-58-58-554.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/3d.xml</externallink>
+<externallink>https://</externallink>
 <fanart>https://t.ctcdn.com.br/TTL_lJTbaPOcVQ-JopMiEaGd7QQ=/50x0:1720x940/1400x788/smart/i371388.jpeg</fanart>
 <info>[B]FUNCIONAL APENAS EM PC,NOTEBOOK E TV COM FUNÇÃO 3D. NÃO SE ESQUEÇA DOS OCULOS[/B]</info>
 </channel>
@@ -91,7 +90,6 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 [B][COLOR red]●[/COLOR]Apenas filmes com audio original (EN)		
 [B][COLOR red]●[/COLOR]Necessario um bom processador e uma boa internet!!![/B]
 [B][COLOR red]●[/COLOR]Arquivos em 4K[/B]
-[B][COLOR red]●[/COLOR]Ajuste o buffer da sua box[/B]
 [B][COLOR red]●[/COLOR]Minimo de 700MB de memoria RAM livres[/B]</info>
 </channel>
 </channels>
