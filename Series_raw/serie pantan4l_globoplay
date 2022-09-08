@@ -1006,6 +1006,22 @@
 <duration>3000</duration>
 </item> 
 
+<item>
+<title>Episodio 139</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:497e23263f7e8bf3f6c23b93720d1d0b5865dff1</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 140</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f9f8829d8e8eb3ae081c7c2a145ec75d9417601d</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
 
 <item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
