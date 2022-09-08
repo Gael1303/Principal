@@ -4,6 +4,48 @@ standalone="yes"?>
 <items>
 
 <item> 
+<title>Pinóquio</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:08c08230ba9f778ff1dce039a4cb4d1b20852c70</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/nnUQqlVZeEGuCRx8SaoCU4XVHJN.jpg</fanart>
+<genre>Fantasia, Aventura, Família</genre>
+<year>2022</year>
+<rate>6.7</rate>
+<aired>2022/09/07</aired>
+<duration>6660</duration>
+<studio>DISNEY+</studio>
+<info>O conto do boneco de madeira em uma arrepiante aventura para virar um menino de verdade, recontado.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Beast - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f08bf13882c5227907201592c3005e23f54f8cbf</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8TUb2U9GN3PonbXAQ1FBcJ4XeXu.jpg</fanart>
+<genre>Thriller, Terror</genre>
+<year>2022</year>
+<rate></rate>
+<aired>2022/08/11</aired>
+<duration>5580</duration>
+<info>Em A Fera, Dr. Nate Daniels (Idris Elba) é um homem que perdeu a mulher recentemente. Para viver o luto, ele decide retornar à África do Sul, local onde conheceu sua falecida esposa, para passar férias há muito planejadas com suas duas filhas (Iyana Halley e Leah Jeffries) em uma reserva natural administrada pelo velho amigo da família Martin Battles (Sharlto Copley), um biólogo da vida selvagem. Mas esse descanso há muito tempo esperado e tranquilo se transformará em um teste de sobrevivência quando um leão sedento de vingança, o único sobrevivente da caça sanguinária de caçadores furtivos, que mataram toda sua manada, começa a devorar qualquer humano em seu caminho, já que considera todos os humanos como um inimigo e persegue o médico e sua família por toda a savana. Agora, o único jeito de escapar das garras da fera é lutando e sobrevivendo, ou matar o leão de uma vez por todas.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Obi-Wan Kenobi: O Retorno do Jedi</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1de43d1275cc18b00660eaf5d4bb0f663dadf612</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gIFwT8iabcTrcufg8LwuX6aMf5m.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/PSBUyz5jXYqKr2OvLhQWmTbmSx.jpg</fanart>
+<genre>Documentário</genre>
+<year>2022</year>
+<rate>6.7</rate>
+<studio>DISNEY+</studio>
+<aired>2022/09/08</aired>
+<duration>3600</duration>
+<info>Com cenas de bastidores nunca vistas, histórias pessoais e momentos significativos, veja a produção da série original da Lucasfilm para o Disney+, Obi-Wan Kenobi, uma história épica que começa 10 anos após os dramáticos eventos de Star Wars: A Vingança dos Sith. Este documentário perspicaz explora o retorno de Obi-Wan Kenobi e Anakin Skywalker à tela – e Ewan McGregor e Hayden Christensen aos seus respectivos papéis clássicos.</info>
+</item>
+----------------------------------------------------------------------------        
+        
+<item> 
 <title>Thor: Amor e Trovão</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1f492bdf31cccd25fdeac67ad2a6e6582805891</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
