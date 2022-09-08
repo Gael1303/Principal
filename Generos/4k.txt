@@ -1,11 +1,30 @@
 <item> 
-<title>Thor: Love and Thunder - 4K - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a3f7fb457c977a02ff5d6c8231f1e2edd933099</link>
+<title>Thor: Amor e Trovão - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66a573fedbc4ba29515790ebe17235a496c5f10e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
 <genre>Ação, Aventura, Comédia</genre>
 <year>2022</year>
 <rate>7.2</rate>
 <aired>2022/07/07</aired>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Pinocchio - 4K - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:413ed995412b9b89ad1c2536ceae5591025be62a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg</thumbnail>
+<genre>Fantasia, Aventura, Família</genre>
+<year>2022</year>
+<aired>2022/09/07</aired>
+<studio>DISNEY+</studio>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Beast - 4K - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f9c3ce6c97a69e48eae3e3a5c6602396742982c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
+<genre>Thriller, Terror</genre>
+<year>2022</year>
+<aired>2022/08/11</aired>
 </item>
 ----------------------------------------------------------------------------
 <item> 
