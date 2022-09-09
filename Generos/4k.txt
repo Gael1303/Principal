@@ -9,8 +9,8 @@
 </item>
 ----------------------------------------------------------------------------
 <item> 
-<title>Pinocchio - 4K - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:413ed995412b9b89ad1c2536ceae5591025be62a</link>
+<title>Pinóquio - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0109ba6e5370b2f1837231e10202585ffe8c49fc</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hVPMjz4GXxxS4dMcaxTComi3KzR.jpg</thumbnail>
 <genre>Fantasia, Aventura, Família</genre>
 <year>2022</year>
