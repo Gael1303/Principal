@@ -1022,6 +1022,22 @@
 <duration>3000</duration>
 </item> 
 
+<item>
+<title>Episodio 141</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7f9d88f70a4d6d806e723037ef329d05fbebb6ae</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 142</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:20a0de23176b3fd621369b18c92ba91ba1e5d951</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
 
 <item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
