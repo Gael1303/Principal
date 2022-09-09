@@ -2,6 +2,46 @@
 standalone="yes"?>
 
 <items>
+        
+<item> 
+<title>Amor de Redenção</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:15a3276e195aa79d00e04ee198be486badea1851</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pJ8JOxNFWrr2T93PMzgmbA7IoV8.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/lD8dFIk9wDEvOwZw0RB47e346io.jpg</fanart>
+<genre>Romance, Drama, História</genre>
+<year>2022</year>
+<rate>6.6</rate>
+<aired>2022/06/09</aired>
+<duration>8040</duration>
+<info>Califórnia, 1850. Angel, vendida como prostituta quando criança, aprendeu a desconfiar de todos os homens, que a veem apenas como uma forma de satisfazer seus desejos. Quando o virtuoso Michael Hosea recebe de Deus a ordem de se casar com Angel, ele obedece, apesar de seus receios. Baseado no romance "Amor de Redenção", de Francine Rivers.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Paixão Sufocante</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a6650c647f2075c193c8450568c2f3260cb9f4fe</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kYIPV5vcZOKWiKleJCmZvHAjnBk.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/7A2JqADvmreJ18h43gryQbbyVC.jpg</fanart>
+<genre>Drama</genre>
+<year>2022</year>
+<rate>6.8</rate>
+<aired>2022/09/09</aired>
+<duration>7200</duration>
+<info>Com um visual arrebatador, este drama conta a história de um amor profundo e destrutivo entre uma mergulhadora talentosa e seu instrutor de mergulho livre.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Fim da Estrada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:433c702faf89f70a0b3881ae35870e5a627d57bc</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/aqUTMmzAmNgmr55U1dezPVTQAHP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gbc61su3apuFt036SpuxoVFW4Sh.jpg</fanart>
+<genre>Suspense, Drama</genre>
+<year>2022</year>
+<rate>6.1</rate>
+<aired>2022/09/09</aired>
+<duration>5400</duration>
+<info>Depois de ficar viúva e perder o emprego, Brenda atravessa o país com a família para recomeçar a vida. No deserto do Novo México, longe de qualquer possibilidade de ajuda, eles viram alvos de uma perseguição mortal e precisam aprender a se defender.</info>
+</item>
+----------------------------------------------------------------------------        
 
 <item> 
 <title>Pinóquio</title>
