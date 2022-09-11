@@ -1038,6 +1038,22 @@
 <duration>3000</duration>
 </item> 
 
+<item>
+<title>Episodio 143</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dba83c690f95509d3f73f49992c5d3b1fb843e10</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
+<item>
+<title>Episodio 144</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd4efd23d7e6bba48de7fb5a39746a3304f96b13</link>
+<thumbnail>https://archive.org/download/pantanal-s-1/Pantanal%20s1.jpg</thumbnail>
+<genre>Novela</genre>
+<duration>3000</duration>
+</item> 
+
 
 <item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
