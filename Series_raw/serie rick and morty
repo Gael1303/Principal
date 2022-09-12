@@ -92,8 +92,15 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
 </item> 
+
 <item>
 <title>Rick and Morty - T06 - EP 01</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b09aadf170a6caa0c35dbe373a081160baaf36f3</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rick and Morty - T06 - EP 02</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a57fa31ff68e5d34fb1373f5262ba5ddfb82430</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
 </item>
