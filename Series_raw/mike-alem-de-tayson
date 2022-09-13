@@ -30,6 +30,15 @@
 <genre>Drama</genre>
 </item>
 ----------------------------------------
+
+<item>
+<title>Mike: Além de Tyson - EP 05-6</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb2e146947231f4daf81ebab301f9377b2a0b0fd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2cZCfifyh5ElYv0rbFFqkqs0bp5.jpg</thumbnail>
+<duration>1800</duration>
+<genre>Drama</genre>
+</item>
+----------------------------------------
 <item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome= - 1080p</link>
