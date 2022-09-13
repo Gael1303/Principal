@@ -122,4 +122,11 @@ Imagine uma moça rica, glamurosa, que ama viver no luxo, dona e proprietária d
 <genre>Crime, Suspense</genre> <aired>2021/10/15</aired> <studio>NETFLIX</studio>
 <info>Depois do assassinato do pai, uma mulher com sede de vingança deposita a confiança em um chefão do crime — e acaba entrando para a polícia sob seu comando.</info>
 </channel>
+
+<channel> <name>Hospital Playlist [COLOR yellow]8.7[/COLOR]
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20hospital%20playlist</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg</thumbnail> <fanart>https://i1.wp.com/www.geekguia.com.br/wp-content/uploads/2020/05/hospital-playlist-logo.jpg</fanart>
+<genre>Comédia, Drama</genre> <aired>2020/03/12</aired> <studio>NETFLIX</studio>
+<info>Todo dia é incrível para cinco médicos e seus pacientes nesse hospital no qual vida, morte e tudo o que acontece entre uma coisa e outra coexistem.</info>
+</channel>
 </channels>
