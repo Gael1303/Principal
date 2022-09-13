@@ -115,4 +115,25 @@ Imagine uma moça rica, glamurosa, que ama viver no luxo, dona e proprietária d
 <genre>Ação, Drama, Policial</genre> <aired>2021/09/10</aired> <studio>NETFLIX</studio>
 <info>Um programa de investigação de espionagem no estilo coreano com uma história sobre um importante agente do Serviço de Inteligência Nacional (NIS). Em seu esforço para descobrir o traidor interno que o levou à queda, ele enfrenta um inimigo muito maior por trás da organização. Emissora: MBC • Episódios: 12 • Duração: 1hr. 20 min.</info>
 </channel>
+  
+<channel> <name>My Name [COLOR yellow]8.8[/COLOR]</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20my%20name</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h9p1zxKzti35Aqe6xpwkP9NlG7p.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/4LZuFMhLivOSO7zuWAQ3RffMnnr.jpg</fanart>
+<genre>Crime, Suspense</genre> <aired>2021/10/15</aired> <studio>NETFLIX</studio>
+<info>Depois do assassinato do pai, uma mulher com sede de vingança deposita a confiança em um chefão do crime — e acaba entrando para a polícia sob seu comando.</info>
+</channel>
+----------------------------------
+<channel> <name>Hospital Playlist [COLOR yellow]8.7[/COLOR]
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20hospital%20playlist</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8MSjQkH2FrG0t4l84L5HmiSFrS7.jpg</thumbnail> <fanart>https://i1.wp.com/www.geekguia.com.br/wp-content/uploads/2020/05/hospital-playlist-logo.jpg</fanart>
+<genre>Comédia, Drama</genre> <aired>2020/03/12</aired> <studio>NETFLIX</studio>
+<info>Todo dia é incrível para cinco médicos e seus pacientes nesse hospital no qual vida, morte e tudo o que acontece entre uma coisa e outra coexistem.</info>
+</channel>
+--------------------------------------------
+<channel> <name>Holo, Meu Amor [COLOR yellow]7.5[/COLOR]</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Holo%2C%20Meu%20Amor</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nLbKNyUKq6WMMoPuL712m43MVhc.jpg</thumbnail> <fanart>http://maratonadesofa.com/wp-content/uploads/2018/07/HOLO-DESTAQUE.jpg</fanart>
+<genre>Drama, Ficção, Romance</genre> <aired>2020/02/07</aired> <studio>NETFLIX</studio>
+<info>Uma série sul-coreana original Netflix. Uma mulher solitária encontra um amor inesperado ao estabelecer uma ligação com um holograma em forma humana que tem aparência igual à do seu criador.</info>
+</channel>
 </channels>
