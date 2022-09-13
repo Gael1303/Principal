@@ -95,3 +95,24 @@ Imagine uma moça rica, glamurosa, que ama viver no luxo, dona e proprietária d
 <info>Há um cientista genial que tenta revelar o segredo do ser que vive no nosso mundo, escondendo as suas identidades. E conheceu uma pessoa que viaja no tempo contra uma longa e dura viagem para o salvar.</info>
 </channel>
 ------------------------------
+<channel> <name>Garota de Fora [COLOR yellow]7.7[/COLOR]</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20garota%20de%20fora</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nhuhxiVTm1EvhLkjAy2ywdDE1PA.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/1OEj3Y6WAbsAMFnjQuknpXA8IaG.jpg</fanart>
+<genre>Drama, Suspense, Crime</genre> <aired>2018/10/27</aired> <studio>NETFLIX</studio>
+<info>Após ser transferida para uma escola considerada perfeita, a inteligente e misteriosa Nanno expõe as mentiras e os delitos da instituição e dos colegas.</info>
+</channel>
+--------------------------------
+<channel> <name>Stranger [COLOR yellow]8.6[/COLOR]</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20stranger</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/blbbtx7DyvZ3JTGyc9MCArDL79b.jpg</thumbnail> <fanart>https://www.serialminds.com/wp-content/uploads/2021/05/stranger-netflix-2.jpg</fanart>
+<genre>Crime, Drama, Suspense</genre> <aired>2017/06/10</aired> <studio>NETFLIX</studio>
+<info>Um promotor frio se alia a uma policial fervorosa para capturar um assassino em série. Mas a corrupção que os rodeia é mais perigosa do que o assassino que não conhecem.</info>
+</channel>
+--------------------------------
+<channel> <name>The Veil [COLOR yellow]7.7[/COLOR]</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20veil</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nVMmNwMXrXBmTMn1HtUdpB7RPZw.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/apZaPnoNZxC8DETSjFSll7ivu5x.jpg</fanart>
+<genre>Ação, Drama, Policial</genre> <aired>2021/09/10</aired> <studio>NETFLIX</studio>
+<info>Um programa de investigação de espionagem no estilo coreano com uma história sobre um importante agente do Serviço de Inteligência Nacional (NIS). Em seu esforço para descobrir o traidor interno que o levou à queda, ele enfrenta um inimigo muito maior por trás da organização. Emissora: MBC • Episódios: 12 • Duração: 1hr. 20 min.</info>
+</channel>
+</channels>
