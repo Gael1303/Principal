@@ -2,6 +2,46 @@
 standalone="yes"?>
 
 <items>
+    
+<item> 
+<title>Broad Peak</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa703328813bdb9d67b69597e56af15d8bc992e2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/n7eiUpUb27Vpd3MBfLro9rkUo0F.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/vW2oUgMX3ZhKMPTwYbGnkYDxdUq.jpg</fanart>
+<genre>Drama</genre>
+<year>2022</year>
+<rate>6.7</rate>
+<aired>2022/09/09</aired>
+<duration>6000</duration>
+<info>Depois de escalar a montanha Broad Peak, Maciej Berbeka descobre que a sua viagem até ao cume ainda não terminou. 25 anos mais tarde, ele vai acabar o que começou.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Vingança e Redenção</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:998f049e296cae8bf314b97c9c5f99e2be976f51</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8iyutUryy2zhXp1grba6jl3VXFh.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/eALf96NN2Klrk2HS1t6smWeh6fO.jpg</fanart>
+<genre>Ação, Crime, Thriller</genre>
+<year>2022</year>
+<rate>4.4</rate>
+<aired>2022/06/03</aired>
+<duration>5580</duration>
+<info>Um ex-fuzileiro naval deve lutar contra sua consciência e seu código de honra quando é forçado a fazer serviços para a máfia.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Three Thousand Years of Longing - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2dd1fbadb3f350e30fb1a14fde43e7b5ed5b5dc5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/EYZIi1cMMbdlOn3pzml62vpWUY.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/dJmGrJjR6M8UadHX3eizdDdoVgI.jpg</fanart>
+<genre>Fantasia, Drama, Romance</genre>
+<year>2022</year>
+<rate>6.9</rate>
+<aired>2022/09/01</aired>
+<duration>6480</duration>
+<info>Uma estudiosa solitária viaja para Istambul e descobre um Djinn que lhe oferece três desejos em troca de sua liberdade.</info>
+</item>
+----------------------------------------------------------------------------        
         
 <item> 
 <title>Amor de Redenção</title>
