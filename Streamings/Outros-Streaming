@@ -1,9 +1,4 @@
-<channels><channel> <name>Gigolô Americano [COLOR yellow]7.6[/COLOR]</name>
----<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/gigolo-americano</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/m0nRFOLYUju4XHG7v2jZZf3n6vs.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/3Kqs0JE07sWdK1Hp3uvooy6FKuB.jpg</fanart>
-<genre>Drama</genre> <aired>2022/09/11</aired> <studio>PARAMOUNT+</studio>
-<info>Libertado após quinze anos de prisão por um assassinato que não cometeu, o ex-gigolô Julian Kaye enfrenta o desafio de se reerguer enquanto o detetive que o colocou atrás das grades tenta desvendar o mistério que o levou à prisão.</info> </channel></channels>
----------------------------------------------
+
 <channels><channel> <name>A Rainha Serpente [COLOR yellow]7.6[/COLOR]</name>
 ---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/a-rainha-serpente</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/original/1ZHimZQ8xz8PN7RASXd0Liikivb.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/bI2KQN3dEBdOVY817HN8RYE1wOf.jpg</fanart>
@@ -62,20 +57,6 @@ Um ex-agente da CIA, que vive fora da rede, se vê fugindo de pessoas que querem
 </info>
 </channel></channels>
 
-<channels>
-<channel>
-<name>Star Trek: Strange New Worlds [COLOR yellow]8.0[/COLOR]</name>
----<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20star%20trek%20new%20world</externallink>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYWNlYmZkZjQtNjU5OS00YTNkLWJmOTEtYmZiMmUwZGI3NTM3XkEyXkFqcGdeQXVyMTM2NTIwMDIw._V1_.jpg</thumbnail>
-<fanart>https://images.squarespace-cdn.com/content/v1/5cc3d1b051f4d40415789cc2/1bd5086b-7307-4f27-abd3-562fd408cf5a/star-trek-strange-new-worlds-posters.png</fanart>
-<genre>Aventura</genre>
-<aired>2022/05/05</aired>
-<info>
-Em Star Trek: Strange New Worlds, o capitão Christopher Pike (Anson Mount) lidera a equipe do USS Enterprise pelos confins do universo em aventuras perigosas e intensas. Passando-se antes da trama da série original, Strange New Worlds explora mais profundamente o universo Star Trek antes da chegada do icônico Capitão Kirk (William Shatner). Pike, ainda inexperiente em liderar toda a Enterprise por conta própria, se apoia na ajuda de seus companheiros da nave, em especial Una Chin-Riley (Rebecca Romjin), segunda em comando depois dele. Além disso, ele conta a inteligência ímpar do popular personagem Spock (Ethan Peck), um alienígena meio humano meio vulcano. Os passageiros da USS Enterprise irão se aventurar por lugares inimagináveis e viverão uma jornada intensa pela galáxica, encontrando aliados fiéis, mas também fazendo inúmeros inimigos perigosos pelo caminho. Mas com o apoio de cada um, poderão completar suas missões com sucesso.
-</info>
-</channel>
-</channels>
-
 
 <channels>
 <channel>
@@ -93,38 +74,6 @@ Na série 19-2, acompanhamos os dramas cotidianos da vida de dois parceiros relu
 </channels>
 
 
-<channels>
-<channel>
-<name>iCarly: Revival [COLOR yellow]6.7[/COLOR]</name>
----<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20icarly%20revival</externallink>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BYzczOGE2NGYtMGE4MS00MTEwLWIxOWEtZmQ3MDJlOWViY2ViXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_.jpg</thumbnail>
-<fanart>https://www.entertainmenthoek.nl/wp-content/uploads/2022/03/iCarly-seizoen-2-trailer-scaled.jpg</fanart>
-<genre>Comédia, Drama</genre>
-<aired>2021/10/29</aired>
-<study>https://static.wikia.nocookie.net/rugrats/images/6/65/Paramount_Plus_Logo.png/revision/latest/scale-to-width-down/4135?cb=20210128082031</study>
-<info>
-
-Carly, Spencer e Freddie exploram novas aventuras em seus vinte e poucos anos.
-</info>
-</channel>
-</channels>
-
-
-
-<channels>
-<channel>
-<name>Joe Pickett [COLOR yellow]7.5[/COLOR]</name>
----<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Joe%20Pickett</externallink>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BNWI2ZThmMjUtOGNjZi00Y2JhLTk5ODQtNjI0NjlhODRmYWJkXkEyXkFqcGdeQXVyNDI3NjU1NzQ@._V1_.jpg</thumbnail>
-<fanart>https://media.distractify.com/brand-img/HC0P1Z87u/0x0/joepickett-1638366040780.jpeg</fanart>
-<genre>Drama</genre>
-<aired>2022/04/03</aired>
-<info>
-
-Joe Pickett é uma série dramática baseada na famosa série de livros escrita por C.J. Box. A história segue um guarda florestal e sua família que devem enfrentar as mudanças no clima político e socioeconômico da zona rural de Wyoming.
-</info>
-</channel>
-</channels>
 
 
 <channels>
@@ -159,20 +108,6 @@ A jornada de um adolescente esperto de rua cuja vida é transformada para sempre
 </channel>
 </channels>
 
-
-<channels>
-<channel>
-<name>Halo [COLOR yellow]6.2[/COLOR]</name>
----<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20halo</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/original/kZ4WEkyWG0XJL71PIEpYdbDHOuz.jpg</thumbnail>
-<fanart>https://m.media-amazon.com/images/M/MV5BZTAxYWZlZTUtYWU0NC00NmNkLWFiYjYtNGJjNzRmMjczNjFkXkEyXkFqcGdeQWRvb2xpbmhk._V1_.jpg</fanart>
-<genre>Ação | Aventura | Ficção</genre>
-<info>
-
-Em Halo, uma épica batalha acontece no durante o século XXVI entre a raça humana e uma espécie alienígena conhecida como Covenant. Após anos de domínio, quando colônias começam a se rebelar, a liderança da raça Covenant declara que humanos são hereges perante seus deuses e inicia uma onda genocida contra a raça humana. Após a redescoberta dos anéis de Halo, o líder Master Chief (Pablo Schreiber) ao lado de sua equipe e a inteligência artificial Cortana, irão tentar destruir o que para os Covenant é um instrumento poderoso. Em contrapartida, a espécie Covenant também passa por conflitos internos próprios quando um de seus comandantes é exilado e se alia junto com outros divergentes ao lado dos humanos. A trama explora a complexidade dessa nova sociedade em conflito e o passado de seus personagens, além de trazer incríveis cenas de ação.
-</info>
-</channel>
-</channels>
 
 
 <channels>
@@ -267,20 +202,6 @@ Em uma sombria cidade no centro dos Estados Unidos que aprisiona qualquer um que
 </channel>
 </channels>
 
-
-<channels>Outros
-<channel>
-<name>Além da Imaginação [COLOR yellow]7.8[/COLOR]</name>
----<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20Al%C3%A9m%20da%20Imagina%C3%A7%C3%A3o</externallink>
-<thumbnail>https://m.media-amazon.com/images/M/MV5BOTc4YjU0ZDktNzE2Ny00MDdmLWIwZDQtMzU2NzhmODA4YmMwXkEyXkFqcGdeQXVyNjExODE1MDc@._V1_.jpg</thumbnail>
-<fanart>https://static1.srcdn.com/wordpress/wp-content/uploads/2020/06/The-Twilight-Zone-1980s-Revival-Logo.jpg</fanart>
-<genre> Ficção Científica, Fantasia, Drama</genre>
-<info>
-Uma coleção de histórias que vão do cômico ao trágico, mas geralmente têm um senso de humor perverso e uma reviravolta inesperada.</info>
-</channel>
-</channels>
-
-
 <channels>outros
 <channel>
 <name>Scorpion: Serviço de Inteligência [COLOR yellow]7.1[/COLOR]</name>
@@ -292,22 +213,6 @@ Uma coleção de histórias que vão do cômico ao trágico, mas geralmente têm
 O Departamento de Segurança Interna recruta um gênio e sua equipe de prodígios para proteger a nação contra uma nova e sofisticada geração de terroristas.</info>
 </channel>
 </channels>
-
-
-
-<channels>Outros
-<channel>
-<name>1883 [COLOR yellow]8.4[/COLOR]</name>
----<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%201883</externallink>
-<thumbnail>https://tvseriesfinale.com/wp-content/uploads/2021/11/1883-poster.jpg</thumbnail>
-<fanart>https://cdn.mos.cms.futurecdn.net/eGif8Zvbyvfi5nzZcuRSpA-1200-80.png</fanart>
-<genre>Drama, Faroeste</genre>
-<info>
-Situada séculos antes de Yellowstone, essa prequel acompanha a família Dutton enquanto embarcam numa jornada ao oeste em busca do último pedaço de terra intocado da América.</info>
-</channel>
-</channels>
-
-
 
 
 <channels>
