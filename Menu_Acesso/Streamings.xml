@@ -114,6 +114,18 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
+		<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR white][B]PARAMOUNT+[/B][/COLOR]</name>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/31T6d13zC6L.png</thumbnail>
+		<externallink>https://</externallink>
+		<fanart>https://t2.tudocdn.net/562644</fanart>
+		<info>
+[B]SÉRIES DISPONIVEIS PARAMOUNT+[/B]
+</info>
+	</channel>
+</channels>
+------------------------------------------------------------------------------------------------------------------------------------
+<channels>
+	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR blue][B]PRIME VIDEO[/B][/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41mpv9rBhmL.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Prime_Video.xml</externallink>
