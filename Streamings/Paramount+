@@ -38,3 +38,10 @@
 <genre> Ficção Científica, Fantasia, Drama</genre> <studio>PARAMOUNT+</studio>
 <info>Uma coleção de histórias que vão do cômico ao trágico, mas geralmente têm um senso de humor perverso e uma reviravolta inesperada.</info>
 </channel></channels>
+----------------------------------------------
+<channels><channel> <name>1883 [COLOR yellow]8.4[/COLOR]</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%201883</externallink>
+<thumbnail>https://tvseriesfinale.com/wp-content/uploads/2021/11/1883-poster.jpg</thumbnail> <fanart>https://cdn.mos.cms.futurecdn.net/eGif8Zvbyvfi5nzZcuRSpA-1200-80.png</fanart>
+<genre>Drama, Faroeste</genre> <studio>PARAMOUNT+</studio>
+<info>Situada séculos antes de Yellowstone, essa prequel acompanha a família Dutton enquanto embarcam numa jornada ao oeste em busca do último pedaço de terra intocado da América.</info>
+</channel></channels>
