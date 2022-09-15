@@ -1,11 +1,14 @@
 <item>
-<title>1ª Temporada - Legendada</title>harley quinn
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b3197ff8091e6d3b0984d61a07a170cdd1ebab93</link>
+<title>Harley Quinn - 1ª Temporada</title>harley quinn
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3a7df7c0682d4ef6c14a97b881deb735cb79542$nome=Harley Quinn T01 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff12603232bfde85d17db68d2415031a4a9e6fb8$nome=Harley Quinn S01 4K Leg</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/2qZwqQzm9GfxamposgXrX7dLKcF.jpg</thumbnail>
 </item> 
+
 <item>
-<title>2ª Temporada - Legendada</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c4af68a6650596cbebb57d55a5139a241439093</link>
+<title>Harley Quinn - 2ª Temporada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3dfc053a8736c2c51f1df537e658a016b797333a$nome=Harley Quinn T01 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0b4023e8700fdd665c363e4cf011dcca60349c7b$nome=Harley Quinn S01 4K Leg</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sefSAj6FqEdmXQ7CRfvuEhcHwGl.jpg</thumbnail>
 </item> 
 
@@ -16,7 +19,25 @@
 </item> 
 
 <item>
-<title>Episodio 01-3</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f0a7426129c1ffa4e05539ecdfbbdff5e607860</link>
+<title>Harley Quinn - T3 - EP 01-5</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c3a68bd979c659a8dfed7490bea4be5540c2a94</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sefSAj6FqEdmXQ7CRfvuEhcHwGl.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Harley Quinn - T3 - EP 06</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0541d75ec79ca378282a8590ba79c8bb95661d9</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sefSAj6FqEdmXQ7CRfvuEhcHwGl.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Harley Quinn - T3 - EP 07</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8b7cf71e16bc7df6e859787f3835bd0292ab49cd</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/sefSAj6FqEdmXQ7CRfvuEhcHwGl.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Harley Quinn - T3 - EP 08-9</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25819f997d65dcc6434d6bf85d93f66275a3961c</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/sefSAj6FqEdmXQ7CRfvuEhcHwGl.jpg</thumbnail>
 </item> 
