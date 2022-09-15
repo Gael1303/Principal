@@ -1,3 +1,15 @@
+<channels>
+<channel>
+<name>From [COLOR yellow]7.6[/COLOR]</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20from</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/cTUWXPze3Px9HFhbKszc4ejMhuO.jpg</fanart>
+ <genre>Drama, Terror</genre> <studio>APPLE TV+</studio>
+<info>Em uma sombria cidade no centro dos Estados Unidos que aprisiona qualquer um que ouse entrar nela, moradores lutam para sobreviver e encontrar um modo de sair. Mas eles são impedidos por ameaças da floresta que cercam a cidade – incluindo terríveis criaturas noturnas.
+</info>
+</channel>
+</channels>
+
 <channels><channel>
 <name>Black Bird [COLOR yellow]8.4[/COLOR]</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20black_bird</externallink>
@@ -5,7 +17,7 @@
 <fanart>https://www.themoviedb.org/t/p/original/o2C222QdW4dmoyd2dgPlnCcI3cW.jpg</fanart>
 <genre>Drama, Crime</genre>
 <aired>2022/07/06</aired>
-<studio>APPLETV</studio>
+<studio>APPLE TV+</studio>
 <info>
 Inspirado em uma história real. Quando Jimmy Keene começa a cumprir uma sentença de 10 anos de prisão, ele recebe uma oferta incrível: se ele conseguir obter uma confissão do suspeito de assassinato Larry Hall, Jimmy será libertado. Completar esta missão torna-se o desafio de sua vida.
 </info>
