@@ -1,19 +1,78 @@
--------------------------------------------------
-
 <item>
-<title>[COLOR white][B]From - Season 01[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ba70e17bff8f64bee674dcb3593113ba5a7a0ec$nome=From S01 E01</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c8cbadb8f998ea294874d1ecfb02588e42e3014$nome=From S01 E02</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6d7cefd70febc2775e43c6550fcdeab4205e211$nome=From S01 E03</link>
+<title>From S01 E01</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ba70e17bff8f64bee674dcb3593113ba5a7a0ec$nome=From S1 E1 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:842ed8f52a3340892bc57fd2c5d44be8f5b8bd0a$nome=From S1 E1 4K</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
-<genre>[I]Drama, Terror, Mistério[/I]</genre>
+<genre>Drama, Terror, Mistério</genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]From - Season 01 (4K)[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:842ed8f52a3340892bc57fd2c5d44be8f5b8bd0a$nome=From S01 E01</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e5d8cbecf925d280d99171b54298338f60b8129$nome=From S01 E02</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bb88352ad1d0b34b78c55c22a414dec12182236$nome=From S01 E03</link>
+<title>From S01 E02</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c8cbadb8f998ea294874d1ecfb02588e42e3014$nome=From S1 E2 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2e5d8cbecf925d280d99171b54298338f60b8129$nome=From S1 E2 4K</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
-<genre>[I]Drama, Terror, Mistério[/I]</genre>
+<genre>Drama, Terror, Mistério</genre>
+</item> 
+
+<item>
+<title>From S01 E03</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b6d7cefd70febc2775e43c6550fcdeab4205e211$nome=From S1 E3 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5bb88352ad1d0b34b78c55c22a414dec12182236$nome=From S1 E3 4K</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<genre>Drama, Terror, Mistério</genre>
+</item> 
+
+<item>
+<title>From S01 E04</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b7c618a0f9f42f1d33e534587ca62491e7dc87b1$nome=From S1 E4 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4b79e398c422704eb82cd631f71ae51c8bc097e2$nome=From S1 E4 4K</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<genre>Drama, Terror, Mistério</genre>
+</item> 
+
+<item>
+<title>From S01 E05</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3cc3bb86c187d460f2ebf8d907ec63da4f3b8eb2$nome=From S1 E5 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc55941bbae8acac6b1526fad9b883b4e075a79c$nome=From S1 E5 4K</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<genre>Drama, Terror, Mistério</genre>
+</item> 
+
+<item>
+<title>From S01 E06</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fbcb58eed7107b3e133a5a318bb3380c5f04d29b$nome=From S1 E6 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dae76d2ebe16a16bf89c4a722c77a6767e8fb7f3$nome=From S1 E6 4K</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<genre>Drama, Terror, Mistério</genre>
+</item> 
+
+<item>
+<title>From S01 E07</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2faab642bfd65c71636d698fe106d021b81519d9$nome=From S1 E7 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1451e9aa6e402be3b11c2f14fc160da05bfbc979$nome=From S1 E7 4K</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<genre>Drama, Terror, Mistério</genre>
+</item> 
+
+<item>
+<title>From S01 E08</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f6aeb61183a85f5bbf847c410bebd34006d194eb$nome=From S1 E8 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e87f14c414c8d886256e6f261bb5477cd37ca748$nome=From S1 E8 4K</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<genre>Drama, Terror, Mistério</genre>
+</item> 
+
+<item>
+<title>From S01 E09</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9961b91d7d7dda467e4624f9088ba0a741b2d7c5$nome=From S1 E9 1080P</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cbfed8a9b70644238910a2b9c027d0773293e8dd$nome=From S1 E9 4K</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<genre>Drama, Terror, Mistério</genre>
+</item> 
+
+<item>
+<title>From S01 E10</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cc6d07b652caed058e120286036ea520376c555e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/h2XVccFQMQSBb6ZhyXOHMtAwrMP.jpg</thumbnail>
+<genre>Drama, Terror, Mistério</genre>
 </item> 
