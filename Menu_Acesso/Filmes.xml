@@ -61,16 +61,7 @@ standalone="yes"?>
 <info>[B]Aba feita para quem quer ter um "CINEMA" em casa.[/B]
   
 Recomendado para TV's acima de 55 Polegadas  </info>
-</channel>  
-  
-<channel>
-<name>[COLOR yellow][B]≡[/B][/COLOR] 3D [COLOR gray](MANUTENÇÃO)[/COLOR]</name>
-<thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-58-58-554.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://t.ctcdn.com.br/TTL_lJTbaPOcVQ-JopMiEaGd7QQ=/50x0:1720x940/1400x788/smart/i371388.jpeg</fanart>
-<info>[B]FUNCIONAL APENAS EM PC,NOTEBOOK E TV COM FUNÇÃO 3D. NÃO SE ESQUEÇA DOS OCULOS[/B]</info>
-</channel>
-
+</channel> 
   
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] OSCAR</name>
