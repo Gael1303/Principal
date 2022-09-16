@@ -3,6 +3,35 @@ standalone="yes"?>
 
 <items>
     
+<item>
+<title>O Alfaiate</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b077b9d20b050cd764f6400c51f455ae9b1e2e4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hKu1P98TtARG8wz5VSXIe28vfrG.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/AcGvSRSwQcThKysnD4ohR18NoAt.jpg</fanart>
+<genre>Crime , Drama</genre>
+<year>2022</year>
+<rate>7.5</rate>
+<aired>2022/03/18</aired>
+<userrating>7.5/10</userrating>
+<votes>750</votes>
+<duration>6180</duration>
+<info>‎Um alfaiate especialista deve enganar um grupo perigoso de mafiosos para sobreviver a uma noite fatídica.‎</info>
+</item>
+------------------------------------------------------------------------
+<item> 
+<title>Boa Noite, Mamãe!</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65a1e3b794d51d0616058231b6a9ae65fc372693</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lwq6ct0AeroUxlXwr49QJiMzf4k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/b64ipsqrKgI45j5M9kH9ncM6UD.jpg</fanart>
+<genre>Drama, Terror, Mistério</genre>
+<year>2022</year>
+<rate>8.0</rate>
+<aired>2022/09/16</aired>
+<duration>5520</duration>
+<info>Chegando à casa de campo da mãe, os filhos gêmeos a encontram com o rosto coberto por uma bandagem – resultado, segundo ela, de uma cirurgia plástica recente. À medida em que o comportamento dela se torna cada vez mais errático e incomum, contudo, um pensamento horrível vai se enraizando na mente dos meninos: a suspeita de que a mulher por baixo da bandagem não é a mãe deles.</info>
+</item>
+----------------------------------------------------------------------------    
+    
 <item> 
 <title>Broad Peak</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa703328813bdb9d67b69597e56af15d8bc992e2</link>
