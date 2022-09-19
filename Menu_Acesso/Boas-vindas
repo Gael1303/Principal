@@ -10,7 +10,7 @@
 4. Tenha em mente que voce esta ultilizando um addon via TORRENT,
 sendo necessario conferir se tem seeds o sulficente para o funcionamento.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://</thumbnail>
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info>1.Certifique-se de ter uma conexão estavel e cabeada.
 2.Sempre pause o filme/serie ao iniciar e espere carregar 100%
 3.Aumente o buffer nas configuraçoes do elementum
@@ -20,14 +20,14 @@ sendo necessario conferir se tem seeds o sulficente para o funcionamento.</info>
 
 <item> <title>.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://</thumbnail>
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
 
 <item> <title>[COLOR yellow]P[/COLOR]:[B]NÃO CONSIGO COLOCAR PARA REPRODUZIR AUTOMATICAMENTE[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://</thumbnail>
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
@@ -35,7 +35,7 @@ sendo necessario conferir se tem seeds o sulficente para o funcionamento.</info>
 Séries em TORRENT geralmente sao colocadas em pastas compactadas,
 sendo assim,não possibilitando a reprodução automatica... </title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://</thumbnail>
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
 <info>
 Bom,nem tudo é perfeito.
@@ -43,3 +43,89 @@ Séries em TORRENT geralmente sao colocadas em pastas compactadas,
 sendo assim,não possibilitando a reprodução automatica... </info>
 </item>
 
+
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM COMO PESQUISAR ALGUM FILME/SÉRIE?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]: O modo de pesquisa no addon ainda nao funciona,
+mas voce pode pesquisar entrando no genero e procurar atraves do [COLOR yellow]FILTRO[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>
+O modo de pesquisa no addon ainda nao funciona,
+mas voce pode pesquisar entrando no genero e procurar atraves do [COLOR yellow]FILTRO[/COLOR]</info>
+</item>
+
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<info></info>
+</item>
+
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]O ELEMENTUM SALVA ALGO NO MEU APARELHO?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]: Não, ele apenas utiliza sua memoria RAM para reproduzir os conteudos.
+Mas caso queira que salve, entao habilite essa opção nas configuraçoes</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>
+Não, ele apenas utiliza sua memoria RAM para reproduzir os conteudos.
+Mas caso queira que salve, entao habilite essa opção nas configuraçoes</info>
+</item>
+
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<info></info>
+</item>
+
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]POR QUE 4K E DOLBY VISION NAO DAO IMAGEM?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:Obviamente 4K e DV necessitam de aparelhos compativeis.
+Tanto a TV,quanto o TV BOX/PC etc... o minimo de internet recomendado é de 70 Mb.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Obviamente 4K e DV necessitam de aparelhos compativeis.
+Tanto a TV,quanto o TV BOX/PC etc... o minimo de internet recomendado é de 70 Mb.</info>
+</item>
+
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<info></info>
+</item>
+
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM AREA VIP?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]: Não! esse addon é totalmente gratuito,
+mas caso queria,voce pode doar e ajudar o addon. 
+Doaçoes sao feitas para manutençoes e nao usamos para sustento,até porque nao da...</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Não! esse addon é totalmente gratuito,
+mas caso queria,voce pode doar e ajudar o addon. 
+Doaçoes sao feitas para manutençoes e nao usamos para sustento,até porque nao da...</info>
+</item>
