@@ -1,1 +1,48 @@
-ADDON EM MANUTENÇÃO
+<item> <title>[COLOR yellow]P[/COLOR]:[B]FILMES TRAVANDO?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://</thumbnail>
+<info></info>
+</item>
+
+<item>[COLOR yellow]R[/COLOR]:<title>
+1.Certifique-se de ter uma conexão estavel e cabeada.
+2.Sempre pause o filme/serie ao iniciar e espere carregar 100%
+3.Aumente o buffer nas configuraçoes do elementum
+4.Tenha em mente que voce esta ultilizando um addon via TORRENT,
+sendo necessario conferir se tem seeds o sulficente para o funcionamento.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://</thumbnail>
+
+<info>
+1.Certifique-se de ter uma conexão estavel e cabeada.
+2.Sempre pause o filme/serie ao iniciar e espere carregar 100%
+3.Aumente o buffer nas configuraçoes do elementum
+4.Tenha em mente que voce esta ultilizando um addon via TORRENT,
+sendo necessario conferir se tem seeds o sulficente para o funcionamento.</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://</thumbnail>
+<info></info>
+</item>
+
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]NÃO CONSIGO COLOCAR PARA REPRODUZIR AUTOMATICAMENTE[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]: Bom,nem tudo é perfeito.
+Séries em TORRENT geralmente sao colocadas em pastas compactadas,
+sendo assim,não possibilitando a reprodução automatica... </title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://</thumbnail>
+
+<info>
+Bom,nem tudo é perfeito.
+Séries em TORRENT geralmente sao colocadas em pastas compactadas,
+sendo assim,não possibilitando a reprodução automatica... </info>
+</item>
+
