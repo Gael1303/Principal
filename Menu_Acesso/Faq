@@ -43,6 +43,11 @@ Séries em TORRENT geralmente sao colocadas em pastas compactadas,
 sendo assim,não possibilitando a reprodução automatica... </info>
 </item>
 
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
 
 
 <item> <title>[COLOR yellow]P[/COLOR]:[B]TEM COMO PESQUISAR ALGUM FILME/SÉRIE?[/B]</title>
@@ -84,6 +89,26 @@ Não, ele apenas utiliza sua memoria RAM para reproduzir os conteudos.
 Mas caso queira que salve, entao habilite essa opção nas configuraçoes</info>
 </item>
 
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<info></info>
+</item>
+
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]COMO ADICIONAR LEGENDAS?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]: Entre no site Opensubtitles,crie uma conta
+e atraves das configuraçoes do elementum,coloque seu login e senha</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Entre no site Opensubtitles,crie uma conta
+e atraves das configuraçoes do elementum,coloque seu login e senha</info>
+</item>
 
 <item> <title>.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
@@ -129,3 +154,29 @@ Doaçoes sao feitas para manutençoes e nao usamos para sustento,até porque nao
 mas caso queria,voce pode doar e ajudar o addon. 
 Doaçoes sao feitas para manutençoes e nao usamos para sustento,até porque nao da...</info>
 </item>
+
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<info></info>
+</item>
+
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]COMO POSSO FAZER UMA DOAÇAO?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]: Para doar voce pode escanear o QR Code ao lado.
+ou pelo email: [B]thepiratebr.ofc@gmail.com[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
+
+<info>Para doar voce pode escanear o QR Code ao lado.
+ou pelo email: [B]thepiratebr.ofc@gmail.com[/B]
+
+[COLOR yellow]DOAÇOES NÃO SÃO OBRIGATORIAS,FAÇAM POR LIVRE E ESPOTANEA VONTADE[/COLOR]</info>
+</item>
+
+
