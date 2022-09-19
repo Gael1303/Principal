@@ -4,17 +4,14 @@
 <info></info>
 </item>
 
-<item>[COLOR yellow]R[/COLOR]:<title>
-1.Certifique-se de ter uma conexão estavel e cabeada.
-2.Sempre pause o filme/serie ao iniciar e espere carregar 100%
-3.Aumente o buffer nas configuraçoes do elementum
-4.Tenha em mente que voce esta ultilizando um addon via TORRENT,
+<item><title>[COLOR yellow]R[/COLOR]:1. Certifique-se de ter uma conexão estavel e cabeada.
+2. Sempre pause o filme/serie ao iniciar e espere carregar 100%
+3. Aumente o buffer nas configuraçoes do elementum
+4. Tenha em mente que voce esta ultilizando um addon via TORRENT,
 sendo necessario conferir se tem seeds o sulficente para o funcionamento.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://</thumbnail>
-
-<info>
-1.Certifique-se de ter uma conexão estavel e cabeada.
+<info>1.Certifique-se de ter uma conexão estavel e cabeada.
 2.Sempre pause o filme/serie ao iniciar e espere carregar 100%
 3.Aumente o buffer nas configuraçoes do elementum
 4.Tenha em mente que voce esta ultilizando um addon via TORRENT,
