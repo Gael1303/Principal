@@ -211,23 +211,5 @@ Data: 2022.09.15
 Data: 2022.08.26 
 </info>
 </channel>
-
-</channels>
-
-  
-<channel>
-<name>[COLOR yellow]TODOS OS FILMES[/COLOR]</name>
-<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
-<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/Todos-os-filmes.txt</externallink>
-<info>Aba para facilitar a busca por um filme em especifico.
-
-Ao entrar na aba,ao lado esquerdo clique em "[COLOR yellow]FILTRO[/COLOR]" e digite o nome do filme desejado.
-  
-[COLOR red]OBS[/COLOR]: Por conter muitos filmes,a lista pode demorar a carregar!
-
-Filmes apenas da aba "[COLOR yellow]GENEROS[/COLOR]"
-</info>
-</channel>
-
 </channels>
   
