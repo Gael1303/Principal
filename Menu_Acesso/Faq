@@ -1,4 +1,4 @@
-<item> <title>[COLOR yellow]P[/COLOR]:[B]FILMES TRAVANDO?[/B]</title>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]FILMES TRAVANDO?[/B]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg</thumbnail>
 <info></info>
@@ -8,7 +8,7 @@
 3.Aumente o buffer nas configuraçoes do elementum / 4.Tenha em mente que voce esta ultilizando um addon via TORRENT,
 sendo necessario conferir se tem seeds o suficente para o funcionamento.[B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:[/B]</link>2
-<thumbnail>https://image.tmdb.org/t/p/w342/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg</thumbnail>
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
 <info>
 [COLOR yellow]1[/COLOR].Certifique-se de ter uma conexão estavel e cabeada.
@@ -20,7 +20,7 @@ sendo necessario conferir se tem seeds o suficente para o funcionamento.</info>
 
 <item> <title></title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://image.tmdb.org/t/p/w342/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg</thumbnail>
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
