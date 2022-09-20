@@ -1,76 +1,73 @@
 <item> <title>[COLOR yellow]P[/COLOR]:[B]FILMES TRAVANDO?[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://</thumbnail>
+<thumbnail>https://image.tmdb.org/t/p/w342/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg</thumbnail>
 <info></info>
 </item>
 
-<item><title>[COLOR yellow]R[/COLOR]:1. Certifique-se de ter uma conexão estavel e cabeada.
-2. Sempre pause o filme/serie ao iniciar e espere carregar 100%
-3. Aumente o buffer nas configuraçoes do elementum
-4. Tenha em mente que voce esta ultilizando um addon via TORRENT,
-sendo necessario conferir se tem seeds o sulficente para o funcionamento.</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
-<info>1.Certifique-se de ter uma conexão estavel e cabeada.
-2.Sempre pause o filme/serie ao iniciar e espere carregar 100%
-3.Aumente o buffer nas configuraçoes do elementum
-4.Tenha em mente que voce esta ultilizando um addon via TORRENT,
-sendo necessario conferir se tem seeds o sulficente para o funcionamento.</info>
-</item>
-
-<item> <title>.</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
-<info></info>
-</item>
-
-
-<item> <title>[COLOR yellow]P[/COLOR]:[B]NÃO CONSIGO COLOCAR PARA REPRODUZIR AUTOMATICAMENTE[/B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
-<info></info>
-</item>
-
-<item><title>[COLOR yellow]R[/COLOR]: Bom,nem tudo é perfeito.
-Séries em TORRENT geralmente sao colocadas em pastas compactadas,
-sendo assim,não possibilitando a reprodução automatica... </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<item><title>[COLOR yellow]R[/COLOR]:[B]1.Certifique-se de ter uma conexão estavel e cabeada. / 2.Sempre pause o filme/serie ao iniciar e espere carregar 100%
+3.Aumente o buffer nas configuraçoes do elementum / 4.Tenha em mente que voce esta ultilizando um addon via TORRENT,
+sendo necessario conferir se tem seeds o suficente para o funcionamento.[B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:[/B]</link>2
+<thumbnail>https://image.tmdb.org/t/p/w342/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg</thumbnail>
 
 <info>
-Bom,nem tudo é perfeito.
-Séries em TORRENT geralmente sao colocadas em pastas compactadas,
-sendo assim,não possibilitando a reprodução automatica... </info>
+[COLOR yellow]1[/COLOR].Certifique-se de ter uma conexão estavel e cabeada.
+[COLOR yellow]2[/COLOR].Sempre pause o filme/serie ao iniciar e espere carregar 100%
+[COLOR yellow]3[/COLOR].Aumente o buffer nas configuraçoes do elementum
+[COLOR yellow]4[/COLOR].Tenha em mente que voce esta ultilizando um addon via TORRENT,
+sendo necessario conferir se tem seeds o suficente para o funcionamento.</info>
+</item>
+
+<item> <title></title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://image.tmdb.org/t/p/w342/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM FILME LEGENDADO?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B] Este addon é focado em filmes com dublagem PT-BR.
+Conteudos com audio original só são adicionados em alguns casos. Mas sempre temos opções em DUAL AUDIO[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Este addon é focado em filmes com dublagem PT-BR.
+Conteudos com audio original só são adicionados em alguns casos. Mas sempre temos opções em DUAL AUDIO</info>
 </item>
 
 <item> <title>.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM COMO PESQUISAR ALGUM FILME/SÉRIE?[/B]</title>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]COMO ADICIONAR LEGENDAS?[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
-<item><title>[COLOR yellow]R[/COLOR]: O modo de pesquisa no addon ainda nao funciona,
-mas voce pode pesquisar entrando no genero e procurar atraves do [COLOR yellow]FILTRO[/COLOR]</title>
+<item><title>[COLOR yellow]R[/COLOR]:[B]Entre no site Opensubtitles,crie uma conta
+e atraves das configuraçoes do elementum,coloque seu email e senha[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
-<info>
-O modo de pesquisa no addon ainda nao funciona,
-mas voce pode pesquisar entrando no genero e procurar atraves do [COLOR yellow]FILTRO[/COLOR]</info>
+<info>Entre no site Opensubtitles,crie uma conta
+e atraves das configuraçoes do elementum,coloque seu login e senha</info>
 </item>
-
 
 <item> <title>.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <info></info>
 </item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
 <item> <title>[COLOR yellow]P[/COLOR]:[B]O ELEMENTUM SALVA ALGO NO MEU APARELHO?[/B]</title>
@@ -79,8 +76,8 @@ mas voce pode pesquisar entrando no genero e procurar atraves do [COLOR yellow]F
 <info></info>
 </item>
 
-<item><title>[COLOR yellow]R[/COLOR]: Não, ele apenas utiliza sua memoria RAM para reproduzir os conteudos.
-Mas caso queira que salve, entao habilite essa opção nas configuraçoes</title>
+<item><title>[COLOR yellow]R[/COLOR]:[B]Não, ele apenas utiliza sua memoria RAM para reproduzir os conteudos. Mas caso queira que salve, 
+entao habilite essa opção nas configuraçoes[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
@@ -94,49 +91,255 @@ Mas caso queira que salve, entao habilite essa opção nas configuraçoes</info>
 <info></info>
 </item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]COMO ADICIONAR LEGENDAS?[/B]</title>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]MEUS FILMES/SERIES NAO ENTRAM[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
-<item><title>[COLOR yellow]R[/COLOR]: Entre no site Opensubtitles,crie uma conta
-e atraves das configuraçoes do elementum,coloque seu login e senha</title>
+<item><title>[COLOR yellow]R[/COLOR]:[B]Esse é um addon gratuito e via torrent, alguns erros podem acontecer.
+Se possivel nos avise no telegram e espere uma atualização. E não se esqueça de colaborar[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
-<info>Entre no site Opensubtitles,crie uma conta
-e atraves das configuraçoes do elementum,coloque seu login e senha</info>
+<info>Esse é um addon gratuito e via torrent, alguns erros podem acontecer.
+Se possivel nos avise no telegram e espere uma atualização. E não se esqueça de colaborar</info>
 </item>
 
 <item> <title>.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <info></info>
 </item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-
-<item> <title>[COLOR yellow]P[/COLOR]:[B]POR QUE 4K E DOLBY VISION NAO DAO IMAGEM?[/B]</title>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]NÃO CONSIGO COLOCAR PARA REPRODUZIR AUTOMATICAMENTE[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
-<item><title>[COLOR yellow]R[/COLOR]:Obviamente 4K e DV necessitam de aparelhos compativeis.
-Tanto a TV,quanto o TV BOX/PC etc... o minimo de internet recomendado é de 70 Mb.</title>
+<item><title>[COLOR yellow]R[/COLOR]:[B]Bom,nem tudo é perfeito. Séries em TORRENT geralmente 
+sao colocadas em pastas compactadas,sendo assim,não possibilitando a reprodução automatica...[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
-<info>Obviamente 4K e DV necessitam de aparelhos compativeis.
-Tanto a TV,quanto o TV BOX/PC etc... o minimo de internet recomendado é de 70 Mb.</info>
+<info>Bom,nem tudo é perfeito.
+Séries em TORRENT geralmente sao colocadas em pastas compactadas,
+sendo assim,não possibilitando a reprodução automatica... </info>
 </item>
-
 
 <item> <title>.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM COMO PESQUISAR ALGUM FILME/SÉRIE?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]O modo de pesquisa no addon ainda nao funciona,
+mas voce pode pesquisar entrando no genero e procurar atraves do [COLOR yellow]FILTRO[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>
+O modo de pesquisa no addon ainda nao funciona,
+mas voce pode pesquisar entrando no genero e procurar atraves do [COLOR yellow]FILTRO[/COLOR]</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM AREA DE PEDIDOS?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]NÃO. No momento apenas uma pessoa organiza o addon,
+não sendo viavel uma aba para pedidos. Mas quem sabe em um futuro proximo[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>NÃO. No momento apenas uma pessoa organiza o addon,sendo assim
+não sendo viavel uma aba para pedidos. Mas quem sabe em um futuro proximo</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]OS DESENHOS/SERIES ESTAO FALTANDO EPISODIOS[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]Alguns EPs podem ter menos de 100 mb,nesse caso entre
+nas configuraçoes do elementum e diminua o tamanho de visualizaçoes por Mbs[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Alguns EPs podem ter menos de 100 mb,nesse caso entre
+nas configuraçoes do elementum e diminua o tamanho de visualizaçoes por Mbs</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]FILMES DOLBY VISION COM IMAGEM ROXA[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]Esse é um sinal de que seu aparelho não é compativel com DV.
+Certifique-se de que voce possue essa opçao antes de usar,pois pode causar problema nos LEDs[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Esse é um sinal de que seu aparelho não é compativel com DV.
+Certifique-se de que voce possue essa opçao antes de usar,pois pode causa problema nos LEDs</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]FILME SAINDO SOZINHO?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]É necessario ter memoria RAM o suficiente para usar o addon.
+Recomendavel no minimo 600 mbs de memoria RAM livres para filmes em 1080p[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>É necessario ter memoria RAM o suficiente para usar o addon.
+Recomendavel no minimo 600 mbs de memoria RAM livres para filmes em 1080p</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]POSSO USAR ESSE ADDON EM UMA SKIN?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]Claro! criei esse addon pensamento em seu conforto. Tudo muito bem organizado
+para facilitar as construçoes em builds e skins proprias ou de terceiros! Não esquecam de dar os créditos S2[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Claro! criei esse addon pensamento em seu conforto. Tudo muito bem organizado
+para facilitar as construçoes em builds e skins proprias ou de terceiros! Não esquecam de dar os créditos S2</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]FUNCIONA EM XBOX?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]Infelizmente não. O proprio sistema não permite isso. Sendo necessario
+encontrar addons sem o uso do elementum[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Infelizmente não. O proprio sistema não permite isso. Sendo necessario
+encontrar addons sem o uso do elementum</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]QUANTO DE INTERNET EU PRECISO PARA RODAR SEM TRAVAS?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]Para arquivos em 720p e 1080p é recomendavel no minimo 30 mbs.
+Ja para 4K,DV,IMAX é recomendavel no minimo 70 Mbs[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Para arquivos em 720p e 1080p é recomendavel no minimo 30 mbs.
+Ja para 4K,DV,IMAX é recomendavel no minimo 70 Mbs</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+<item> <title>[COLOR yellow]P[/COLOR]:[B]COMO SABER DAS NOVIDADES NO ADDON?[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+<item><title>[COLOR yellow]R[/COLOR]:[B]Novos conteudos são adicionados quase todos os dias,menos aos finais de semana.
+Pode acompanhar tambem atraves do nosso telegram [COLOR yellow]t.me/Cineroom1[/COLOR][/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+
+<info>Novos conteudos são adicionados quase todosos dias,menos aos fins de semana.
+Pode acompanhar tambem atraves do nosso telegram [COLOR yellow]t.me/Cineroom1[/COLOR]</info>
+</item>
+
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<info></info>
+</item>
+
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 <item> <title>[COLOR yellow]P[/COLOR]:[B]TEM AREA VIP?[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
@@ -144,9 +347,8 @@ Tanto a TV,quanto o TV BOX/PC etc... o minimo de internet recomendado é de 70 M
 <info></info>
 </item>
 
-<item><title>[COLOR yellow]R[/COLOR]: Não! esse addon é totalmente gratuito,
-mas caso queria,voce pode doar e ajudar o addon. 
-Doaçoes sao feitas para manutençoes e nao usamos para sustento,até porque nao da...</title>
+<item><title>[COLOR yellow]R[/COLOR]:[B]Não! esse addon é totalmente gratuito,mas caso queria 
+voce pode doar e ajudar o addon. Doaçoes sao feitas para manutençoes e nao usamos para sustento,até porque nao da...[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
@@ -155,28 +357,29 @@ mas caso queria,voce pode doar e ajudar o addon.
 Doaçoes sao feitas para manutençoes e nao usamos para sustento,até porque nao da...</info>
 </item>
 
-
 <item> <title>.</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <info></info>
 </item>
 
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]COMO POSSO FAZER UMA DOAÇAO?[/B]</title>
+<item> <title>[COLOR yellow]P[/COLOR]:[B]SE EU DOAR VOU TER PRIORIDADE?[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
-<item><title>[COLOR yellow]R[/COLOR]: Para doar voce pode escanear o QR Code ao lado.
-ou pelo email: [B]thepiratebr.ofc@gmail.com[/B]</title>
+<item><title>[COLOR yellow]R[/COLOR]:[B]Não! Mas caso o addon se torne privado (bem dificil de acontecer) 
+voce sera convidado para o grupo privado [/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
-<info>Para doar voce pode escanear o QR Code ao lado.
-ou pelo email: [B]thepiratebr.ofc@gmail.com[/B]
-
-[COLOR yellow]DOAÇOES NÃO SÃO OBRIGATORIAS,FAÇAM POR LIVRE E ESPONTANEA VONTADE[/COLOR]</info>
+<info>Não! Mas caso o addon se torne privado (bem dificil de acontecer) 
+voce sera convidado para o grupo privado </info>
 </item>
 
-
+<item> <title>.</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
+<info></info>
+</item>
