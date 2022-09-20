@@ -151,4 +151,12 @@
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
 
-
+<channels>
+<channel>
+<name>[COLOR gray][B]FAQ[/B][/COLOR]</name>
+<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
+<externallink>https://bit.ly/3Lrm0QL</externallink>
+<fanart>https://cdn.searchenginejournal.com/wp-content/uploads/2018/09/25-of-the-Best-Examples-of-Effective-FAQ-Pages.png</fanart>
+<info>Area de ajuda para tirar suas duvidas.</info>
+</channel>
+</channels>
