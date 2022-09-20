@@ -1,4 +1,4 @@
-<item> <title>[COLOR yellow]P[/COLOR]:[B]FILMES TRAVANDO?[/B]</title>  
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]FILMES TRAVANDO?[/B][/COLOR]</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://image.tmdb.org/t/p/w342/2V1qr9Ts1UCUuhPYBNh8TCut91P.jpg</thumbnail>
 <info></info>
@@ -6,8 +6,8 @@
 
 <item><title>[COLOR yellow]R[/COLOR]:[B]1.Certifique-se de ter uma conexão estavel e cabeada. / 2.Sempre pause o filme/serie ao iniciar e espere carregar 100%
 3.Aumente o buffer nas configuraçoes do elementum / 4.Tenha em mente que voce esta ultilizando um addon via TORRENT,
-sendo necessario conferir se tem seeds o suficente para o funcionamento.[B]</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:[/B]</link>2
+sendo necessario conferir se tem seeds o suficente para o funcionamento.[/B]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
 <info>
@@ -26,7 +26,7 @@ sendo necessario conferir se tem seeds o suficente para o funcionamento.</info>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM FILME LEGENDADO?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]TEM FILME LEGENDADO?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -48,7 +48,7 @@ Conteudos com audio original só são adicionados em alguns casos. Mas sempre te
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]COMO ADICIONAR LEGENDAS?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]COMO ADICIONAR LEGENDAS?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -70,7 +70,7 @@ e atraves das configuraçoes do elementum,coloque seu login e senha</info>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]O ELEMENTUM SALVA ALGO NO MEU APARELHO?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]O ELEMENTUM SALVA ALGO NO MEU APARELHO?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -93,14 +93,14 @@ Mas caso queira que salve, entao habilite essa opção nas configuraçoes</info>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]MEUS FILMES/SERIES NAO ENTRAM[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]MEUS FILMES/SERIES NAO ENTRAM[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
 </item>
 
 <item><title>[COLOR yellow]R[/COLOR]:[B]Esse é um addon gratuito e via torrent, alguns erros podem acontecer.
-Se possivel nos avise no telegram e espere uma atualização. E não se esqueça de colaborar[/B]</title>
+Se possivel nos avise no telegram e espere uma atualização.[/B]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 
@@ -114,7 +114,7 @@ Se possivel nos avise no telegram e espere uma atualização. E não se esqueça
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]NÃO CONSIGO COLOCAR PARA REPRODUZIR AUTOMATICAMENTE[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]NÃO CONSIGO COLOCAR PARA REPRODUZIR AUTOMATICAMENTE[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -137,7 +137,7 @@ sendo assim,não possibilitando a reprodução automatica... </info>
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM COMO PESQUISAR ALGUM FILME/SÉRIE?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]TEM COMO PESQUISAR ALGUM FILME/SÉRIE?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -160,7 +160,7 @@ mas voce pode pesquisar entrando no genero e procurar atraves do [COLOR yellow]F
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM AREA DE PEDIDOS?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]TEM AREA DE PEDIDOS?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -182,7 +182,7 @@ não sendo viavel uma aba para pedidos. Mas quem sabe em um futuro proximo</info
 </item>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item> <title>[COLOR yellow]P[/COLOR]:[B]OS DESENHOS/SERIES ESTAO FALTANDO EPISODIOS[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]OS DESENHOS/SERIES ESTAO FALTANDO EPISODIOS[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -203,7 +203,7 @@ nas configuraçoes do elementum e diminua o tamanho de visualizaçoes por Mbs</i
 <info></info>
 </item>
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
-<item> <title>[COLOR yellow]P[/COLOR]:[B]FILMES DOLBY VISION COM IMAGEM ROXA[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]FILMES DOLBY VISION COM IMAGEM ROXA[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -226,7 +226,7 @@ Certifique-se de que voce possue essa opçao antes de usar,pois pode causa probl
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]FILME SAINDO SOZINHO?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]FILME SAINDO SOZINHO?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -249,7 +249,7 @@ Recomendavel no minimo 600 mbs de memoria RAM livres para filmes em 1080p</info>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]POSSO USAR ESSE ADDON EM UMA SKIN?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]POSSO USAR ESSE ADDON EM UMA SKIN?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -272,7 +272,7 @@ para facilitar as construçoes em builds e skins proprias ou de terceiros! Não 
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]FUNCIONA EM XBOX?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]FUNCIONA EM XBOX?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -295,7 +295,7 @@ encontrar addons sem o uso do elementum</info>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]QUANTO DE INTERNET EU PRECISO PARA RODAR SEM TRAVAS?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]QUANTO DE INTERNET EU PRECISO PARA RODAR SEM TRAVAS?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -318,7 +318,7 @@ Ja para 4K,DV,IMAX é recomendavel no minimo 70 Mbs</info>
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]COMO SABER DAS NOVIDADES NO ADDON?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]COMO SABER DAS NOVIDADES NO ADDON?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -341,7 +341,7 @@ Pode acompanhar tambem atraves do nosso telegram [COLOR yellow]t.me/Cineroom1[/C
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]TEM AREA VIP?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]TEM AREA VIP?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -364,7 +364,7 @@ Doaçoes sao feitas para manutençoes e nao usamos para sustento,até porque nao
 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-<item> <title>[COLOR yellow]P[/COLOR]:[B]SE EU DOAR VOU TER PRIORIDADE?[/B]</title>
+<item> <title>[COLOR red]P[/COLOR]:[COLOR yellow][B]SE EU DOAR VOU TER PRIORIDADE?[/B][/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
 <thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
 <info></info>
@@ -377,9 +377,4 @@ voce sera convidado para o grupo privado [/B]</title>
 
 <info>Não! Mas caso o addon se torne privado (bem dificil de acontecer) 
 voce sera convidado para o grupo privado </info>
-</item>
-
-<item> <title>.</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>2
-<info></info>
 </item>
