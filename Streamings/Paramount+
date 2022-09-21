@@ -1,5 +1,11 @@
 
 PARAMOUNT
+<channels><channel> <name>Beavis and Butt-Head [COLOR yellow]8.6[/COLOR]</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/Beavis-and-Butt-Head</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e46ZGqLKtrNRoFVt8bkTwR4UChH.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/ueqsAFUcwNOgUxFnLd7RRj0FnDC.jpg</fanart>
+<genre>Animação, Comédia</genre> <aired>2022/08/04</aired> <studio>PARAMOUNT+</studio>
+<info>Beavis e Butt-Head estão de volta e mais estúpidos do que nunca.</info> </channel></channels>
+---------------------------------------------
 <channels><channel> <name>As Seguidoras [COLOR yellow]8.9[/COLOR]</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20as%20seguidoras</externallink>
 <thumbnail>https://br.web.img3.acsta.net/pictures/22/03/04/21/14/0850396.jpg</thumbnail>
