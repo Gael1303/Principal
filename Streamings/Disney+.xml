@@ -1,3 +1,9 @@
+<channels><channel> <name>Star Wars: Andor [COLOR yellow]8.5[/COLOR]</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/Star-Wars-Andor</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/q8qNN1voEOYzxWhBezHZG9soWWW.jpg</fanart>
+<genre>Sci-Fi & Fantasy, Action & Adventure, War & Politics</genre> <aired>2022/09/21</aired> <studio>DISNEY+</studio>
+<info>As aventuras do espião rebelde Cassian Andor durante os anos de formação da Rebelião antes dos eventos de Rogue One: A Star Wars Story. A série explora contos cheios de espionagem e missões ousadas para restaurar a esperança a uma galáxia nas garras de um império implacável.</info> </channel></channels>
+---------------------------------------------
 <channels><channel> <name>The Old Man [COLOR yellow]8.5[/COLOR]</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20the%20old%20man</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/euYz4adiSHH0GE3YnTeh3uLfBvL.jpg</thumbnail>
@@ -58,9 +64,7 @@ Explore a vida e a carreira selvagem, trágica e controversa do campeão dos pes
 <genre>Comédia, Drama, Família</genre> <aired>2022/05/20</aired> <studio>DISNEY+</studio>
 <info>Carol está em um momento que passa por mudanças importantes em sua vida, onde enfrenta desafios típicos da adolescência, vivenciando sentimentos nunca antes explorados e aprende que o primeiro passo para ser feliz é conhecer a si mesma e respeitar seus próprios sentimentos, apesar de muito erros serem cometidos ao longo do caminho.</info> </channel></channels>
 ---------------------------------------------
-
-<channels>
-<channel>
+<channels><channel>
 <name>Ms. Marvel [COLOR yellow]6.0[/COLOR]</name> <studio>DISNEY+</studio>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20ms.%20marvel</externallink>
 <thumbnail>https://observatoriodocinema.uol.com.br/wp-content/uploads/2022/03/ms-marvel-1200x900-2.jpg</thumbnail>
