@@ -44,3 +44,9 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b733228e91cfaa1d53587ffa55afaa17534855ba</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
+
+<item>
+<title>Episodio 06</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ba4486c609701b201dc6e654d7dc1db70e3a74e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
+</item> 
