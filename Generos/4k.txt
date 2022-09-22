@@ -1,3 +1,13 @@
+<item> <title>Era uma vez um Gênio - 4K - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b21c2e540220df5802a990fcf133a93b4e2498f4</link>
+<thumbnail>https://cineclick-static.flixmedia.cloud/1280/aedf33bb-97a1-44ad-88cb-f20b6e0901f1.webp</thumbnail>
+<genre>Fantasia, Romance</genre> <year>2022</year> <aired>2022/09/01</aired> </item>
+--------------------------------------------------------------------------
+<item> <title>Goodnight Mommy - 4K - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:133f793d6a63ba9e8162363739e3d15711d40b3a</link>
+<thumbnail>https://m.media-amazon.com/images/M/MV5BM2JmZWRjNzItMmY5YS00NTM5LTgwYzktM2Q1MDdkYTI3ZTFlXkEyXkFqcGdeQXVyMTM1MTE1NDMx._V1_FMjpg_UX1000_.jpg</thumbnail>
+<genre>Crime , Drama , Horror , Mistério, Thriller</genre> <year>2022</year> <aired>2022/09/16</aired> </item>
+--------------------------------------------------------------------------
 <item> 
 <title>Thor: Amor e Trovão - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66a573fedbc4ba29515790ebe17235a496c5f10e</link>
