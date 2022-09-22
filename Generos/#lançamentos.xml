@@ -4,6 +4,19 @@ standalone="yes"?>
 <items>
     
 <item> 
+<title>Jujutsu Kaisen 0</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d687c703bfdea684e647cc94e5189eb736d6b6c9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rcEDPOOOUTLFxLLQJggfLffbofe.jpg</fanart>
+<genre>Animação, Ação, Fantasia</genre>
+<year>2022</year>
+<rate>7.9</rate>
+<aired>2022/04/28</aired>
+<duration>6300</duration>
+<info>O jovem Yuta Okkotsu ganha o controle de um espírito extremamente poderoso, então um grupo de feiticeiros o matriculam na Tokyo Prefectural Jujutsu High School, para ajudá-lo a controlar esse poder e também para ficar de olho nele.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
 <title>O Perfumista</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e37a4589f773c02bfe0e4e49e53f2f35ea360cb8</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9scjnoZYrkNaOmIlpI1hm9LOMJL.jpg</thumbnail>
