@@ -4,6 +4,60 @@ standalone="yes"?>
 <items>
     
 <item> 
+<title>O Homem do Jazz</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96a9839b59283fd75417aaf4ac32c4141613d20b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lnbyqdvjz4hLqpmGSM02l8jzcS.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/qQktRzikszrIToVE5y2xTle7Nr1.jpg</fanart>
+<genre>Drama, Romance</genre>
+<year>2022</year>
+<rate>8.1</rate>
+<aired>2022/09/23</aired>
+<duration>7620</duration>
+<studio>NETFLIX</studio>
+<info>Esta história de amor proibido e drama familiar revela 40 anos de segredos e mentiras ao som do legítimo blues do sul dos EUA.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Lou</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8147a3f8fb1df4dd0f41924ce5fb0d532d81f796</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r2bjq5nrwb9Qtc13KXyDNTsBePY.jpg</fanart>
+<genre>Ação, Thriller</genre>
+<year>2022</year>
+<rate>7.3</rate>
+<aired>2022/09/23</aired>
+<duration>6420</duration>
+<info>Lou leva uma vida tranquila, acreditando ter abandonado seu passado perigoso. Até que uma mulher desesperada implora a ajuda dela para salvar a filha sequestrada. Em meio a uma grande tempestade, as duas se arriscam em uma missão de resgate que coloca seus limites à prova e revela terríveis segredos do passado.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Athena</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7aab3ac466b91f8c53ecc25d2b94e5706017dd48</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/66hefmZ1ZVLO1Hb57sZVGSlDAmM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/gV31rejG3kVpwH5T7HG8G99eLy.jpg</fanart>
+<genre>Drama, Ação, Thriller</genre>
+<year>2022</year>
+<rate>7.0</rate>
+<aired>2022/09/09</aired>
+<duration>5940</duration>
+<info>A morte trágica de um garoto é o estopim para um conflito no Conjunto Habitacional Athena. No centro do caos estão os irmãos mais velhos da vítima.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>After: Depois da Promessa - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:986c82c611508d9a7885efcdda4766b3976f2bdd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lflvA9oQ3sTfiVttvjSbf6lS9X5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg</fanart>
+<genre>Romance, Drama</genre>
+<year>2022</year>
+<rate>4.2</rate>
+<aired>2022/08/24</aired>
+<duration>5700</duration>
+<info>Em After 4 – Depois da Esperança, a relação entre Tessa Young (Josephine Langford) e Hardin Scott (Hero Fiennes-Tiffin) passou por muitas dificuldades, fortalecendo sua união, e quando a verdade sobre suas famílias veio à tona, os dois descobriram que não são tão diferentes quanto pensavam. Tessa não é mais aquela menina doce e inocente que chegou à faculdade, e Hardin não é mais o garoto cruel por quem ela se apaixonou.</info>
+</item>
+----------------------------------------------------------------------------    
+    
+<item> 
 <title>Jujutsu Kaisen 0</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d687c703bfdea684e647cc94e5189eb736d6b6c9</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/3pTwMUEavTzVOh6yLN0aEwR7uSy.jpg</thumbnail>
