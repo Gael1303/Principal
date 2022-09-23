@@ -1,6 +1,12 @@
 ...................................................................
 <item>
-<title>[COLOR white][B]1ª Temporada[/B][/COLOR] </title>modern love
+<title>Modern Love - S01</title>modern love
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac767873de4cb0087d94146679f57de4c74c4cca</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/pdRBW5ZLYyOJJMskwsP9BHUevov.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Modern Love - S02</title>modern love
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:edd7cf9243ded19920fc80bd6f984d13e5c14934</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/pdRBW5ZLYyOJJMskwsP9BHUevov.jpg</thumbnail>
 </item> 
