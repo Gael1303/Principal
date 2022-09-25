@@ -11,7 +11,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] STREAMING</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]STREA[/B][/COLOR][COLOR pink][B]MING[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-29-215.jpg</thumbnail>
 <externallink>https://bit.ly/3AwR1xB</externallink>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2020/05/06113757/plataformas-de-streaming.jpg</fanart>
@@ -21,7 +21,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] DESENHOS</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]DESE[/B][/COLOR][COLOR pink][B]NHOS[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-46-998.jpg</thumbnail>
 <externallink>https://bit.ly/3Q7Jone</externallink>
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] DORAMAS</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]DORA[/B][/COLOR][COLOR pink][B]MAS[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Picsart_22-09-06_12-05-33-420.jpg</thumbnail>
 <externallink>https://bit.ly/3RXhEDs</externallink>
 <fanart>https://</fanart>
@@ -43,10 +43,18 @@ Aba com os doramas mais populares
 </channel>
 </channels>
 
+
+<channels>
+<channel>
+<name>.................................................</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://</externallink>
+</channel>  
+</channels>
   
 <channels>
 <channel>
-<name>[COLOR white][B]STATUS DO ADDON[/B][/COLOR]: [COLOR green][B]ONLINE[/B][/COLOR]</name>
+<name>▶[COLOR white][B]STA[/B][/COLOR][COLOR pink][B]TUS[/B][/COLOR]: [COLOR green][B]ONLINE[/B][/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/2048px-Gtk-dialog-info.svg.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://</fanart>
@@ -62,7 +70,7 @@ Doramas
 
 <channels>
 <channel>
-<name>[COLOR pink][B]AJUDE ESSE PROJETO[/B][/COLOR]</name>
+<name>▶[COLOR pink][B]AJUDE ESSE PROJETO[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://</fanart>
