@@ -4,6 +4,20 @@ standalone="yes"?>
 <items>
     
 <item> 
+<title>A Fera</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1e73a542525a93ae63ce59f535de5cd6d915e980</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/8TUb2U9GN3PonbXAQ1FBcJ4XeXu.jpg</fanart>
+<genre>Thriller, Terror</genre>
+<year>2022</year>
+<rate></rate>
+<aired>2022/08/11</aired>
+<duration>5580</duration>
+<info>Em A Fera, Dr. Nate Daniels (Idris Elba) é um homem que perdeu a mulher recentemente. Para viver o luto, ele decide retornar à África do Sul, local onde conheceu sua falecida esposa, para passar férias há muito planejadas com suas duas filhas (Iyana Halley e Leah Jeffries) em uma reserva natural administrada pelo velho amigo da família Martin Battles (Sharlto Copley), um biólogo da vida selvagem. Mas esse descanso há muito tempo esperado e tranquilo se transformará em um teste de sobrevivência quando um leão sedento de vingança, o único sobrevivente da caça sanguinária de caçadores furtivos, que mataram toda sua manada, começa a devorar qualquer humano em seu caminho, já que considera todos os humanos como um inimigo e persegue o médico e sua família por toda a savana. Agora, o único jeito de escapar das garras da fera é lutando e sobrevivendo, ou matar o leão de uma vez por todas.</info>
+</item>
+-------------------------------------------- 
+    
+<item> 
 <title>O Homem do Jazz</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:96a9839b59283fd75417aaf4ac32c4141613d20b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8lnbyqdvjz4hLqpmGSM02l8jzcS.jpg</thumbnail>
@@ -262,19 +276,7 @@ standalone="yes"?>
 <info>O conto do boneco de madeira em uma arrepiante aventura para virar um menino de verdade, recontado.</info>
 </item>
 ----------------------------------------------------------------------------
-<item> 
-<title>Beast - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f08bf13882c5227907201592c3005e23f54f8cbf</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/8TUb2U9GN3PonbXAQ1FBcJ4XeXu.jpg</fanart>
-<genre>Thriller, Terror</genre>
-<year>2022</year>
-<rate></rate>
-<aired>2022/08/11</aired>
-<duration>5580</duration>
-<info>Em A Fera, Dr. Nate Daniels (Idris Elba) é um homem que perdeu a mulher recentemente. Para viver o luto, ele decide retornar à África do Sul, local onde conheceu sua falecida esposa, para passar férias há muito planejadas com suas duas filhas (Iyana Halley e Leah Jeffries) em uma reserva natural administrada pelo velho amigo da família Martin Battles (Sharlto Copley), um biólogo da vida selvagem. Mas esse descanso há muito tempo esperado e tranquilo se transformará em um teste de sobrevivência quando um leão sedento de vingança, o único sobrevivente da caça sanguinária de caçadores furtivos, que mataram toda sua manada, começa a devorar qualquer humano em seu caminho, já que considera todos os humanos como um inimigo e persegue o médico e sua família por toda a savana. Agora, o único jeito de escapar das garras da fera é lutando e sobrevivendo, ou matar o leão de uma vez por todas.</info>
-</item>
-----------------------------------------------------------------------------
+--------------------------------
 <item> 
 <title>Obi-Wan Kenobi: O Retorno do Jedi</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1de43d1275cc18b00660eaf5d4bb0f663dadf612</link>
