@@ -94,19 +94,25 @@
 </item> 
 
 <item>
-<title>Rick and Morty - T06 - EP 01</title>
+<title>Rick and Morty - T06 E01</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b09aadf170a6caa0c35dbe373a081160baaf36f3</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
 </item>
 
 <item>
-<title>Rick and Morty - T06 - EP 02</title>
+<title>Rick and Morty - T06 E02</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1a57fa31ff68e5d34fb1373f5262ba5ddfb82430</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
 </item>
 
 <item>
-<title>Rick and Morty - T06 - EP 03</title>
+<title>Rick and Morty - T06 E03</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:04502d352f266f861456b9d32cbf83b76cbf4f57</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rick and Morty - T06 E04</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:da268668e99edb4c653a2d52708acad6d4e72dc0</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
 </item>
