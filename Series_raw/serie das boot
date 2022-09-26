@@ -1,10 +1,10 @@
 <item>
-<title>1ª Temporada</title>Das Boot
+<title>Das Boot - 1ª Temporada</title>Das Boot
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:332e901bc1ac6866d0cb576e6fba44df66cbcd75</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/cixZ3yK9EqKxQIC5D6KLzlVznvD.jpg</thumbnail>
 </item> 
 <item>
-<title>2ª Temporada</title>
+<title>Das Boot - 2ª Temporada</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3509de42203b92546cdff0358161576451f957b8</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
@@ -16,37 +16,43 @@
 </item> 
 
 <item>
-<title>Episodio 01</title>
+<title>Das Boot - T03 E01</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d1733d8464a9eb53867b13e68fc67f65fd24242</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
 
 <item>
-<title>Episodio 02</title>
+<title>Das Boot - T03 E02</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:894b2e21af223ffa100a15e6820a66194b031f84</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
 
 <item>
-<title>Episodio 03</title>
+<title>Das Boot - T03 E03</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9cbf4f46c94414e9fb74137fa66719aaf886b3da</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
 
 <item>
-<title>Episodio 04</title>
+<title>Das Boot - T03 E04</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:caae0d163d754007dadbe79bb6863fd3ac1675ed</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
 
 <item>
-<title>Episodio 05</title>
+<title>Das Boot - T03 E05</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b733228e91cfaa1d53587ffa55afaa17534855ba</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
 
 <item>
-<title>Episodio 06</title>
+<title>Das Boot - T03 E06</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1ba4486c609701b201dc6e654d7dc1db70e3a74e</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
+</item> 
+
+<item>
+<title>Das Boot - T03 E07</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e5a6a5c4e69eeaf941495eb54daf76c44b3ebe0</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/nrqXcR6JVVyn0EMnRnYcuN3PwK5.jpg</thumbnail>
 </item> 
