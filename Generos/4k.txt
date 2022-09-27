@@ -1,3 +1,9 @@
+
+<item>  <title>Trem-Bala - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf0f278b601bdaf826c000a2b008036b5ce7cd56</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/6moyjAEMV9OZ3EurotIX0mPiK6y.jpg</thumbnail>
+<genre>Ação, Comédia, Crime</genre> <year>2022</year> <rate>7.5</rate> <aired>2022/07/03</aired></item>
+-------------------------------
 <item> <title>Era uma vez um Gênio - 4K - Leg</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b21c2e540220df5802a990fcf133a93b4e2498f4</link>
 <thumbnail>https://cineclick-static.flixmedia.cloud/1280/aedf33bb-97a1-44ad-88cb-f20b6e0901f1.webp</thumbnail>
