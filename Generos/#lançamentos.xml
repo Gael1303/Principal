@@ -4,6 +4,34 @@ standalone="yes"?>
 <items>
    
 <item> 
+<title>Blonde</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7bbe224d57de706349fd2c1925d9764269f8339</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/sdirxnHDdRmrM55mWfLCFeMdRSn.jpg</fanart>
+<genre>Drama, História</genre>
+<year>2022</year>
+<rate>6.3</rate>
+<aired>2022/09/16</aired>
+<duration>8820</duration>
+<studio>NETFLIX</studio>
+<info>Baseada no best-seller de Joyce Carol Oates, esta biografia fictícia da lendária Marilyn Monroe é estrelada por Ana de Armas.</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>Esquadrão Secreto</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1c9216a4db4c8a75974dd40a64bec8bee6e8ad1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pCl8JaMDkibswcNuEFLoDVNmO4k.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/aIkG2V4UXrfkxMdJZmq30xO0QQr.jpg</fanart>
+<genre>Ficção científica, Aventura, Ação</genre>
+<year>2022</year>
+<rate>5.0</rate>
+<aired>2022/08/12</aired>
+<duration>6240</duration>
+<info>Nas horas vagas depois da escola, Charlie e seus amigos descobrem o quartel-general do super-herói mais poderoso do mundo escondido embaixo de sua casa. Quando vilões atacam, eles têm que unir forças para defender o quartel-general e salvar o mundo.</info>
+</item>
+----------------------------------------------------------------------------   
+   
+<item> 
 <title>Trem-Bala</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:644a730ee0cbc4b66a6c1578b5ad04716f10dff0</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6moyjAEMV9OZ3EurotIX0mPiK6y.jpg</thumbnail>
