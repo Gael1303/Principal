@@ -1,4 +1,9 @@
-
+<item> <title>DC Liga dos Superpets - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a20d5508d35403bb3812a32794966925613cece6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sexnQm1YEJMYo7hZgVP1Y6rEyWz.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg</fanart>
+<genre>Animação, Ação, Família, Ficção científica, Comédia</genre> <year>2022</year> <aired>2022/07/28</aired></item>
+-------------------------------
 <item>  <title>Trem-Bala - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cf0f278b601bdaf826c000a2b008036b5ce7cd56</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/6moyjAEMV9OZ3EurotIX0mPiK6y.jpg</thumbnail>
@@ -77,15 +82,6 @@
 <genre>Action, Drama</genre>
 </item>
 
-<item> 
-<title>DC Liga dos Superpets - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d66ba2956d9b00697b9a177850cf56c69f1abc7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sexnQm1YEJMYo7hZgVP1Y6rEyWz.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/p8XnVA7zWZu7ZJsM1Cm9l7S9IH8.jpg</fanart>
-<genre>Animação, Ação, Família, Ficção científica, Comédia</genre>
-<year>2022</year>
-<aired>2022/07/28</aired>
-</item>
 
 <item>
 <title>Orphan: First Kill - 4K - Leg</title>
