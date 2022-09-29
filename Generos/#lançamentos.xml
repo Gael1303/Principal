@@ -4,6 +4,34 @@ standalone="yes"?>
 <items>
    
 <item> 
+<title>Trancada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:68d3a818e974cfd20f2ad3857cb555ce9b523b70</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cWBCMiORHEfXWf6AreeDzkczyTy.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yHLKmPlMg7aHdslVTPLLo18xS86.jpg</fanart>
+<genre>Suspense, Terror</genre>
+<year>2022</year>
+<rate>5.9</rate>
+<aired>2022/03/24</aired>
+<duration>5400</duration>
+<info>Uma jovem mãe solteira é mantida em cativeiro junto com seus dois filhos por um ex violento e deve planejar sua fuga antes que seja tarde demais.</info>
+</item>
+----------------------------------------------------------------------------   
+   
+<item> 
+<title>After: Depois da Promessa</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd747882d8bd568525f11dffc37ce5849bf58315</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lflvA9oQ3sTfiVttvjSbf6lS9X5.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg</fanart>
+<genre>Romance, Drama</genre>
+<year>2022</year>
+<rate>4.2</rate>
+<aired>2022/08/24</aired>
+<duration>5700</duration>
+<info>Em After 4 – Depois da Esperança, a relação entre Tessa Young (Josephine Langford) e Hardin Scott (Hero Fiennes-Tiffin) passou por muitas dificuldades, fortalecendo sua união, e quando a verdade sobre suas famílias veio à tona, os dois descobriram que não são tão diferentes quanto pensavam. Tessa não é mais aquela menina doce e inocente que chegou à faculdade, e Hardin não é mais o garoto cruel por quem ela se apaixonou.</info>
+</item>
+----------------------------------------------------------------------------   
+   
+<item> 
 <title>Blonde</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7bbe224d57de706349fd2c1925d9764269f8339</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jOgbnL5FB30pprEjZaY1E1iPtPM.jpg</thumbnail>
@@ -139,20 +167,7 @@ standalone="yes"?>
 <info>A morte trágica de um garoto é o estopim para um conflito no Conjunto Habitacional Athena. No centro do caos estão os irmãos mais velhos da vítima.</info>
 </item>
 ----------------------------------------------------------------------------
-<item> 
-<title>After: Depois da Promessa - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:986c82c611508d9a7885efcdda4766b3976f2bdd</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lflvA9oQ3sTfiVttvjSbf6lS9X5.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/rwgmDkIEv8VjAsWx25ottJrFvpO.jpg</fanart>
-<genre>Romance, Drama</genre>
-<year>2022</year>
-<rate>4.2</rate>
-<aired>2022/08/24</aired>
-<duration>5700</duration>
-<info>Em After 4 – Depois da Esperança, a relação entre Tessa Young (Josephine Langford) e Hardin Scott (Hero Fiennes-Tiffin) passou por muitas dificuldades, fortalecendo sua união, e quando a verdade sobre suas famílias veio à tona, os dois descobriram que não são tão diferentes quanto pensavam. Tessa não é mais aquela menina doce e inocente que chegou à faculdade, e Hardin não é mais o garoto cruel por quem ela se apaixonou.</info>
-</item>
-----------------------------------------------------------------------------    
-    
+     
 <item> 
 <title>Jujutsu Kaisen 0</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d687c703bfdea684e647cc94e5189eb736d6b6c9</link>
