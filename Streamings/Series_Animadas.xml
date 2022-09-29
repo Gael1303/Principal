@@ -663,8 +663,6 @@ F
 </channel>
 </channels>
 
-
-
 G
 
 <channels>
@@ -1012,16 +1010,14 @@ O Espetacular Homem-Aranha e um seriado norte-americano que estreou em 2008 que 
 
 <channels><channel>
 <name>O Maskara: A Serie Animada [COLOR yellow]6.9[/COLOR]</name>
----<externallink>https://github.com/Gael1303/Principal/raw/main/Desenhos_raw/desenho%20o%20maskara</externallink>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Desenhos_raw/o-mascara</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bOmWfBKD7ommflceQOccCKXjSh0.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gPeGH1cPFUOcYxO1J8SxJySigOo.jpg</fanart>
 <genre>Action & Adventure, Animaçao</genre>
 <aired>1995/08/12</aired>
 <studio>WB</studio>
 <rated>TV-Y7</rated>
-<info>
-Serie animada de televisao baseada nas historias em quadrinhos do personagem homônimo.
-</info>
+<info>Serie animada de televisao baseada nas historias em quadrinhos do personagem homônimo.</info>
 </channel></channels>
 ---------------------------------------------
 
