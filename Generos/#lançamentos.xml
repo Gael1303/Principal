@@ -4,6 +4,34 @@ standalone="yes"?>
 <items>
    
 <item> 
+<title>Eu, Traidor</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65dc48ac14d66ef53016701331dcc89f8483bb6a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/u0MbKWieMwVDZl0eJdNt7Z6pbKU.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/xeOeKTpl1KAQCSaMBCgCYcDhhsf.jpg</fanart>
+<genre>Drama</genre>
+<year>2022</year>
+<rate>7.2</rate>
+<aired>2022/01/06</aired>
+<duration>6360</duration>
+<info>Máximo Ferradas, empresário e filho mais novo de uma poderosa família de pescadores, pede a Francisco, seu pai, a sua parte da herança e assim, ele inicia uma longa jornada que o levará a terras distantes, tentando construir seu próprio “império”.</info>
+</item>
+----------------------------------------------------------------------------
+
+<item> 
+<title>Plano A, Plano B</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:060426a7a247306be1021cd9cd4e4d7da04a4269</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/nkkCrLwejvUBP1fEUMiOJoREuZl.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3q7LHMFl4ZZOyLn70MVHCJ6rgxG.jpg</fanart>
+<genre>Romance, Comédia</genre>
+<year>2022</year>
+<rate>5.3</rate>
+<aired>2022/09/30</aired>
+<duration>6300</duration>
+<info>Vizinhos de escritório, uma casamenteira e um advogado especialista em divórcios vivem brigando… mas não conseguem ficar longe um do outro.</info>
+</item>
+----------------------------------------------------------------------------   
+   
+<item> 
 <title>O Destino de Haffmann</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2c4e08cebd7e50fcb597f285547b2c251872688c</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yQ2s9RoFDJO6qFnv736aG6VbY7c.jpg</thumbnail>
