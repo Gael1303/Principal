@@ -138,6 +138,18 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]STAR+[/B][/COLOR]</name>
+		<thumbnail>https://pbs.twimg.com/profile_images/1393234224124207106/g9IKiOQQ_400x400.jpg</thumbnail>
+		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/star-plus</externallink>
+		<fanart>https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png</fanart>
+		<info>
+[B]SÉRIES DISPONIVEIS STAR+[/B]
+</info>
+	</channel>
+</channels>
+-----------------------------------------------------------------------------------------------------------------------------
+<channels>
+	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR yellow][B]TODAS AS SÉRIES[/B][/COLOR]  - [COLOR gray]935[/COLOR]</name>
 		<thumbnail>https://www.ciadosdescontos.com/static/2016/01/melhores-series.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/todas_series.xml</externallink>
