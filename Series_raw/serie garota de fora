@@ -1,14 +1,16 @@
 <item>N
-<title>[COLOR white][B]Garota de Fora - 1ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b240237d7ffa766e084ac11b89762adc4ba6599d</link>
+<title>Garota de Fora - 1ª Temporada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b240237d7ffa766e084ac11b89762adc4ba6599d$nome=Garota de Fora - T01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e8a169538c86477ffbb1fe956ff0d1055c264773$nome=Girl From Nowhere - S01</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/9hDXqzN5l4lBmEtb8IstXr91k8z.jpg</thumbnail>
 </item> 
 
 
 
 <item>
-<title>[COLOR white][B]Garota de Fora - 2ª Temporada[/B][/COLOR] </title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e67e4d614e5d01f31cf7adb87e1e8dfef7487f4e</link>
+<title>Garota de Fora - 2ª Temporada</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e67e4d614e5d01f31cf7adb87e1e8dfef7487f4e$nome=Garota de Fora - T01</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:816192e02e8fad4197cbafe38874bec45fc12c19$nome=Girl From Nowhere - S02</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/cTX62GwKApugisTroPGHnknyIzI.jpg</thumbnail>
 </item> 
 
