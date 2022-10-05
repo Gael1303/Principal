@@ -4,6 +4,35 @@ standalone="yes"?>
 <items>
    
 <item> 
+<title>100 Medos</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8251a1297cd0b383c568b53ffee6b001eeac4a3f</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/3JxIRAQUBD125VUAuwy9sDT1ak2.jpg</fanart>
+<genre>Comédia, Drama, Romance</genre>
+<year>2022</year>
+<rate>N/A</rate>
+<aired>2022/10/05</aired>
+<duration>5400</duration>
+<studio>NETFLIX</studio>
+<info>Inspirado no livro de mesmo nome, é a história de Sole, jovem que tenta superar todos os seus grandes medos após a morte da melhor amiga. Dirigido por Andrea Jublin e estrelado por Federica Torchetti, Lorenzo Richelmy, Cristiano Caccamo, Celeste Savino, Anna Ferruzzo e Massimiliano Gallo</info>
+</item>
+----------------------------------------------------------------------------
+<item> 
+<title>A Vida de Togo</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e06ad7c5a47cca3c8db448323a9a2b098dd5be69</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9qkl34olpFVM9nAuYeveO6uKpaA.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/r6dxtMTqQCp5VALSPPPFeihodBj.jpg</fanart>
+<genre>Crime, Drama</genre>
+<year>2022</year>
+<rate>2.0</rate>
+<aired>2022/10/05</aired>
+<duration>5700</duration>
+<studio>NETFLIX</studio>
+<info>Ele vigia carros estacionados e vai fazer de tudo para proteger esse ganha-pão. Ainda mais agora que os traficantes querem que ele e seus amigos vendam drogas nas ruas.</info>
+</item>
+----------------------------------------------------------------------------   
+   
+<item> 
 <title>RRR: Revolta,Rebelião,Revolução</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9b74c5cad6efa1bbe6b89dac5133e73f29ce6ac7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/hmDNYJkVdooSTNej2AnWV0nbH3q.jpg </thumbnail>
