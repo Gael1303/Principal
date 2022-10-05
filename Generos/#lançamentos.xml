@@ -4,6 +4,20 @@ standalone="yes"?>
 <items>
    
 <item> 
+<title>Convite Maldito</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4085cf9e7a8885c36a2703896bdf020b4e9bd79a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AtiAjYCyUop1uyjJhKzmi3qnNLp.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/uugvOog53HNtzz0laLuAT25qzdC.jpg</fanart>
+<genre>Terror, Suspense</genre>
+<year>2022</year>
+<rate>6.3</rate>
+<aired>2022/09/15</aired>
+<duration>6300</duration>
+<info>Após a morte de sua mãe e sem ter nenhum outro parente conhecido, Evie faz um teste de DNA… e descobre um primo perdido que ela não sabia que existia. Convidada pela sua nova família para um casamento, ela sente uma grande atração pelo sexy anfitrião. Mas Evie logo terá que lutar pela sobrevivência ao descobrir os segredos sinistros da história de sua família e as intenções perturbadoras por trás de sua generosidade pecaminosa.</info>
+</item>
+----------------------------------------------------------------------------   
+   
+<item> 
 <title>100 Medos</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8251a1297cd0b383c568b53ffee6b001eeac4a3f</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o3YitLNoZsucoGrcjehaR9p45Ip.jpg</thumbnail>
@@ -234,20 +248,6 @@ standalone="yes"?>
 <info>5 assassinos da máfia japonesa se encontram à bordo de um trem-bala que faz o trajeto entre as cidades Tóquio até Morioka com poucas paradas. Assim, a tensão entre esse grupo de habilidosos e mortais profissionais só aumentam quando eles descobrem a presença um do outro e começam a entrar em conflito em si.</info>
 </item>
 -------------------------------------
-   
- <item> 
-<title>Convite Maldito - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7ca4fc9231b33da64bb322f6f77ceef0531c242</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/AtiAjYCyUop1uyjJhKzmi3qnNLp.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/uugvOog53HNtzz0laLuAT25qzdC.jpg</fanart>
-<genre>Terror, Suspense</genre>
-<year>2022</year>
-<rate>6.3</rate>
-<aired>2022/09/15</aired>
-<duration>6300</duration>
-<info>Após a morte de sua mãe e sem ter nenhum outro parente conhecido, Evie faz um teste de DNA… e descobre um primo perdido que ela não sabia que existia. Convidada pela sua nova família para um casamento, ela sente uma grande atração pelo sexy anfitrião. Mas Evie logo terá que lutar pela sobrevivência ao descobrir os segredos sinistros da história de sua família e as intenções perturbadoras por trás de sua generosidade pecaminosa.</info>
-</item>
-----------------------------------------------------------------------------
 <item> 
 <title>A Máquina Infernal</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a0cdfed236b625884dc15e73e137572ee6b70724</link>
