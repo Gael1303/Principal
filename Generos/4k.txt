@@ -1,5 +1,5 @@
 <item>Tron: O Legado - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc2162441b3be9d27ebad8d373de67f3851f9d23</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fc375528fd26350f61ec2616ae920c6be474a7f</link>
 <thumbnail>https://image.tmdb.org/t/p/original/wlHzvzXE9AvMgrVsKHg2PweC3aC.jpg</thumbnail>
 <genre>Ficção Científica, Ação</genre> <year>2010</year> <aired>2010/12/17</aired></item>
 -------------------------------
