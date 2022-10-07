@@ -1,3 +1,9 @@
+<item>Tron: O Legado - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bc2162441b3be9d27ebad8d373de67f3851f9d23</link>
+<thumbnail>https://image.tmdb.org/t/p/original/wlHzvzXE9AvMgrVsKHg2PweC3aC.jpg</thumbnail>
+<genre>Ficção Científica, Ação</genre> <year>2010</year> <aired>2010/12/17</aired></item>
+-------------------------------
+
 <item> <title>DC Liga dos Superpets - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a20d5508d35403bb3812a32794966925613cece6</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sexnQm1YEJMYo7hZgVP1Y6rEyWz.jpg</thumbnail>
