@@ -1,13 +1,28 @@
 <item>
-<title>[COLOR white][B]Pennyworth Season 01[/B][/COLOR] </title>
+<title>Pennyworth Season 01</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d1dea41af9b0f159c364b0623b0f8d677773e827</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/3rtfCKLtoUQGRFVDTW9smD3P3Eq.jpg</thumbnail>
 <genre>Drama, Crime</genre>
 </item> 
 
 <item>
-<title>[COLOR white][B]Pennyworth Season 02[/B][/COLOR] </title>
+<title>Pennyworth Season 02</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f614919f5c3e41a46ad81923c8829b7cc8d6bb72</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/14ehnDAnVOPWs4ie67sAdPrMoSj.jpg</thumbnail>
 <genre>Drama, Crime, Ficção Científica, Fantasia</genre>
 </item> 
+
+<item>
+<title>[COLOR yellow]3ª Temporada[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/14ehnDAnVOPWs4ie67sAdPrMoSj.jpg</thumbnail>
+<genre>Drama, Crime, Ficção Científica, Fantasia</genre>
+</item> 
+
+<item>
+<title>Pennyworth - T03 E1-3</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ff080573ee6a1a5818db147c229eec5563b4029a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/14ehnDAnVOPWs4ie67sAdPrMoSj.jpg</thumbnail>
+<genre>Drama, Crime, Ficção Científica, Fantasia</genre>
+</item>
+
