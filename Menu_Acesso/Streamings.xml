@@ -162,13 +162,21 @@
 	</channel>
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
-
 <channels>
-<channel>
-<name>[COLOR gray][B]FAQ[/B][/COLOR]</name>
-<thumbnail>https://destoute.be/wp-content/uploads/FAQ.png</thumbnail>
-<externallink>https://bit.ly/3Lrm0QL</externallink>
-<fanart>https://cdn.searchenginejournal.com/wp-content/uploads/2018/09/25-of-the-Best-Examples-of-Effective-FAQ-Pages.png</fanart>
-<info>Area de ajuda para tirar suas duvidas.</info>
+<channel> 
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR pink][B]AJUDE ESSE PROJETO[/B][/COLOR]</name>
+<thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://</fanart>
+<info>Esse addon é mantido por uma só pessoa. Sua ajuda é sempre bem-vinda!
+
+Doaçoes nao sao obrigatorias. Devem ser feita por livre e espontanea vontade :)
+
+[COLOR yellow]Chave pix[/COLOR]:
+
+thepiratebr.ofc@gmail.com ou escaneie o QRCODE ao lado
+
+Atenciosamente
+Gael</info>
 </channel>
 </channels>
