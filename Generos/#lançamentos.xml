@@ -3,6 +3,41 @@ standalone="yes"?>
 
 <items>
    
+<item>  <title>O Time da Redenção</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c477ce7af4e18d0dab8b7d0dfc9555c68e50b53</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/arA7AFtzpJdOmWMQNh5gXpfR7SD.jpg</fanart>
+<genre>Documentário</genre> <year>2022</year> <rate>7.3</rate> <aired>2022/10/07</aired> <duration>5880</duration> <studio>NETFLIX</studio>
+<info>Após o fiasco nos Jogos Olímpicos de 2004, o time de basquete masculino dos EUA busca a redenção e parte para a briga pelo ouro nos Jogos de Pequim de 2008.</info> </item>
+----------------------------------------------------------------------------
+
+<item>  <title>As Verdades</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0c4ad023e853581775399e8acfae496e170abbe7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/of9YFiZW10xZ6sxeImLl1r7M9XQ.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/bS9DeywU8RitDhJYURZiGBr6YBp.jpg</fanart>
+<genre>Drama, Crime</genre> / <year>2022</year> / <rate>6.8</rate> / <aired>2022/06/30</aired> / <duration>6180</duration>
+<info>As Verdades conta a história de um crime em um pequeno município baiano. É o primeiro caso de Josué, o delegado recém-chegado na cidade. A história é contada de pontos de vista diferentes, dos três personagens presentes no momento do crime: Cícero, o matador de aluguel; Francisca, a noiva do político e Vladmir, a vítima.</info> </item>
+----------------------------------------------------------------------------
+
+<item>  <title>O Meme do Mal</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7d68863450e28aa5367ea8485ee18f814e919941</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wAjwcIUMOM5ADGvzrqwTtrZhKYy.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/znYNaQW736HBfEvfOiogfd8t4Z5.jpg</fanart>
+<genre>Terror</genre> / <year>2022</year> / <rate>5.6</rate> / <aired>2022/10/10</aired> / <duration>6060</duration>
+<info>Uma adolescente e seu irmão mais novo devem parar um meme aterrorizante da internet trazido à vida pela histeria de seus pais.</info> </item>
+----------------------------------------------------------------------------
+
+<item>  <title>They/Them: O Acampamento</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ed9ffcbbdd25686d2b16908ac038d9468c9062c4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/85TJ4udfUOwFIlvQL6EMFvvbvN5.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/5spmzlcl3GmtMwQfptTVgMwdM3.jpg</fanart>
+<genre>Terror</genre> / <year>2022</year> / <rate>3.7</rate> / <aired>2022/08/05</aired> / <duration>6240</duration>
+<info>Vários campistas queer e trans se reúnem em um acampamento para uma semana de programação destinada a ajudá-los a encontrar ‘uma nova sensação de liberdade’. À medida que os métodos do acampamento se tornam cada vez mais psicologicamente perturbadores, os campistas devem trabalhar juntos para se proteger. Quando um misterioso assassino começa a fazer vítimas, as coisas ficam ainda mais perigosas.</info> </item>
+----------------------------------------------------------------------------
+
+<item>  <title>Esposa de Aluguel</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19c90ee72a4124a0202967da8446d799c94eb91d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/28E42Ea3Ml3cjvUMHaSqeGYXBfI.jpg</thumbnail>  <fanart></fanart>
+<genre>Comédia, Romance</genre> / <year>2022</year> / <aired>2022/10/11</aired> / <duration>6420</duration>
+<info>Luiz é um homem de 30 anos que nunca se envolveu profundamente com nenhuma mulher além de sua mãe e três irmãs. Para atender ao último desejo da mãe controladora e evitar ficar de fora do testamento, o autoproclamado eterno solteiro contrata uma esposa de aluguel.</info> </item>
+----------------------------------------------------------------------------   
+   
 <item> 
 <title>O Lendário Cão Guerreiro</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a27ebd345df5001cc0a64f14d549ca09fa7039b</link>
