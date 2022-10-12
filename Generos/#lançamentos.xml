@@ -3,6 +3,20 @@ standalone="yes"?>
 
 <items>
    
+<item>  <title>Ameaça A Bordo</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16727b4ef0fd794045e0436b668fa2bc7dbc6ada</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/tviTAFuCFRLElylvBAMPjdRnCDZ.jpg</fanart>
+<genre>Ação</genre> / <year>2022</year> / <rate>3.2</rate> / <aired>2022/08/31</aired> / <duration>5640</duration>
+<info>Bella é uma jovem problemática. Ao herdar um iate do pai distante, ela se vê em perigo quando três ladrões o sequestram. Agora, ela precisa lutar para sobreviver.</info> </item>
+----------------------------------------------------------------------------
+
+<item>  <title>Mortal Kombat Legends: Cegueira Glacial</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c326ab03432cdccc3d4b9d90564cbfd4001ef8a2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xvjCiv1xNlK1kNnoe1nul899vIp.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/endVnEgUGjibpLaF0yjUX2CWhh4.jpg</fanart>
+<genre>Animação, Ação, Fantasia</genre> / <year>2022</year> / <rate>6.7</rate> / <aired>2022/10/09</aired> / <duration>4860</duration>
+<info>Determinado a assumir Earthrealm, Kano ataca violentamente cidade após cidade com a ajuda de três mercenários de sangue frio do Black Dragon. Aqueles que não se submetem são aniquilados, mas um jovem não se ajoelha para Kano: Kenshi.</info> </item>
+----------------------------------------------------------------------------   
+   
 <item>  <title>O Time da Redenção</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c477ce7af4e18d0dab8b7d0dfc9555c68e50b53</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8G9XOb9bO9LusWEI2dOAyaCf8Bb.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/arA7AFtzpJdOmWMQNh5gXpfR7SD.jpg</fanart>
