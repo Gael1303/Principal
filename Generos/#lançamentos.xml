@@ -3,6 +3,23 @@ standalone="yes"?>
 
 <items>
    
+ <item> 
+<title>Não! Não Olhe!</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIDKFUVRT2VOQOBBB3YIGNQU23S3JUFT&dn=N%C3%A3o%20N%C3%A3o%20Olhe%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg</fanart>
+<genre>Terror, Mistério, Ficção científica, Thriller</genre>
+<year>2022</year>
+<rate>7.5</rate>
+<aired>2022/07/20</aired>
+<duration>7200</duration>
+<originaltitle>NOPE</originaltitle>
+<info>"[I]Como se diz "milagre ruim"?[/I]"
+
+Os residentes de uma ravina solitária do interior da Califórnia testemunham uma descoberta estranha e assustadora vinda do céu.</info>
+</item>
+--------------------------------------------------  
+   
 <item>  <title>Ameaça A Bordo</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16727b4ef0fd794045e0436b668fa2bc7dbc6ada</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/tviTAFuCFRLElylvBAMPjdRnCDZ.jpg</fanart>
@@ -887,22 +904,7 @@ Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela
 </item>
 ----------------------------------------------------------------------------
 
-<item> 
-<title>Não! Não Olhe! - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7faf1fded1400940a3476b82da5c0e666a45593c&dn=Nope.2022.1080p.AMZN.WEBRip.DDP5.1.Atmos.x264-NOGRP&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2750&tr=udp%3a%2f%2f9.rarbg.to%3a2980&tr=udp%3a%2f%2ftracker.thinelephant.org%3a12780&tr=udp%3a%2f%2ftracker.fatkhoala.org%3a13710</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg</fanart>
-<genre>Terror, Mistério, Ficção científica, Thriller</genre>
-<year>2022</year>
-<rate>7.5</rate>
-<aired>2022/07/20</aired>
-<duration>7200</duration>
-<originaltitle>NOPE</originaltitle>
-<info>"[I]Como se diz "milagre ruim"?[/I]"
-
-Os residentes de uma ravina solitária do interior da Califórnia testemunham uma descoberta estranha e assustadora vinda do céu.</info>
-</item>
-----------------------------------------------------------------------------
+--------------------------
 
 <item> 
 <title>John McAfee: Gênio, Polêmico e Fugitivo</title>
