@@ -1,3 +1,9 @@
+<item> <title>Não! Não Olhe! - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c35b94eaf3fd82ea375b11639d31ef66291e4377</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
+<aired>2022/07/20</aired>
+<genre>Terror, Mistério, Ficção científica, Thriller</genre></item>
+
 <item> <title>Tron: O Legado - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fc375528fd26350f61ec2616ae920c6be474a7f</link>
 <thumbnail>https://image.tmdb.org/t/p/original/wlHzvzXE9AvMgrVsKHg2PweC3aC.jpg</thumbnail>
@@ -72,13 +78,6 @@
 <aired>2022/08/26</aired>
 </item>
 ----------------------------------------------------------------------------
-<item>
-<title>Nope - 4K - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:36db72f38ebf4497b8bd398e659bb85e11c07865</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
-<aired>2022/07/20</aired>
-<genre>Terror, Mistério, Ficção científica, Thriller</genre>
-</item>
 
 <item>
 <title>Top Gun: Maverick - 4K</title>
