@@ -3,23 +3,45 @@ standalone="yes"?>
 
 <items>
    
- <item> 
-<title>Não! Não Olhe!</title>
+<item>  <title>O Balconista 3</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ae7a04157c634ba6bd5e389b63957b3471d5e964</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/apzIqZIQLc8fNx5nbbcSSfPFtax.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/whn480SyRnaHxYqZlKR4COASykD.jpg</fanart>
+<genre>Comédia</genre> / <year>2022</year> / <rate>7.3</rate> / <aired>2022/09/03</aired> / <duration>6000</duration>
+<info>Dante e Randal estão mais uma vez atrás do balcão da Quick Stop Groceries, de bobeira com Jay e Silent Bob, matando trabalho para jogar hóquei no terraço e ofender clientes. Mas Randal tem um ataque cardíaco fulminante e decide que é hora de fazer algo na vida.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>A Maldição de Bridge Hollow</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a013279a6455ad34df557a00f40bdf194338b9d8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4hdxB3gErjNJtfWBU9rMdhiNbU.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/cuAUhb0aYQ9PsdU7EN3L2p1d3Ox.jpg</fanart>
+<genre>Aventura, Comédia, Terror</genre> / <year>2022</year> / <rate>6.4</rate> / <aired>2022/10/14</aired> / <duration>5340</duration> / <studio>NETFLIX</studio>
+<info>Pai e filha unem forças para salvar a cidade quando um espírito travesso faz com que as decorações de Halloween ganhem vida e espalhem o caos.</info> </item>
+----------------------------------------------------------------------------
+
+<item>  <title>Assalto na Paulista</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e76c85b1d670d86de1313ed54574c679827e0966</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/g4j5D2lCue9gIDvYg89VdSBXq1y.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/uCnChoPqUPfs8YgUBK0xV5HzWkh.jpg</fanart>
+<genre>Ação, Nacional</genre> / <year>2022</year> / <rate></rate> / <aired>2022/08/25</aired> / <duration>5400</duration>
+<info>Rubens é um poderoso bandido do interior paulista, que resolve dar um último grande golpe com a ajuda de sua filha adotiva Leônia, que fugiu da Bahia depois de ser estuprada por seu pai biológico. Mas nem tudo sai conforme o planejado durante o assalto aos cofres particulares de um banco na Avenida Paulista, coração de São Paulo. Rubens e Leônia só vão encontrar os seus verdadeiros destinos, ao desovar os frutos deste assalto no Paraguai, onde ambos entram em crise com os próprios valores existenciais. O filme é livremente inspirado no que foi um dos maiores assaltos a bancos privados no Brasil: o assalto à agência 0262 do Banco Itaú, na Avenida Paulista, centro financeiro do país.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Dark Web: Cicada 3301</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7c593642223505ab35eda2323c2d972566ba2e0</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tJlLfuvIBBn5aFoyW1IQWeFHl6v.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/mE9TXKcVsnfDW1n7k8qrAQMwk1F.jpg</fanart>
+<genre>Thriller, Ação, Comédia</genre> / <year>2022</year> / <rate>4.9</rate> / <aired>2022/09/01</aired> / <duration>5640</duration>
+<info>Segue o hacker Connor, seu melhor amigo Avi e um astuto bibliotecário que se vêem perdidos ao serem forçados a competir em um sofisticado jogo de recrutamento global de uma sociedade secreta de dark web.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Hellraiser - Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb1016c10c8fd83d216084cab694e3401b2c7401</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/8JbQec3ZYvC0lnxBtn6bnY9lHwi.jpg</fanart>
+<genre>Terror, Mistério</genre> / <year>2022</year> / <rate>6.1</rate> / <aired>2022/09/28</aired> / <duration>7260</duration>
+<info>Em “Hellraiser”, uma jovem lutando contra o vício se apossa de uma antiga caixa de quebra-cabeça, sem saber que seu objetivo é convocar os Cenobites, um grupo de seres sobrenaturais sádicos de outra dimensão.</info> </item>
+----------------------------------------------------------------------------   
+<item>  <title>Não! Não Olhe!</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIDKFUVRT2VOQOBBB3YIGNQU23S3JUFT&dn=N%C3%A3o%20N%C3%A3o%20Olhe%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg</fanart>
-<genre>Terror, Mistério, Ficção científica, Thriller</genre>
-<year>2022</year>
-<rate>7.5</rate>
-<aired>2022/07/20</aired>
-<duration>7200</duration>
-<originaltitle>NOPE</originaltitle>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg</fanart>
+<genre>Terror, Mistério, Ficção científica, Thriller</genre> <year>2022</year> <rate>7.5</rate> <aired>2022/07/20</aired> <duration>7200</duration> <originaltitle>NOPE</originaltitle>
 <info>"[I]Como se diz "milagre ruim"?[/I]"
 
-Os residentes de uma ravina solitária do interior da Califórnia testemunham uma descoberta estranha e assustadora vinda do céu.</info>
-</item>
---------------------------------------------------  
-   
+Os residentes de uma ravina solitária do interior da Califórnia testemunham uma descoberta estranha e assustadora vinda do céu.</info> </item>
+--------------------------------------------------     
 <item>  <title>Ameaça A Bordo</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:16727b4ef0fd794045e0436b668fa2bc7dbc6ada</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1RmugOkBFU5eXu1dbr1zdxChLfQ.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/tviTAFuCFRLElylvBAMPjdRnCDZ.jpg</fanart>
