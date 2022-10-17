@@ -41,7 +41,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Disney+[/B]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [B]Disney+[/B]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41Wi5MOPDbL.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Disney%2B.xml</externallink>
 		<fanart>https://www.oficinadanet.com.br/imagens/post/33643/capa-disneyplus.png</fanart>
