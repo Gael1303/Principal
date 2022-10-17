@@ -4,7 +4,7 @@ standalone="yes"?>
 <channels>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [B]Mais Populares</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Mais Populares[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-04-751.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Populares.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
@@ -12,7 +12,7 @@ standalone="yes"?>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [B]Lançamentos 2022</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Lançamentos 2022[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-16-561.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
