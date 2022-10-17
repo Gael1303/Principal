@@ -4,7 +4,7 @@ standalone="yes"?>
 <channels>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] MAIS POPULARES</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Mais Populares</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-04-751.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Populares.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
@@ -12,7 +12,7 @@ standalone="yes"?>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] LANÇAMENTOS 2022</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Lançamentos 2022</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-16-561.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
@@ -23,7 +23,7 @@ standalone="yes"?>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] CINEMA</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Cinema[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-32-547.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lancamentos_cinema.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
@@ -31,7 +31,7 @@ standalone="yes"?>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] GENEROS</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Generos[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-53-568.jpg</thumbnail>
 <fanart>https://</fanart>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Categorias_de_filmes.xml</externallink>
@@ -39,7 +39,7 @@ standalone="yes"?>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] COLEÇOES</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Coleçoes[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-58-19-861.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/sagas.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
@@ -47,7 +47,7 @@ standalone="yes"?>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] 4K</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]4K[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-58-42-070.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/4k.txt</externallink>
 <fanart>https://www.tremplin-numerique.org/wp-content/uploads/2022/01/Intel-interrompt-la-lecture-de-disques-Blu-Ray-4K-sur-de.jpg</fanart>
@@ -57,7 +57,7 @@ standalone="yes"?>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] IMAX</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Imax[/B]</name>
 <thumbnail>https://archive.org/download/picsart-22-09-02-13-35-21-113/Picsart_22-09-02_13-35-21-113.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/imax</externallink>
 <fanart>https://www.hardware.com.br/wp-content/uploads/static/wp/2022/06/02/1-2.jpg</fanart>
@@ -67,7 +67,7 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 </channel> 
   
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] OSCAR</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Oscar[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-59-25-367.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Oscar/Anos_Oscar</externallink>
 <fanart>https://movies.mxdwn.com/wp-content/uploads/2022/03/The-Oscars.jpeg</fanart>
@@ -75,7 +75,7 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] DOLBY VISION</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [B]Dolby Vision[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-59-47-604.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/Dolby_Vision.xml</externallink>
 <fanart>https://www.hardware.com.br/static/wp/2019/12/25/90-4.jpg?fm=pjpg&ixlib=php-3.3.0</fanart>
@@ -86,6 +86,12 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 [B][COLOR red]●[/COLOR]Arquivos em 4K[/B]
 [B][COLOR red]●[/COLOR]Minimo de 700MB de memoria RAM livres[/B]</info>
 </channel>
+
+<channel>
+<name>[COLOR yellow][B]≡[/B][/COLOR] [B]Streaming[/B]</name>
+<thumbnail>https://</thumbnail>
+<externallink>https://</externallink>
+<fanart>https://</fanart>
+<info>Filmes Populares de cada streaming</info>
+</channel>
 </channels>
-
-
