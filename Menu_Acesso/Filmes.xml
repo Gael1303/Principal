@@ -17,8 +17,7 @@ standalone="yes"?>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
 <info>[COLOR yellow][B]Previsoes:[/B][/COLOR] 
-
-[B]Não! Não Olhe! - 03/10[/B]
+  
 [B]A Órfã 2: A Origem - 27/10[/B]</info>
 </channel>
 
@@ -87,11 +86,4 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 [B][COLOR red]●[/COLOR]Minimo de 700MB de memoria RAM livres[/B]</info>
 </channel>
 
-<channel>
-<name>[COLOR yellow][B]≡[/B][/COLOR] [B]Streaming[/B]</name>
-<thumbnail>https://</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://</fanart>
-<info>Filmes Populares de cada streaming</info>
-</channel>
 </channels>
