@@ -242,6 +242,12 @@ Anne Boonchuy, uma garota de 13 anos, vai parar no mundo mágico de Amphibia, um
 </channel>
 </channels>
 -------------------------------------------------
+<channels><channel> <name> Andy e Seu Esquilo [COLOR yellow]5.2[/COLOR]</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Desenhos_raw/andy-e-seu-esquilo-direto</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ukNq4x6HB1wsmTZYelQxMja8GCJ.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/6hqFBGs2rQHhAeD2y9gTMeUkWSY.jpg</fanart>
+<genre>Animação, Comédia</genre> <aired>2006/07/14</aired> <studio>HBO MAX</studio>
+<info>O desenho conta a história de um garoto chamado Andy, que tem um esquilo de estimação, que seu nome é Rodney. Juntos aprontam as maiores confusões no seu bairro, como, inventando brincadeiras com o troféu favorito do Sr. Johnson. Eles tem como rival dos personagens, Caio, que também tem um bicho de estimação, Maquiavel, só que ao invés de ser um esquilo é um papagaio. Os quatro juntos aprontam as maiores confusões com os outros personagens do bairro.</info> </channel></channels>
+---------------------------------------------
 <channels>
 <channel>
 <name>Animaniacs [COLOR yellow]7.7[/COLOR]</name>
@@ -1029,6 +1035,13 @@ O Espetacular Homem-Aranha e um seriado norte-americano que estreou em 2008 que 
 </channel>
 </channels>
 
+<channels><channel> <name>O Menino Maluquinho [COLOR yellow]8.8[/COLOR]</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Desenhos_raw/menino-maluquinho</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/37aj7Vuci28GJz1AXiESAb74tGM.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/vONx9j5aHi8Y59i1mNjrsjpDdjo.jpg</fanart>
+<genre>Animação</genre> <aired>2022/10/12</aired> <studio>NETFLIX</studio>
+<info>O Menino Maluquinho é um garoto que pensa fora da caixinha e adora envolver todo mundo em suas aventuras – mesmo que elas não saiam conforme planejado.</info> </channel></channels>
+---------------------------------------------
+
 <channels><channel>
 <name>O Maskara: A Serie Animada [COLOR yellow]6.9[/COLOR]</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Desenhos_raw/o-mascara</externallink>
@@ -1343,6 +1356,13 @@ Steven Universe e um desenho animado que conta a historia de um grupo rebelde ch
 </channel>
 </channels>
 
+<channels><channel> <name>Superjail! [COLOR yellow]7.4[/COLOR]</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Desenhos_raw/superjail-direto</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kNw5w1YfQDgT8cJoqW38q8BVZUY.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/4vJkg0c06zQ81oSev4CrFQ6b95X.jpg</fanart>
+<genre>Animação, Comédia</genre> <aired>2008/09/28</aired> <studio>HBO MAX</studio>
+<info>Em um mundo surreal, uma grande prisão de segurança máxima, que abriga milhares de presos perigosos é dirigida por um diretor excêntrico e sua equipe igualmente estranha.</info> </channel></channels>
+---------------------------------------------
+
 <channels>
 <channel>
 <name>Superman: A Serie Animada [COLOR yellow]8.1[/COLOR]</name>
@@ -1370,6 +1390,8 @@ A serie mostra uma breve parte da infância do Superman no planeta Krypton ate s
 <info> Virgil e um jovem esperto, inteligente, atletico, vivaz e muito bem-humorado. Ele foi exposto acidentalmente a um gas desconhecido. Ele ganhou superpoderes eletrostaticos, e os usou para tornar-se um super-heroi chamado Super Choque.</info>
 </channel>
 </channels>
+
+
 
 <channels><channel> <name>Surpreendentes X-Men [COLOR yellow]7.3[/COLOR]</name>
 ---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Desenhos_raw/Surpreendentes_x-men</externallink>
@@ -1490,6 +1512,15 @@ U
 </channel>
 </channels>
 
+
+[V]
+
+<channels><channel> <name>Victor e Valentino [COLOR yellow]7.4[/COLOR]</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Desenhos_raw/victor-e-valentino-direto</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/lEwjk6uO7nb9FoquLe7ww8hHnVg.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/1BYZhnQMhUZ7XJ6SQfNoRgNw20e.jpg</fanart>
+<genre>Animação, Action & Adventure, Comédia, Mistério</genre> <aired>2019/03/30</aired> <studio>HBO MAX</studio>
+<info>Dois meio-irmãos passam um verão com sua avó em Monte Macabre, uma cidadezinha pequena e misteriosa, onde os mitos e lendas do folclore latino-americano ganham vida.</info> </channel></channels>
+---------------------------------------------
 W
 
 
