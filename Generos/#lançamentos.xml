@@ -3,18 +3,7 @@ standalone="yes"?>
 
 <items>
    
-<item>  <title>Ingresso Para o Paraíso</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8a853740fe9360080da79e08947f4908cb229c</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/ulyR4pWVMRtVcanoassVbmgfEPT.jpg</fanart>
-<genre>Comédia, Romance</genre> / <year>2022</year> / <rate></rate> / <aired>2022/09/08</aired> / <duration>6240</duration>
-<info>Um casal de ex-namorados se unem novamente, desta vez na missão de impedir que sua filha apaixonada cometa o mesmo erro que eles mesmos cometeram uma vez.</info> </item>
-----------------------------------------------------------------------------
-<item>  <title>Depois do Universo</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4aa467f6c22d07293e8bea52dde66af0fd196271</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/jv3UA95sQZkJYRVFsoGoxy3ixcL.jpg</fanart>
-<genre>Romance, Drama, Comédia</genre> / <year>2022</year> / <rate>5.4</rate> / <aired>2022/10/27</aired> / <duration>7560</duration>
-<info>A trama acompanha Nina, uma pianista que precisa superar os desafios de lidar com o lúpus. Ela conhece Gabriel, um médico com quem descobre uma forte conexão.</info> </item>
-----------------------------------------------------------------------------   
+  
    
 <item>
 <title>Órfã 2: A Origem</title>
@@ -27,7 +16,20 @@ standalone="yes"?>
 <duration>5940</duration>
 <info>Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo. </info>
 </item>
-------------------------   
+------------------------  
+   
+<item>  <title>Ingresso Para o Paraíso</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a8a853740fe9360080da79e08947f4908cb229c</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kN3WwFUTvhYsLudncZlEgeh1fCu.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/ulyR4pWVMRtVcanoassVbmgfEPT.jpg</fanart>
+<genre>Comédia, Romance</genre> / <year>2022</year> / <rate></rate> / <aired>2022/09/08</aired> / <duration>6240</duration>
+<info>Um casal de ex-namorados se unem novamente, desta vez na missão de impedir que sua filha apaixonada cometa o mesmo erro que eles mesmos cometeram uma vez.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Depois do Universo</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4aa467f6c22d07293e8bea52dde66af0fd196271</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/jv3UA95sQZkJYRVFsoGoxy3ixcL.jpg</fanart>
+<genre>Romance, Drama, Comédia</genre> / <year>2022</year> / <rate>5.4</rate> / <aired>2022/10/27</aired> / <duration>7560</duration>
+<info>A trama acompanha Nina, uma pianista que precisa superar os desafios de lidar com o lúpus. Ela conhece Gabriel, um médico com quem descobre uma forte conexão.</info> </item>
+----------------------------------------------------------------------------    
    
 <item>  <title>O Monastério</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bc648c6cb5cf658c19d8ef0a40d0c7f1bfd57e6</link>
