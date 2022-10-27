@@ -66,9 +66,23 @@
 <item>
 <title>O Conto da Aia - T05 - EP 05</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b70c3a490fa1679701407d98df628c56654fbbbd$nome=The Handmaids Tale - T05 - EP 05 720p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f26e05d3524e86705c1df34c86f6e01504f61724$nome=The Handmaids Tale - S05 - EP 05 4K Leg </link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c3af41850c8945060c80f22fc961357ab549e5ed$nome=The Handmaids Tale - S05 - EP 05 4K Leg </link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2rK53k6Lg6IDqHM7xp8OTzzzpz7.jpg</thumbnail>
 </item>
+
+<item>
+<title>O Conto da Aia - T05 - EP 06</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:31f90246f61af2506d55a11f4f0a8939c3480dad$nome=The Handmaids Tale - T05 - EP 06 720p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f26e05d3524e86705c1df34c86f6e01504f61724$nome=The Handmaids Tale - S05 - EP 06 4K Leg </link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2rK53k6Lg6IDqHM7xp8OTzzzpz7.jpg</thumbnail>
+</item>
+
+
+<item>
+<title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome= - 1080p</link>
+</item>
+---------------------------------------------------------------------------------------
 
 
 
