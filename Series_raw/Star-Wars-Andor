@@ -33,3 +33,17 @@
 <genre>Sci-Fi & Fantasy, Action & Adventure, War & Politics</genre>
 </item>
 ----------------------------------------
+<item>
+<title>Star Wars: Andor - T01 EP 08</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d66b7ecacaa615c20553a1b05bb314c39f8d4ec2</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/59SVNwLfoMnZPPB6ukW6dlPxAdI.jpg</thumbnail>
+<genre>Sci-Fi & Fantasy, Action & Adventure, War & Politics</genre>
+</item>
+----------------------------------------
+
+<item>
+<title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome= - 1080p</link>
+</item>
+---------------------------------------------------------------------------------------
+
