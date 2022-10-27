@@ -9,6 +9,22 @@
 <aired>2022/07/20</aired>
 <genre>Terror, Mistério, Ficção científica, Thriller</genre></item>
 
+<item>  <title>Free Guy: Assumindo o Controle - 4K</title>
+<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Free%20Guy%20-%20Assumindo%20o%20Controle/Free.Guy.Assumindo.O.Controle.(2021).2160p.BluRay.REMUX.DTS-HD.7.1.HDR-U.HEV.DUAL-Hiro360.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jXlGeLOg2RKHmV9CinVaIB4ijKU.jpg</thumbnail>
+<genre>Ação, Aventura, Comédia</genre> / <year>2021</year> / <aired>2021/08/11</aired> <info>LINK DIRETO</info></item>
+----------------------------------------------------------------------------
+<item>  <title>Rambo: Até o Fim - 4K</title>
+<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/Filmes/Filmes%20no%20geral%20com%20nome%20em%20portugu%C3%AAs%20(maioria%20remux)/Rambo/Rambo.At%C3%A9.o.Fim.(2019).[Vers%C3%A3o-de-Cinema].4K.UHD.BD-Remux.2160p.h265.Dual.Audio.ROBSON2015.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vaoCd6iZ6xmBTvsiuWjcMWY6wdm.jpg</thumbnail>
+<genre>Ação, Suspense</genre> / <aired>2019/09/19</aired> <info>LINK DIRETO</info></item>
+----------------------------------------------------------------------------
+<item>  <title>Cruella - 4K </title>
+<link>https://ancient-water-f4be.itausafrabv.workers.dev//0:/Filmes/Filmes%20no%20geral/Cruella%20(2021)/Dual%20%C3%81udio%20-%202160p%20HDR%20HEVC/[Disney+]%20Cruella%20(2021)%20[2160p][Dual%20%C3%81udio]%20HEVC.mkv</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rRYNGhcAZlTfIUS7iFoF4H9iDbc.jpg</thumbnail>  
+<genre>Comédia, Crime</genre> / <aired>2021/05/26</aired> <info>LINK DIRETO</info></item>
+----------------------------------------------------------------------------
+
 <item> <title>Tron: O Legado - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5fc375528fd26350f61ec2616ae920c6be474a7f</link>
 <thumbnail>https://image.tmdb.org/t/p/original/wlHzvzXE9AvMgrVsKHg2PweC3aC.jpg</thumbnail>
