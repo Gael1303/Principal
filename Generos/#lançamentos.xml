@@ -3,6 +3,19 @@ standalone="yes"?>
 
 <items>
    
+<item>
+<title>Órfã 2: A Origem</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3e1e4f2c10f261fcebe26b1da8bb146c4015025a</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg </thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/ft1jH9Zrjx48obILr8NpgfvLYku.jpg</fanart>
+<genre>Drama, Suspense, Terror</genre>
+<year>2022</year>
+<aired>2022/08/19</aired>
+<duration>5940</duration>
+<info>Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo. </info>
+</item>
+------------------------   
+   
 <item>  <title>O Monastério</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9bc648c6cb5cf658c19d8ef0a40d0c7f1bfd57e6</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/y47wBamj9vdqBeGaLEFTrYEPTeC.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/xXSjMjCdZ6v7NIFvsSMNqe4ySkF.jpg</fanart>
@@ -1088,18 +1101,7 @@ Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela
 Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.</info>
 </item>
 
-<item>
-<title>Órfã 2: A Origem (LEG)</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0552c5881e165ba6704305543a9ee7719b0c9fda</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg </thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/ft1jH9Zrjx48obILr8NpgfvLYku.jpg</fanart>
-<genre>Drama, Suspense, Terror</genre>
-<year>2022</year>
-<aired>2022/08/19</aired>
-<duration>5940</duration>
-<info>Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo. </info>
-</item>
-------------------------
+
 
 <item>
 <title>365 Dias Finais</title>
