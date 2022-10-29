@@ -1299,7 +1299,7 @@ S
 
 <channels>
 <channel>
-<name>Scooby Doo, Cade Voce! [COLOR yellow]7.8[/COLOR]</name>
+<name>Scooby-Doo, Cade Voce! [COLOR yellow]7.8[/COLOR]</name>
 <thumbnail>https://64.media.tumblr.com/1086cae43e7818e844e8adf97fff59d3/e54fa5a6a28f5cf8-be/s1280x1920/237ec47a2ac468d4227e8a75f9ae94dbf7594dd9.png</thumbnail>
 <fanart>https://www.nicepng.com/png/detail/76-760232_scooby-doo-where-are-you-image-transparent-scooby.png</fanart>
 <genre>Animaçao, Classico, Comedia, Familia, Misterio</genre>
@@ -1308,6 +1308,12 @@ S
 </channel>
 </channels>
 
+<channels><channel> <name>Scooby-Doo e Scooby-Loo [COLOR yellow]6.3[/COLOR]</name>
+---<externallink>https://github.com/Gael1303/Principal/raw/main/Desenhos_raw/scooby-loo-direto</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctxdYzdqSlrfKrqEo3bLSrrMLSP.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/1ISPXD33qsdo9dBvhC90S60wdBK.jpg</fanart>
+<genre>Animação, Misterio</genre> <aired>1979/09/22</aired> <studio>HBO MAX</studio>
+<info>Ao contrário do seu tio, Scooby-Loo, muitas vezes tenta assumir a tarefa de capturar o vilão da semana em suas próprias mãos, forçando Salsicha e Scooby para tentar seu melhor teste de coragem sem precisar de Fred, Daphne e Velma. Embora ainda presentes nestes episódios, Fred, Daphne e Velma aparecem com pouca frequência no enredo.</info> </channel></channels>
+---------------------------------------------
 
 
 <channels>
