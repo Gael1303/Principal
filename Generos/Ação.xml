@@ -1,5 +1,35 @@
-<item>  <title>Sala de Espionagem</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0d08af75a1010e8f560cc541085d1ee2970bca5</link>
+<item>  <title>No Lugar Errado</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a78c597c9a793b3e11697ce5601a3d06c13b744d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/stNw6PKVfWRZC06RONBRveScRHB.jpg</thumbnail>
+<genre>Ação, Crime, Thriller</genre> / <year>2022</year> / <aired>2022/07/15</aired> <duration>5760</duration>
+<info>Um cozinheiro de metanfetaminas persegue o ex-chefe de polícia de uma pequena cidade para silenciá-lo antes que ele possa testemunhar contra sua família, mas acaba enfrentando mais do que esperava.</info></item>
+---------------------------------------------------------------------------------------------------------------
+<item> <title>Os Heróis Da Ferrovia</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f8d00f89b8f31e7e8287879fd21d5f37146b509</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gTjZErHBML0uYYgj7YsL7YiUKMV.jpg</thumbnail>
+<info>História da “Brigada Ferroviária Luna” que lutou desesperadamente para defender seu país</info>
+<genre>Guerra, Drama, Ação, Aventura</genre> <aired>2021/11/19</aired> <duration>7440</duration> </item>
+---------------------------------------------------------------------------------------
+<item> <title>Homem-Aranha: Sem Volta Para Casa</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afa26f6a979036145055809dd016f25f1c5571a4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/t0fSUE2KsFNGXwui9knxd3XsW8n.jpg</thumbnail>
+<info>Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...</info>
+<genre>Ação, Aventura, Ficção científica</genre> <aired>2021/12/16</aired> <duration>8940</duration> </item>
+-------------------------------------------------------------------------------
+<item> <title>Blackout</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4408397f875117cc95fe5d97ec99517ab8e8a8b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xDgnmbdWS59NtTPdzujdZGuPUPZ.jpg</thumbnail>
+<info>Um homem desperta com amnésia em um hospital mexicano e descobre que é alvo de um cartel. Agora, ele precisa ir atrás da verdade, rápido!</info>
+<genre>Ação, Aventura, Thriller</genre> <aired>2022/10/12</aired> <duration>4860</duration> </item>
+---------------------------------------------------------------------------------------
+<item> <title>X-Men Origens: Wolverine</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9834723f2b2d090bfd246fc5e075e7d67e4d19f6</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yj8LbTju1p7CUJg7US2unSBk33s.jpg</thumbnail>
+<info>Tentando esquecer seu passado sombrio, Logan, mais conhecido como Wolverine, parece ter encontrado o amor e a felicidade com Kayla Silverfox. Mas a paz de Logan é abalada quando Victor Creed, seu irmão cruel, assassina brutalmente Kayla. A sede de vingança de Logan o leva ao programa Arma X. Ele passa por um processo doloroso para fortalecer seus ossos com adamantium, o que o torna praticamente indestrutível.</info>
+<genre> Ação, Thriller, Ficção científica</genre> <aired>2009/04/30</aired> <duration>6480</duration> </item>
+---------------------------------------------------------------------------------------
+<item> <title>Wolverine: Imortal</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fd1fc3beb678f5eef37f62af2ac27d2db55c0157</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wCP2JfaRFdrFjxiXTUdNnfvyJ2K.jpg</thumbnail>
+<info>Após matar Jean Grey para salvar a humanidade, Logan passou a viver na selva. Deprimido, ele é encontrado em um bar pela jovem Yukio, filha de Yashida, que foi salvo por Logan em Nagasaki na época da bomba atômica. Yashima deseja reencontrar Logan para fazer-lhe uma proposta: transferir seu fator de cura para ele, de forma que Logan possa, enfim, se tornar mortal e levar uma vida como uma pessoa qualquer. Ele recusa o convite, mas acaba infectado por uma mutante imune a venenos de todo tipo.</info>
+<genre>Ação, Ficção científica, Aventura, Fantasia</genre> <aired>2013/07/23</aired> <duration></duration> </item>
+---------------------------------------------------------------------------------------
+<item>  <title>Sala de Espionagem</title> 
+ <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0d08af75a1010e8f560cc541085d1ee2970bca5</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bIIlLOfJiqR9O1N5RJcHI1MmIFK.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/skL7c4ZhZqo1IFbMcHNrol4fvkc.jpg</fanart>
 <genre>Ação, Crime, Thriller</genre> / <year>2022</year> / <rate></rate> / <aired>2022/09/02</aired> / <duration>5760</duration>
 <info>Um agente de monitoramento encarregado de proteger um traficante de armas mortal-mas logo o agente se encontra no fogo cruzado.</info> </item>
