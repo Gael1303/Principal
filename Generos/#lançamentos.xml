@@ -2,6 +2,17 @@
 standalone="yes"?>
 
 <items>
+   
+<item>  <title>A Jaula</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5be986c0db6eb303d0c9e1e284144a65a3873c7a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/81mR1GO4HglfZwMwpIXTryj6EYu.jpg</fanart>
+<genre>Suspense</genre> / <year>2022</year> / <rate>6.7</rate> / <aired>2022/02/17</aired> / <duration>4980</duration>
+<info>É só mais um carro de luxo sendo roubado numa rua de São Paulo... ou não. Um ladrão entra com facilidade no SUV estacionado numa rua pacata, mas, ao tentar sair, descobre que está preso em uma armadilha, incomunicável, sem água ou comida. Recai somente sobre ele a vingança que um famoso médico planejou depois de sofrer inúmeros assaltos. Quem passa em volta não percebe o embate que se arma entre o sádico vingador e o ladrão prisioneiro dentro do carro.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Oficina do Diabo</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5a917c761e659af65b5729c9148d15be440c6025</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rowUyokuj4xb17eWvghIry6nLgN.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/3f2xX0r2x0RbMR2spoqkdUIhuuj.jpg</fanart>
+<genre>Terror</genre> / <year>2022</year> / <rate>4.5</rate> / <aired>2022/09/30</aired> / <duration>5160</duration>
+<info>Clayton está desesperado por um papel como demonologista. Ele entra em contato com Eliza, uma especialista em conhecimentos demoníacos para ajudá-lo a se preparar e passa o fim de semana em sua casa. Eliza força Clayton a enfrentar seu passado perturbador, realizar rituais sombrios e sacrificar animais.</info> </item>
+----------------------------------------------------------------------------   
 
 <item> 
 <title>Sorria - Leg</title>
