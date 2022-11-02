@@ -2,7 +2,12 @@
 standalone="yes"?>
 
 <items>
-   
+  
+<item>  <title>Gêmeo Maligno</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5aaf5b6795783e2fa5e62fd404e8bc8682fea8d4</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pNbExNsfqTs8pXJs05yBRW0nNHg.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/AcStyrENNAzGB7hkCPe1YWgFgWM.jpg</fanart>
+<genre>Terror</genre> / <year>2022</year> / <rate>5.1</rate> / <aired>2022/04/06</aired> / <duration>6540</duration>
+<info>Traumatizada pela forma violenta que um de seus gêmeos morreu, uma mulher tenta recomeçar sua vida junto de seu marido. Porém, existem alguns segredos tão aterrorizantes que necessitam ser enterrados duas vezes.</info> </item>
+----------------------------------------------------------------------------   
 <item>  <title>A Jaula</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5be986c0db6eb303d0c9e1e284144a65a3873c7a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4hl4vdf2QdKRMg5cU0CIO3eydg.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/81mR1GO4HglfZwMwpIXTryj6EYu.jpg</fanart>
 <genre>Suspense</genre> / <year>2022</year> / <rate>6.7</rate> / <aired>2022/02/17</aired> / <duration>4980</duration>
