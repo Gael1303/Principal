@@ -1,3 +1,9 @@
+<item>  <title>Morte, Morte, Morte - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfff8c742e826c8dfad72b424be49e7e668685cd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cpCQCB125ptWxrQ1nl8xS1A2h30.jpg</thumbnail>
+<genre>Comédia, Terror, Mistério</genre> / <year>2022</year> / <rate>6.3</rate> / <aired>2022/08/05</aired></item>
+---------------------------------------
+
 <item>  <title>Pearl - 4K - Leg</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d086f5db264335a149df6eb57cc1b691ecbda08</link>
 <thumbnail>https://dyncdn.me/mimages/370937/poster_opt.jpg</thumbnail>
