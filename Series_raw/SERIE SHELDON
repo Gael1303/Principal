@@ -320,3 +320,39 @@
 <genre></genre>
 </item>
 
+
+
+<item>
+<title>[COLOR cyan][B]6ª Temporada[/B][/COLOR] </title>
+<thumbnail>https://image.tmdb.org/t/p/w342/aESxB2HblKlDzma39xVefa20pbW.jpg</thumbnail>
+<genre></genre>
+</item>
+
+
+<item>
+<title>Young Sheldon - T06 E01</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d7c1199179812f16af2051f7b24be16b7ca8c78a</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/aESxB2HblKlDzma39xVefa20pbW.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>Young Sheldon - T06 E02</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:192a9916d1ffd59686d0d23b8b5abf419c58f95c</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/aESxB2HblKlDzma39xVefa20pbW.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>Young Sheldon - T06 E03</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ac956692a6175fdf244585a7bb8bc100113664c4</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/aESxB2HblKlDzma39xVefa20pbW.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>Young Sheldon - T06 E04</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d477a529bbd35563a50e24b708e11803852a32be</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/aESxB2HblKlDzma39xVefa20pbW.jpg</thumbnail>
+<genre></genre>
+</item>
