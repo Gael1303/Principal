@@ -1,3 +1,10 @@
+<item>  <title>Passagem - 4K</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:21673674ccf38f13cbf85b77d521a9f84617aa04</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/81eQIYIR7i5W0XsB2PtvZAt4I9w.jpg</thumbnail> 
+<genre>Drama</genre> / <year>2022</year> / <rate>6.8</rate> / <aired>2022/10/28</aired>
+</item>
+----------------------------------------------------------
+
 <item>  <title>Morte, Morte, Morte - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cfff8c742e826c8dfad72b424be49e7e668685cd</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cpCQCB125ptWxrQ1nl8xS1A2h30.jpg</thumbnail>
