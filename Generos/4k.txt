@@ -1,3 +1,9 @@
+
+<item>  <title>Noites Brutais - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f26a0966abefb89dc491f894c5b12085575460e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg</thumbnail>  
+<genre>Terror, Mistério, Thriller</genre> / <year>2022</year> / <rate>7.5</rate> / <aired>2022/09/09</aired></item>
+--------------------------------------
 <item>  <title>Enola Holmes 2 - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:97e958b0b77fd2f66b1a1a269a9683d596f08b95</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg</thumbnail>  
 <genre>Aventura, Ação, Suspense</genre>  / <rate>6.8</rate> / <aired>2022/11/04</aired> / </item>
