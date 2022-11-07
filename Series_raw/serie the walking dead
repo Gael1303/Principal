@@ -325,8 +325,16 @@
 </item>
 -----------------------------------------
 <item>
-<title>The Walking Dead - T11 E22 Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:25c279e6d119f3a51cf250be3b3ec6c81da50ea6</link>
+<title>The Walking Dead - T11 E22</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:77fae3076c17365592773ab24e9d28cd0d8ce36f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg</thumbnail>
+<duration>2700</duration>
+<genre>Suspense, Terror</genre>
+</item>
+-----------------------------------------
+<item>
+<title>The Walking Dead - T11 E23 Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:789f365d4a93c91ea6467e9ce9357b7a97f10c7d</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/xf9wuDcqlUPWABZNeDKPbZUjWx0.jpg</thumbnail>
 <duration>2700</duration>
 <genre>Suspense, Terror</genre>
