@@ -3,6 +3,37 @@ standalone="yes"?>
 
 <items>
   
+<item>  <title>A Matriarca</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb3085062fa9138394cc11958e486e8f9485616b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/o57VVZImE6RcZAffPepZyuwNLKs.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/7R1gR2t4JL6raEOuZvbP3y0yl8r.jpg</fanart>
+<genre>Terror</genre> / <year>2022</year> / <rate>4.5</rate> / <aired>2022/11/11</aired> / <duration>5160</duration>
+<info>Após sobreviver a uma overdose, uma mulher retorna à casa onde cresceu para enfrentar seus demônios interiores, mas descobre a presença de uma entidade real.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Alice</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7c961053e70f78692af1f986887ecd7558ab2d68</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7akDcAHfp7Lkmuq2ygzNzOhWq8M.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/lZwcDsbWTuPUUXETrsoYcHGaOnC.jpg</fanart>
+<genre>Suspense, Drama</genre> / <year>2022</year> / <rate>5.5</rate> / <aired>2022/03/18</aired> / <duration>6000</duration>
+<info>Alice (Keke Palmer) é uma escrava que passa os dias em uma plantação na área rural do estado da Geórgia. Querendo liberdade, um dia ela briga com o seu patrão e dono do local, Andrew (Jonny Lee Miller). Fugindo para não ser morta, Alice se depara com uma estrada de cimento e logo descobre que o ano é 1972.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Nossa Mãe é Para Sempre</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:86eadbbae71fa2a745e756429d6c4f82cd1765e8</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/coPl2pKqOtwiq7HttcUlrkYe1y3.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/d354cA0zQChiM5GfRjNs4Ejm9se.jpg</fanart>
+<genre>Comédia</genre> / <year>2022</year> / <rate>N/A</rate> / <aired>2022/11/01</aired> / <duration>5580</duration>
+<info>Um ano após a sua morte, uma mãe superprotetora visita seus três filhos durante as festividades do Día de Muertos. Decepcionada com o que vê, ela decide testar os limites da vida após a morte para colocá-los de volta nos trilhos.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Jogada de Amor</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5f427e5136ef01c1b486006b5e485d756db4fa87</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vWgcIHKARoGFtbEPP9Ut7y2fmoP.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/ljYHyD0ZOQqIKDjRyxHYzlmvY2t.jpg</fanart>
+<genre>Comédia, Romance</genre> / <year>2022</year> / <rate>6.4</rate> / <aired>2022/03/17</aired> / <duration>6180</duration> <studio>HBO MAX</studio>
+<info>Gianni, mulherengo incurável, aceita o desafio dos amigos e finge ser deficiente para sair com Chiara, uma tenista paraplégica. Pressionado pela irmã a confessar a verdade, o homem descobre que está apaixonado por ela.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>A Espera de Liz</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d35d7dffc4b28eb6991d7452e95e2fc1c6481358</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k6BHFbih6ET0WGxL9VrcClZKANW.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/bR2HLcNR9DpnjJBNzw6jk5oM5Rt.jpg</fanart>
+<genre>Drama</genre> / <year>2022</year> / <rate>7.6</rate> / <aired>2022/03/17</aired> / <duration>6000</duration> <studio>APPLE TV+</studio>
+<info>Liz precisa lidar com o desaparecimento inexplicável de Miguel, seu companheiro. Para isso, busca consolo na irmã mais nova, Lara, que esconde informações sobre o sumiço do cunhado.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Selena Gomez: Minha Mente e Eu - Leg</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d0874eadff1ad8678a0d5527bb52a0d97f3142d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/e3X5Vjsj6hyPVnKyJsUzkWkN5l4.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/8SKOYP0ukOCAixubONgTpWcMCKA.jpg</fanart>
+<genre>Documentário, Música</genre> / <year>2022</year> / <rate>8.8</rate> / <aired>2022/11/04</aired> / <duration></duration> <studio>APPLE TV+</studio>
+<info>Selena Gomez alcançou uma fama inimaginável após anos estando sob os holofotes. Porém, ao alcançar um novo patamar, uma reviravolta inesperada a joga na escuridão. Este documentário exclusivo e íntimo cobre seis anos de sua jornada rumo à uma nova luz.</info> </item>
+----------------------------------------------------------------------------  
+  
 <item> 
 <title>Sorria</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5da9b60b95049accd2a2a917a96fbd0a6138dc66</link>
