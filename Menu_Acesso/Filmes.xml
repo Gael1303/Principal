@@ -96,5 +96,13 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 <fanart>https://movies.mxdwn.com/wp-content/uploads/2022/03/The-Oscars.jpeg</fanart>
 <info>[B]FILMES INDICADOS E VENCEDORES DE CADA ANO[/B]</info>
 </channel>
+  
+<channel>
+<name>[COLOR yellow][B]≡[/B][/COLOR] [B]STREAMING[/B] - [COLOR gray]EM CONSTRUÇÃO[/COLOR]</name>
+<thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-29-215.jpg</thumbnail>
+<externallink>https://github.com/Gael1303/Principal/raw/main/Streaming_Filmes/%23Pasta_streaming_filmes</externallink>
+<fanart>https://img.olhardigital.com.br/wp-content/uploads/2021/06/Servicos-de-streaming.jpg</fanart>
+<info>FILMES DISPONIVEIS EM CADA PLATAFORMA DE STREAMING</info>
+</channel>  
 
 </channels>
