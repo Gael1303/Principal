@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<layouttype>thumbnail</layouttype>
+
+<channels>
+	<channel>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [B]APPLE TV+[/B]</name>
+		<thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Streaming_Filmes/Apple</externallink>
+		<fanart>https://mixdeseries.com.br/wp-content/uploads/2019/03/Apple-TV-2-e1568730986332.jpg</fanart>
+		<info>
+[B]FILMES DISPONIVEIS APPLETV+[/B]
+</info>
+	</channel>
+</channels>
+
+<channels>
+	<channel>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [B]DISNEY+/B]</name>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41Wi5MOPDbL.jpg</thumbnail>
+		<externallink>https://</externallink>
+		<fanart>https://www.oficinadanet.com.br/imagens/post/33643/capa-disneyplus.png</fanart>
+		<info>
+[B]FILMES DISPONIVEIS DISNEY+[/B]
+</info>
+	</channel>
+</channels>
+-----------------------------------------------------------------------------------------------------------------------------
+
+<channels>
+	<channel>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]PRIME VIDEO[/B][/COLOR]</name>
+		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41mpv9rBhmL.png</thumbnail>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Streaming_Filmes/Prime</externallink>
+		<fanart>https://vejasp.abril.com.br/wp-content/uploads/2022/05/amazon.jpeg</fanart>
+		<info>
+[B]FILMES DISPONIVEIS PRIME VIDEO[/B]
+</info>
+	</channel>
+</channels>
+-----------------------------------------------------------------------------------------------------------------------------
