@@ -2,7 +2,22 @@
 standalone="yes"?>
 
 <items>
-
+  
+<item>  <title>Uma Pitada de Sorte</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f302d9cfdc28825170cf0eafb011514f4545f7c1</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4SKHuc6D9ru9qJiAPr9xS04w2Um.jpg</thumbnail>
+<genre>Comédia</genre> / <year>2022</year> / <rate>N/A</rate> / <aired>2022/09/15</aired> / <duration>4740</duration>
+<info>Pérola mora com a mãe e o irmão adotivo mais novo. Seu maior sonho é ser reconhecida como Chef e enquanto seu sonho não se torna realidade, a menina trabalha como animadora de festas infantis e Sous Chef (a segunda no comando de uma cozinha) em um restaurante da Zona Sul do Rio de Janeiro. Tudo começa a mudar na vida de Pérola quando ela é aprovada para uma audição para ser assistente de um renomado Chef em um programa de televisão.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Futebol em Apuros</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e16b4fb0584381821693fc985b1052fcd2c1ab09</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/sWoYDNPNZs5MtzPbirXV73tIHrA.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/suqChi6cQ1tspibyQYKkN4qCeAA.jpg</fanart>
+<genre>Animação, Comédia, Família, Terror</genre> / <year>2022</year> / <rate>6.0</rate> / <aired>2022/09/09</aired> / <duration>4440</duration>
+<info>Quatro superfãs de futebol se unem para ajudar seus ídolos a recuperar o talento roubado por um cientista maluco.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Curtas dos Minions 2</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c163bf93e440aedc8aa43177193d07218510aedd</link>
+<thumbnail>https://www.themoviedb.org/t/p/w220_and_h330_face/c1vDa5Cw1tXLJsdSfvcYkhViET1.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/nZko47PX3RRWzbDGtcj6PPR90By.jpg</fanart>
+<genre>Comédia, Família, Animação</genre> / <year>2022</year> / <rate>8.0</rate> / <aired>2022/11/08</aired> / <duration>5180</duration>
+<info>Conheça curtas de animação como "Phil’s Dance Party" e "Binky Nelson sem Chupeta" nesta compilação de curtas da mesma produtora da franquia Meu Malvado Favorito.</info> </item>
+----------------------------------------------------------------------------  
 <item>  <title>Predestinado: Arigó e o Espírito do Dr. Fritz</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d44cc9adcd8b01134f26fb4dcf4ff6c11b9c104</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qx8v1E6t0GvUAUFdXjyE1L5D6qW.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/f3dhwRgPIzftANfkBlomV3AwrDM.jpg</fanart>
 <genre>Drama</genre> / <year>2022</year> / <rate>7.4</rate> / <aired>2022/09/01</aired> / <duration>6300</duration>
