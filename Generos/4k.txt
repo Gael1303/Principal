@@ -1,3 +1,7 @@
+<item>  <title>Nada de Novo no Front - 4K</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:70b6f15a3327590bb4713b6e0717ad0c62c0e077</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qmcKs0Aoft7MBdBoj1haZyPRgM2.jpg</thumbnail>
+<genre>Guerra, História, Drama, Ação</genre> / <year>2022</year> / <aired>2022/10/28</aired> </item>
+----------------------------------------------------------------------------
 
 <item>  <title>Noites Brutais - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3f26a0966abefb89dc491f894c5b12085575460e</link>
