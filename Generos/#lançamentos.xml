@@ -2,7 +2,14 @@
 standalone="yes"?>
 
 <items>
-  
+
+<item>
+<title>X: A Marca da Morte</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:139e83864245731f67fd74adee27f9bc1cfdddd1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg</fanart>
+<genre>Terror</genre> <year>2022</year> <rate>6.6</rate> <aired>2022/04/13</aired> <duration>6900</duration>
+<info>‎Em 1979, um grupo de jovens cineastas começou a fazer um filme adulto na zona rural do Texas, mas quando seus anfitriões reclusos e idosos os pegam no ato, o elenco se encontra‎ lutando por suas vidas.‎</info></item>
+-----------------------
 <item>  <title>Uma Pitada de Sorte</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f302d9cfdc28825170cf0eafb011514f4545f7c1</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4SKHuc6D9ru9qJiAPr9xS04w2Um.jpg</thumbnail>
 <genre>Comédia</genre> / <year>2022</year> / <rate>N/A</rate> / <aired>2022/09/15</aired> / <duration>4740</duration>
