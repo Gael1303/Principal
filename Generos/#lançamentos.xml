@@ -3,6 +3,13 @@ standalone="yes"?>
 
 <items>
   
+<item>  <title>Um Lugar Bem Longe Daqui</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d3e478ceb8f6700fcbaa68b6afdf79862fdaf02</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/jxLRIdPBbyukw8YR9CWw4KObkvf.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg</fanart>
+<genre>Drama, Mistério</genre> <year>2022</year> <rate>7.2</rate> <aired>2022/09/01</aired> <duration>7500</duration>
+<info>Baseado no romance de Delia Owens, Um Lugar Bem Longe Daqui acompanha duas linhas temporais: A primeira sobre as aventuras da jovem Kya enquanto vive isolada em uma pequena cidade da Carolina do Norte. E a segunda é sobre a investigação de um assassinato de uma celebridade local na cidade fictícia de Barkley Cove.</info>
+</item>
+----------------------------------------------------------------------------
+  
 <item>  <title>Bala Perdida 2</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5cce467c1cd1f37965a89687b195a15bd24d9214</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mqSZ36rvitkDJdXIFIBmsbG2d1D.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/707thQazLJiYLBhCrZlRoV05NNL.jpg</fanart>
 <genre>Ação, Drama, Thriller</genre> / <year>2022</year> / <rate>7.2</rate> / <aired>2022/11/10</aired> / <duration>5880</duration>
@@ -1123,19 +1130,7 @@ Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela
 <info>Becky e Hunter são duas amigas que buscam aventura e enfrentam grande alturas em suas escaladas. Depois de um grande drama vivido por elas, as duas decidem escalar uma remota torre de rádio abandonada com mais de 2000 pés de altura. Parecia a aventura perfeita para desligar a mente do trágico acontecimento que vivenciaram com o namorado de uma delas. Elas não contavam que ficariam presas e isoladas naquele lugar sem sinal de celular, sem energia e sem pessoas por perto.</info>
 </item>
 ----------------------------------------------------------------------------
-<item> 
-<title>Um Lugar Bem Longe Daqui - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a633e309edde6f4ef1fe7f7dfffd43cdbcdec6</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/jxLRIdPBbyukw8YR9CWw4KObkvf.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg</fanart>
-<genre>Drama, Mistério</genre>
-<year>2022</year>
-<rate>7.2</rate>
-<aired>2022/09/01</aired>
-<duration>7500</duration>
-<info>Baseado no romance de Delia Owens, Um Lugar Bem Longe Daqui acompanha duas linhas temporais: A primeira sobre as aventuras da jovem Kya enquanto vive isolada em uma pequena cidade da Carolina do Norte. E a segunda é sobre a investigação de um assassinato de uma celebridade local na cidade fictícia de Barkley Cove.</info>
-</item>
-----------------------------------------------------------------------------
+
 <item> 
 <title>O Telefone Preto</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3c53a6d5be370eb977407305bbc1e279b532d303</link>
