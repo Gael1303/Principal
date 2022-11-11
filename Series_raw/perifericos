@@ -21,6 +21,13 @@ PERIFERICOS
 </item>
 ----------------------------------------
 <item>
+<title>Periféricos - T01 E05</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:84d24da94167dd69d3fc43e71ee48c503330edbb</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8o3mgiKx9pKz9lyJvTXSmogBUwv.jpg</thumbnail>
+<genre>Sci-Fi & Fantasy, Drama</genre>
+</item>
+----------------------------------------
+<item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome= - 1080p</link>
 </item>
