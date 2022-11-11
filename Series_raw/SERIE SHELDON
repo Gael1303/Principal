@@ -132,22 +132,6 @@
 </item>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 <item>
 <title>[COLOR yellow][B]------------------------------------------------------------------[/B][/COLOR] </title>
 <thumbnail>https://image.tmdb.org/t/p/w342/3o7f2Xjwl5hcoiioR9eGdD9ezHt.jpg</thumbnail>
@@ -353,6 +337,13 @@
 <item>
 <title>Young Sheldon - T06 E04</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d477a529bbd35563a50e24b708e11803852a32be</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/aESxB2HblKlDzma39xVefa20pbW.jpg</thumbnail>
+<genre></genre>
+</item>
+
+<item>
+<title>Young Sheldon - T06 E05</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e0cc1a5df71f3960ec19edfabb5295e23eac5218</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/aESxB2HblKlDzma39xVefa20pbW.jpg</thumbnail>
 <genre></genre>
 </item>
