@@ -1,6 +1,6 @@
 <item>
 <title>X: A Marca da Morte - 4K - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:539208155775f3b172fe626201a18aa757a81cf8</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07c79ffbe79804fa6669b9a7a36728c5e58aa3d6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg</thumbnail>
 <genre>Terror</genre> <year>2022</year> <rate>6.6</rate> <aired>2022/04/13</item>
 -----------------------
