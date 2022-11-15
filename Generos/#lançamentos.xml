@@ -2,6 +2,22 @@
 standalone="yes"?>
 
 <items>
+
+<item> 
+<title>Sorria</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65726944c9f5adc33a7d4331d2930482779b1409</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
+<fanart>https://www.themoviedb.org/t/p/original/mVNPfpydornVe4H4UCIk7WevWjf.jpg</fanart>
+<genre>Terror, Mistério, Thriller</genre>
+<year>2022</year>
+<rate>7.0</rate>
+<aired>2022/09/23</aired>
+<duration>6900</duration>
+<info>"[I]Uma vez que você vê. É tarde demais[/I]"
+
+Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.</info>
+</item>
+-----------------------------------
   
 <item>  <title>Um Lugar Bem Longe Daqui</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d3e478ceb8f6700fcbaa68b6afdf79862fdaf02</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/jxLRIdPBbyukw8YR9CWw4KObkvf.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/7Y3LdmsZukXhmwxtO0UF95BFBTt.jpg</fanart>
@@ -107,21 +123,7 @@ Cinco mulheres de diferentes idades são confrontadas com a sua auto-imagem e as
 <info>Selena Gomez alcançou uma fama inimaginável após anos estando sob os holofotes. Porém, ao alcançar um novo patamar, uma reviravolta inesperada a joga na escuridão. Este documentário exclusivo e íntimo cobre seis anos de sua jornada rumo à uma nova luz.</info> </item>
 ----------------------------------------------------------------------------  
   
-<item> 
-<title>Sorria</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5da9b60b95049accd2a2a917a96fbd0a6138dc66</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/mVNPfpydornVe4H4UCIk7WevWjf.jpg</fanart>
-<genre>Terror, Mistério, Thriller</genre>
-<year>2022</year>
-<rate>7.0</rate>
-<aired>2022/09/23</aired>
-<duration>6900</duration>
-<info>"[I]Uma vez que você vê. É tarde demais[/I]"
-
-Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.</info>
-</item>
------------------------------------  
+  
   
 <item>  <title>Enola Holmes 2</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3db40468ecbee89bbfe10c416330ed4b7912aa03</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tegBpjM5ODoYoM1NjaiHVLEA0QM.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/w500_and_h282_face/3UJWmxfZB71Kynf26G8HjstOeJH.jpg</fanart>
