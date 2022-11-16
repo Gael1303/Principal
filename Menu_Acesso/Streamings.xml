@@ -4,7 +4,7 @@
 
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [B]Populares[/B]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR yellow][B]POPULARES[/B][/COLOR]</name>
 		<thumbnail>https://png.pngtree.com/png-vector/20190830/ourlarge/pngtree-stock-graph-without-bars-positive-green-going-up-png-image_1711783.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Em_Alta.xml</externallink>
 		<fanart>https://w7.pngwing.com/pngs/444/1017/png-transparent-bar-chart-graph-of-a-function-graph-going-up-text-logo-graph-of-a-function.png</fanart>
@@ -17,7 +17,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [B]Apple TV+[/B]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]APPLE TV+[/COLOR]</name>
 		<thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Apple_tv.xml</externallink>
 		<fanart>https://mixdeseries.com.br/wp-content/uploads/2019/03/Apple-TV-2-e1568730986332.jpg</fanart>
@@ -29,7 +29,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Crunchyroll[/B][/COLOR]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]CRUNCHYROLL[/COLOR]</name>
 		<thumbnail>http://store-images.s-microsoft.com/image/apps.44134.9007199266244356.8c8f8b98-231f-43f4-b251-7e5c4931b8a2.0a5801df-68bf-4fb5-888b-40f49a061c80</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Crunchyroll.xml</externallink>
 		<fanart>https://files.tecnoblog.net/wp-content/uploads/2019/06/crunchyroll.png</fanart>
@@ -41,7 +41,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [B]Disney+[/B]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DISNEY+[/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41Wi5MOPDbL.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Disney%2B.xml</externallink>
 		<fanart>https://www.oficinadanet.com.br/imagens/post/33643/capa-disneyplus.png</fanart>
@@ -53,7 +53,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Funimation[/B][/COLOR]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FUNIMATION[/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41VoTPYjdPL.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Funimation.xml</externallink>
 		<fanart>https://derf9v1xhwwx1.cloudfront.net/image/upload/q_60/cste/f54b14e8-5d9b-402a-8af3-68064a503f94.jpg</fanart>
@@ -65,7 +65,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Globoplay[/B][/COLOR]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]GLOBOPLAY[/COLOR]</name>
 		<thumbnail>https://play-lh.googleusercontent.com/FGkwAiCMsdzHLpWnhk_rG-LpcIoCNgJDMrMCKxf_LTaXiWEboFAyeMQCf9eDI4MzjOg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Globoplay.xml</externallink>
 		<fanart>https://www.minhaoperadora.com.br/wp-content/uploads/2020/12/como-contratar-o-globoplay-passo-a-passo.jpg</fanart>
@@ -77,7 +77,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Hbo Max[/B][/COLOR]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]GLOBOPLAY[/COLOR]</name>
 		<thumbnail>https://play-lh.googleusercontent.com/GmIOtlRHzTffK3WSyNrz4NNrWFh_yUuhQb9UHXztk0ZxeeFzAUD52b9YVTGh7nsdJ8c</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/HBO_max.xml</externallink>
 		<fanart>https://escotilha.com.br/wp-content/uploads/2021/07/minisseries-hbo-max-protagonistas-femininas.jpg</fanart>
@@ -89,7 +89,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Netflix[/B][/COLOR]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]NETFLIX[/COLOR]</name>
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Netflix.xml</externallink>
 		<fanart>https://www.tixtelecom.com.br/wp-content/uploads/2021/02/Netflix-ok.jpg</fanart>
@@ -101,7 +101,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [B]Outros Streamings[/B]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]OUTROS STREAMINGS[/COLOR]</name>
 		<thumbnail>https://hiseye.org/wp-content/uploads/2020/06/Streaming-service-collage--900x877.jpg</thumbnail>
 		<externallink>https://github.com/Gael1303/Principal/raw/main/Streamings/Outros-Streaming</externallink>
 		<fanart>https://cdn.vox-cdn.com/thumbor/HxzVMSnvwN5vXktshMjF7UvtARk=/0x0:2040x1360/1200x800/filters:focal(857x517:1183x843)/cdn.vox-cdn.com/uploads/chorus_image/image/66565795/acastro_190719_3527_plex_piracy_0002.0.jpg</fanart>
@@ -114,7 +114,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Paramount+[/B][/COLOR]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]PARAMOUNT+[/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/31T6d13zC6L.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Paramount%2B</externallink>
 		<fanart>https://t2.tudocdn.net/562644</fanart>
@@ -126,7 +126,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Prime Video[/B][/COLOR]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]PRIME VIDEO[/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41mpv9rBhmL.png</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Prime_Video.xml</externallink>
 		<fanart>https://vejasp.abril.com.br/wp-content/uploads/2022/05/amazon.jpeg</fanart>
@@ -138,7 +138,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]Star+[/B][/COLOR]</name>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]STAR+[/COLOR]</name>
 		<thumbnail>https://pbs.twimg.com/profile_images/1393234224124207106/g9IKiOQQ_400x400.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/star-plus</externallink>
 		<fanart>https://static-assets.bamgrid.com/product/starplus/images/share-default.d72cf588f6d06cba22171f5ae44289d3.png</fanart>
@@ -150,7 +150,7 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
-		<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR yellow][B]Todas as Séries[/B][/COLOR]  - [COLOR gray]935[/COLOR]</name>
+		<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR yellow][B]TODAS AS SERIES[/B][/COLOR]  - [COLOR gray]966[/COLOR]</name>
 		<thumbnail>https://www.ciadosdescontos.com/static/2016/01/melhores-series.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/todas_series.xml</externallink>
 		<fanart>https://universoreverso.com.br/wp-content/uploads/2017/12/OK_SERIES.jpg</fanart>
