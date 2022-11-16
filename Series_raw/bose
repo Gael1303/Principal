@@ -19,3 +19,8 @@
 <genre>Drama</genre>
 </item>
 ----------------------------------------
+<item>
+<title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome= - 1080p</link>
+</item>
+---------------------------------------------------------------------------------------
