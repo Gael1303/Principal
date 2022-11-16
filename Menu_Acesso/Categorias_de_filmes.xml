@@ -2,39 +2,44 @@
 standalone="yes"?>
 
 <channels>
-
-                                                    
+                                                   
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]AÇÃO[/B][/COLOR] - [COLOR gray]1.156[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]AÇÃO[/COLOR] - [COLOR yellow]1.156[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/A%C3%A7%C3%A3o.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.09.15
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 ------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]ANIMAÇÃO[/B][/COLOR] - [COLOR gray]532[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]ANIMAÇÃO[/COLOR] - [COLOR yellow]532[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/animacao.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>  
   </channel>
 
 -----------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]AVENTURA[/B][/COLOR] - [COLOR gray]45[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]AVENTURA[/COLOR] - [COLOR yellow]45[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Aventura.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
   </channel>
 
@@ -42,35 +47,41 @@ Data: 2022.08.26
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]BIOGRAFIA[/B][/COLOR] - [COLOR gray]39[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]BIOGRAFIA[/COLOR] - [COLOR yellow]39[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Biografia.xml</externallink>
 
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
-Data: 2022.08.26 
+Data: 2022.08.26
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
   </channel>
 
 ------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]COMÉDIA[/B][/COLOR] - [COLOR gray]500[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]COMÉDIA[/COLOR] - [COLOR yellow]500[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/comedia.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.09.17
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 --------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]DOCUMENTARIOS[/B][/COLOR] - [COLOR gray]171[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DOCUMENTARIOS[/COLOR] - [COLOR yellow]171[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Documentarios.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   Data: 2022.08.26 
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
   
 </channel>
@@ -78,120 +89,140 @@ Data: 2022.09.17
 ----------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]DRAMA[/B][/COLOR] - [COLOR gray]696[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DRAMA[/COLOR] - [COLOR yellow]696[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/drama.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.09.15
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 -----------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]FAROESTE[/B][/COLOR] - [COLOR gray]84[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FAROESTE[/COLOR] - [COLOR yellow]84[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Faroeste.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 ---------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]FICÇÃO C.[/B][/COLOR] - [COLOR gray]251[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FICÇÃO C.[/COLOR] - [COLOR yellow]251[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/fic%C3%A7ao</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.08.26 
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 ----------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]GUERRA[/B][/COLOR] - [COLOR gray]177[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]GUERRA[/COLOR] - [COLOR yellow]177[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/guerra.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.09.02 
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 -------------------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]LGBT[/B][/COLOR] - [COLOR gray]28[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]LGBT[/COLOR] - [COLOR yellow]28[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Lgbt.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
-Data: 2022.08.26 
+Data: 2022.08.26
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 -------------------------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]NACIONAL[/B][/COLOR] - [COLOR gray]307[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]NACIONAL[/COLOR] - [COLOR yellow]307[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/nacional.xml</externallink>
 <fanart>https://images8.alphacoders.com/714/thumb-1920-714662.png</fanart>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
-Data: 2022.08.26 
+Data: 2022.08.26
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 ----------------------------------------------------------------------------------------
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]RELIGIÃO[/B][/COLOR] - [COLOR gray]64[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]RELIGIÃO[/COLOR] - [COLOR yellow]64[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/religiosos.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
-Data: 2022.08.26 
+Data: 2022.08.26
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 -------------------------------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]ROMANCE[/B][/COLOR] - [COLOR gray]531[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]ROMANCE[/COLOR] - [COLOR yellow]531[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/romance.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
-Data: 2022.09.08 
+Data: 2022.09.08
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 -----------------------------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]SUSPENSE[/B][/COLOR] - [COLOR gray]252[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]SUSPENSE[/COLOR] - [COLOR yellow]252[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Suspense.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 Data: 2022.09.15
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 
 ------------------------------------------------------------------------------------------
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white][B]TERROR[/B][/COLOR] - [COLOR gray]652[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]TERROR[/COLOR] - [COLOR yellow]652[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/terror.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
-Data: 2022.08.26 
+Data: 2022.08.26
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
 </info>
 </channel>
 </channels>
