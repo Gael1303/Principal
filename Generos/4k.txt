@@ -1,3 +1,9 @@
+<item>  <title>Sorria - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66d360cc0632b60eb3b626dde1f94642c1fcb4b7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
+<genre>Terror, Mistério, Thriller</genre> <year>2022</year> <rate>7.0</rate> <aired>2022/09/23</aired> </item>
+----------------------------------
+
 <item>
 <title>X: A Marca da Morte - 4K - Leg</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07c79ffbe79804fa6669b9a7a36728c5e58aa3d6</link>
