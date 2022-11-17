@@ -1,6 +1,7 @@
 <item>
-<title>1899 - S01 Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2652d5aa9a0d9f66b0b31d21910e2d554205f7ba</link>
+<title>1899 - T01</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0bd823a7e9b8c27bb821142b987c261c146fd70e$nome=1899 T01 - DUB</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2652d5aa9a0d9f66b0b31d21910e2d554205f7ba$nome=1899 S01 - LEG</link>
 <thumbnail>https://dyncdn.me/static/20/tvdb/369569_banner_optimized.jpg</thumbnail>
 <genre>Mistério, Drama</genre>
 </item>
