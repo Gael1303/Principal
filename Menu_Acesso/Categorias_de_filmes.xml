@@ -62,6 +62,19 @@ Data: 2022.08.26
 ------------------------------------------------------------
 <channels>
 <channel>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]CLÁSSICOS[/COLOR] - [COLOR yellow]50[/COLOR]</name>
+<thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/classicos.xml</externallink>
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+  
+Data: 2022.11.17
+  
+[COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme  
+</info>
+</channel>
+--------------------------------------------------------------------------
+<channels>
+<channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]COMÉDIA[/COLOR] - [COLOR yellow]500[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/comedia.xml</externallink>
