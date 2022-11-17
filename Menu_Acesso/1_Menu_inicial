@@ -3,7 +3,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] [B]FILMES[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-55-48-439.jpg</thumbnail>
-<externallink>https://bit.ly/3AR7qNJ</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Filmes.xml</externallink>
 <fanart>https://bravi.tv/wp-content/uploads/2018/08/VOD_shutterstock.jpg</fanart>
 <info>[B]Um acervo muito bem organizado com diversas qualidades de filmes[/B]</info>
 </channel>
@@ -13,7 +13,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] [B]STREAMING[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-29-215.jpg</thumbnail>
-<externallink>https://bit.ly/3AwR1xB</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Streamings.xml</externallink>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2020/05/06113757/plataformas-de-streaming.jpg</fanart>
 <info>[B]Séries variadas e separadas por plataformas de streaming[/B]</info>
 </channel>
@@ -23,7 +23,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] [B]SÉRIES ANIMADAS[/B]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-46-998.jpg</thumbnail>
-<externallink>https://bit.ly/3Q7Jone</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Series_Animadas.xml</externallink>
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
 <info>[B]Séries animadas via TORRENT e LINK DIRETO[/B]</info>
 </channel>
@@ -33,7 +33,7 @@
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] [B]DORAMAS[/B]</name>
 <thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Picsart_22-09-06_12-05-33-420.jpg</thumbnail>
-<externallink>https://bit.ly/3RXhEDs</externallink>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Doramas</externallink>
 <fanart>https://</fanart>
 <info>[B]Doramas via TORRENT[/B]
 
