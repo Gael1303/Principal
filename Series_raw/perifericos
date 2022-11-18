@@ -26,7 +26,15 @@ PERIFERICOS
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8o3mgiKx9pKz9lyJvTXSmogBUwv.jpg</thumbnail>
 <genre>Sci-Fi & Fantasy, Drama</genre>
 </item>
+---------------------------------------- 
+<item>
+<title>Periféricos - T01 E06</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aa8e87b14a7a0e295f95555c17cba0a8946b8f9e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8o3mgiKx9pKz9lyJvTXSmogBUwv.jpg</thumbnail>
+<genre>Sci-Fi & Fantasy, Drama</genre>
+</item>
 ----------------------------------------
+
 <item>
 <title>[COLOR yellow]»EPISÓDIOS ADICIONADOS SEMANALMENTE OU CONFORME EXIBIÇÃO«[/COLOR]</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:$nome= - 1080p</link>
