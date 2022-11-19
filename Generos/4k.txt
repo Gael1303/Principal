@@ -1,3 +1,8 @@
+<item>  <title>Depois do Universo - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:793893a5f8169509ef50be4cf72bd69292ccb2af</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg</thumbnail>  
+<genre>Romance, Drama, Comédia</genre> / <year>2022</year> / <rate>5.4</rate> / <aired>2022/10/27</aired> </item>
+--------------------------------
 <item>  <title>Sorria - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:66d360cc0632b60eb3b626dde1f94642c1fcb4b7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
