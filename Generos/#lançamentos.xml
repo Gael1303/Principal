@@ -2,8 +2,18 @@
 standalone="yes"?>
 
 <items>
-
-<item>  <title>Terra dos Sonhos</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0af8aac908d1276bf18c8715ae86b1c9cf3aae2c</link>
+  
+<item>  <title>A Grande Aventura de Blue na Cidade</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:111de30deea9201fbb944e23f772a6121dafb34b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/zXevaiDGrjtFMtUiiUuEVIxnqFs.jpg</fanart>
+<genre>Família, Aventura, Música, Animação</genre> / <year>2022</year> / <rate>6.7</rate> / <aired>2022/11/18</aired> / <duration>4440</duration> <studio>PARAMOUNT+</studio>
+<info>Quando Josh tem a oportunidade de uma vida inteira para fazer um teste para o musical da Broadway de Rainbow Puppy, Josh e Blue skidoo para Nova York pela primeira vez, onde conhecem novos amigos e descobrem a magia da música, dança e seguir os sonhos.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Save the Cinema</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:35894a1cf75367ff302c7d52ba116699308b5caf</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4sD0rI1qhVR6mcdz1agjWyCBZjr.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/j9QsqWuRhe7OR2V0CRdQ0zikzui.jpg</fanart>
+<genre>Drama</genre> / <year>2022</year> / <rate>6.6</rate> / <aired>2022/01/14</aired> / <duration>6540</duration>
+<info>A história real de Liz Evans, uma cabeleireira e líder de um teatro juvenil em Carmarthen, País de Gales, que começou uma campanha em 1993 para salvar o teatro Lyric do fechamento. Ao lado do então prefeito de Carmarthen, Richard Goodridge, eles contaram com a ajuda de Steven Spielberg, garantindo uma estreia especial de Jurassic Park.</info> </item>
+----------------------------------------------------------------------------
+  <item>  <title>Terra dos Sonhos</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0af8aac908d1276bf18c8715ae86b1c9cf3aae2c</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/xOZt4hAYbBxesIuzFvkJ4sJaym1.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/AoX68xaVfrX1XkzdeTlke2FnE5E.jpg</fanart>
 <genre>Aventura, Fantasia, Família</genre> / <year>2022</year> / <rate>7.5</rate> / <aired>2022/11/18</aired> / <duration>7020</duration> <studio>NETLFIX</studio>
 <info>Uma destemida jovem órfã embarca em uma jornada pela terra dos sonhos para encontrar uma pérola mágica e realizar seu maior desejo.</info> </item>
