@@ -29,6 +29,18 @@
 -----------------------------------------------------------------------------------------------------------------------------
 <channels>
 	<channel>
+		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]BRASIL PARALELO[/COLOR]</name>
+		<thumbnail>https://veja.abril.com.br/wp-content/uploads/2022/09/51750639788_fd0269c5ab_o.png</thumbnail>
+		<externallink>https://</externallink>
+		<fanart>https://assets-global.website-files.com/60ff690cd7b0537edb99a29a/6349b8844537ef3f0b3aa4bc_filmes%20brasil%20paralelo.jpg</fanart>
+		<info>
+[B]DOCUMENTARIOS DISPONIVEIS BRASIL PARELELO[/B]
+</info>
+	</channel>
+</channels>
+-----------------------------------------------------------------------------------------------------------------------------
+<channels>
+	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]CRUNCHYROLL[/COLOR]</name>
 		<thumbnail>http://store-images.s-microsoft.com/image/apps.44134.9007199266244356.8c8f8b98-231f-43f4-b251-7e5c4931b8a2.0a5801df-68bf-4fb5-888b-40f49a061c80</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Crunchyroll.xml</externallink>
