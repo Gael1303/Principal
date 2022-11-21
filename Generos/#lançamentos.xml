@@ -2,6 +2,15 @@
 standalone="yes"?>
 
 <items>
+
+<item>  <title>Adão Negro</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5de46a6b5453fa680137d8b1d08622e20298e006</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg</fanart>
+<genre>Ação, Ficção</genre> / <year>2022</year> / <rate>7.3</rate> / <aired>2022/10/20</aired> / <duration>7500</duration>
+<info>"[I]O mundo precisava de um herói. Agora ele tem Adão Negro.[/I]"
+
+Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.</info> </item>
+----------------------------------------
   
 <item>  <title>A Grande Aventura de Blue na Cidade</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:111de30deea9201fbb944e23f772a6121dafb34b</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gFyB6XHUrvd3FvgN7NQbS0gjYv7.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/zXevaiDGrjtFMtUiiUuEVIxnqFs.jpg</fanart>
@@ -84,16 +93,6 @@ standalone="yes"?>
 <genre>Animação, Aventura, Família, Fantasia, Comédia</genre> / <year>2022</year> / <rate>7.6</rate> / <aired>2022/11/04</aired> / <duration>6240</duration>
 <info>Um garotinho com dificuldades em se ajustar a uma nova cidade decide fugir — e seu destino é uma ilha distante, onde está um jovem dragão à espera de um resgate. Durante essas aventuras, o menino descobre animais ferozes, uma ilha misteriosa e uma amizade inesquecível.</info> </item>
 ----------------------------------------------------------------------------  
-
-<item>  <title>Adão Negro - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9f0b0f990b70779764f5bbc9f7ad4a26a5ed61c5</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg</fanart>
-<genre>Ação, Ficção</genre> / <year>2022</year> / <rate>7.3</rate> / <aired>2022/10/20</aired> / <duration>7500</duration>
-<info>"[I]O mundo precisava de um herói. Agora ele tem Adão Negro.[/I]"
-
-Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.</info> </item>
-----------------------------------------
-
 <item> 
 <title>Sorria</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65726944c9f5adc33a7d4331d2930482779b1409</link>
