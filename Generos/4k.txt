@@ -1,5 +1,5 @@
-<item>  <title>Adão Negro - 4K - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:490982ea3592eb1e8fb7a2381cf46f0cefebf08e</link>
+<item>  <title>Adão Negro - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd69a0105f84648d14cbc3c9cc7fb793848b065d</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  
 <genre>Ação, Ficção</genre> / <year>2022</year> / <rate>7.3</rate> / <aired>2022/10/20</aired> </item>
 ----------------------------------------
