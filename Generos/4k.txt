@@ -1,3 +1,10 @@
+<item> 
+<title>A Mulher Rei - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50e7890c1f1d68c80115d14acef81703d214e467</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail> 
+<genre>Ação, Drama, História</genre> <year>2022</year> <rate>6.1</rate> <aired>2022/09/15</aired> </item>
+-----------------------------------
+
 <item>  <title>Adão Negro - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd69a0105f84648d14cbc3c9cc7fb793848b065d</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  
