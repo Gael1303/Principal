@@ -3,6 +3,17 @@ standalone="yes"?>
 
 <items>
 
+
+<item> 
+<title>A Mulher Rei</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e34b31c779596e2148b2d26bec59c93b5cbe1eb1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/mSuXg6tn3kqUjBiTlSBcL5XOwen.jpg</fanart>
+<genre>Ação, Drama, História</genre> <year>2022</year> <rate>6.1</rate> <aired>2022/09/15</aired> <duration>8100</duration>
+<info>"[I]Seu reinado começa.[/I]"
+
+Nanisca era a comandante do exército do Reino de Daomé, um dos locais mais poderosos da África nos séculos XVII e XIX. Durante o período, o grupo militar era composto apenas por mulheres, entre as guerreiras está a filha de Nanisca, Nawi, juntas elas combateram os colonizadores franceses, tribos rivais e todos aqueles que tentaram escravizar seu povo e destruir suas terras.</info>
+</item>
+-----------------------------------
 <item>  <title>Adão Negro</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:85154e0eb8e6f29f67b39c00c04f6223e5f34c0d</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg</fanart>
@@ -272,16 +283,7 @@ Cinco mulheres de diferentes idades são confrontadas com a sua auto-imagem e as
 <info>Clayton está desesperado por um papel como demonologista. Ele entra em contato com Eliza, uma especialista em conhecimentos demoníacos para ajudá-lo a se preparar e passa o fim de semana em sua casa. Eliza força Clayton a enfrentar seu passado perturbador, realizar rituais sombrios e sacrificar animais.</info> </item>
 ----------------------------------------------------------------------------   
 
-<item> 
-<title>A Mulher Rei - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:58e6d108bf2812f6ae1909974cab3bded7d5da9f</link>
-<thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/mSuXg6tn3kqUjBiTlSBcL5XOwen.jpg</fanart>
-<genre>Ação, Drama, História</genre> <year>2022</year> <rate>6.1</rate> <aired>2022/09/15</aired> <duration>8100</duration>
-<info>"[I]Seu reinado começa.[/I]"
 
-Nanisca era a comandante do exército do Reino de Daomé, um dos locais mais poderosos da África nos séculos XVII e XIX. Durante o período, o grupo militar era composto apenas por mulheres, entre as guerreiras está a filha de Nanisca, Nawi, juntas elas combateram os colonizadores franceses, tribos rivais e todos aqueles que tentaram escravizar seu povo e destruir suas terras.</info>
-</item>
------------------------------------
    
 <item>  <title>No Lugar Errado</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a78c597c9a793b3e11697ce5601a3d06c13b744d</link>
