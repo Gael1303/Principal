@@ -1,16 +1,14 @@
-<item> 
-<title>A Mulher Rei - 4K</title>
+
+<item>  <title>Adão Negro - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e5af3191a58388ed33d1060caaf6c93638734a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  
+<genre>Ação, Ficção</genre> / <year>2022</year> / <rate>7.3</rate> / <aired>2022/10/20</aired> </item>
+----------------------------------------
+<item> <title>A Mulher Rei - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:50e7890c1f1d68c80115d14acef81703d214e467</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/ml7Ypdeev7s1MK38dQN0OXoZ8p9.jpg</thumbnail> 
 <genre>Ação, Drama, História</genre> <year>2022</year> <rate>6.1</rate> <aired>2022/09/15</aired> </item>
 -----------------------------------
-
-<item>  <title>Adão Negro - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:dd69a0105f84648d14cbc3c9cc7fb793848b065d</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  
-<genre>Ação, Ficção</genre> / <year>2022</year> / <rate>7.3</rate> / <aired>2022/10/20</aired> </item>
-----------------------------------------
-
 <item>  <title>Depois do Universo - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:793893a5f8169509ef50be4cf72bd69292ccb2af</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jv8PbopI3r3p0HrQJbLYcOzFHle.jpg</thumbnail>  
