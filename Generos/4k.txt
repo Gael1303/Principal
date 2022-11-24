@@ -1,4 +1,8 @@
-
+<item>  <title>Halloween Ends - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6feaa65169f6c4846a4a1b5fd075fe44a04b85e7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/5G9tPJu3xDCQj0Gv9w2R1EScIix.jpg</thumbnail>
+<genre>Horror , Thriller</genre> / <year>2022</year> / <aired>2022/10/14</aired> </item>
+----------------------------------------------------------------------------
 <item>  <title>Adão Negro - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f7e5af3191a58388ed33d1060caaf6c93638734a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  
@@ -58,11 +62,6 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:3d086f5db264335a149df6eb57cc1b691ecbda08</link>
 <thumbnail>https://dyncdn.me/mimages/370937/poster_opt.jpg</thumbnail>
 <genre>Horror</genre> / <year>2022</year> / <aired>2022/10/25</aired> </item>
-----------------------------------------------------------------------------
-<item>  <title>Halloween Ends - 4K - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9039ef696e0fa9f9d3b64d7631c1a541e8f0af1d</link>
-<thumbnail>https://dyncdn.me/mimages/373100/poster_opt.jpg</thumbnail>
-<genre>Horror , Thriller</genre> / <year>2022</year> / <aired>2022/10/14</aired> </item>
 ----------------------------------------------------------------------------
 <item> <title>Não! Não Olhe! - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c35b94eaf3fd82ea375b11639d31ef66291e4377</link>
