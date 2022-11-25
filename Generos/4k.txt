@@ -1,3 +1,8 @@
+<item>  <title>Guardiões da Galáxia: Especial de Festas - 4K</title>  
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c44bb18e715a96792796223e243771244d92ac70&dn=Guardioes%20da%20Galaxia.Especial%20de%20Festas%202022%202160p%20WEB-DL%204K%20DUAL%205.1-www.animestotais.xyz&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg</thumbnail> 
+<genre>Ação, Ficção científica, Comédia, Aventura</genre> / <year>2022</year> / <rate></rate> / <aired>2022/11/25</aired> </item>
+------------------------------------------------------------------------------------------
 <item>  <title>Halloween Ends - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6feaa65169f6c4846a4a1b5fd075fe44a04b85e7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w440_and_h660_face/5G9tPJu3xDCQj0Gv9w2R1EScIix.jpg</thumbnail>
