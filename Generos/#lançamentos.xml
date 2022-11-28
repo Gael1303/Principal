@@ -2,8 +2,18 @@
 standalone="yes"?>
 
 <items>
-
- <item>  <title>Emily the Criminal</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60f4c52a6dfa64f734ff4e7a7ef1f5c8f161d0df</link>
+ 
+<item>  <title>Procura-se</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32ed33de2a52ce5c61a51fc4e606f4fa4a6f8446</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/5S10EC500Gy0jSP2RJsiVNLamrP.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/zZHuXyrA8W4YgJ2wIqjjZBmell4.jpg</fanart>
+<genre>Comédia</genre> / <year>2022</year> / <rate></rate> / <aired>2022/11/25</aired> / <duration>5880</duration>
+<info>Alicia é uma jovem rica que ama festejar, viajar e é apaixonada por seu avô. A protagonista foge de responsabilidades e tenta aproveitar ao máximo os benefícios de ser herdeira de um imenso patrimônio. Quando seu avô morre, ela descobre que foi excluída do testamento e só poderá colocar as mãos na empresa e dinheiro da família quando tiver maturidade suficiente e estiver casada.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Caixa de Memórias</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:181f71b183d9dfa13b6b21c9260e4d94e339b89d</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/1q7SNPmr3EsX4wODFQDfRYR0NUf.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/yIHGH3ZolIh2Bp1Lznt0qJhqvya.jpg</fanart>
+<genre>Drama</genre> / <year>2022</year> / <rate></rate> / <aired>2022/01/19</aired> / <duration>6120</duration>
+<info>Berlinale 2021. A vida de Alex, filha e neta de emigrantes do Líbano, sofre uma reviravolta quando uma caixa de memórias misteriosas chega à porta de sua casa no Canadá, abrindo a porta para uma época desconhecida do passado de sua mãe.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Emily the Criminal</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:60f4c52a6dfa64f734ff4e7a7ef1f5c8f161d0df</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/iZvzMpREGiqDQ5eYbx8z70qPgst.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/batEBEOpj7l2AeVxdfTSh5cDM5I.jpg</fanart>
 <genre>Crime, Drama, Mistério, Thriller</genre> / <year>2022</year> / <rate>6.7</rate> / <aired>2022/08/12</aired> / <duration>5820</duration>
 <info>Sem sorte e sobrecarregada de dívidas, Emily se envolve em um golpe de cartão de crédito que a leva para o submundo do crime de Los Angeles, levando a consequências mortais.</info> </item>
