@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <layouttype>
-
+ 
+<item>  <title>Exército do Amanhã</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:T267GTZ2JHRPDLE34WRONATKOUJCXFU2&dn=Ex%C3%A9rcito%20do%20Amanh%C3%A3%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/72f0kFmOutPhSaZkXs0oGDmfvRd.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/1qf0ooelmWyQ3IfiqnrFo6fMKpg.jpg</fanart>
+<genre>Ficção científica, Ação</genre> / <year>2022</year> / <rate>6.4</rate> / <aired>2022/08/05</aired> / <duration>6060</duration>
+<info>Em um mundo pós-apocalíptico, a China presencia a queda de um meteorito infectado com uma planta mortal, então um grupo de homens da cidade atingida forma um esquadrão suicida para salvar a região de um colapso. No entanto, a situação se trata de uma ameaça alienígena vinda de criaturas poderosas que podem acabar com a humanidade, obrigando o soldado sobrevivente Tai Loi (Louis Koo) enfrentar seus piores medos.</info> </item>
+----------------------------------------------------------------------------
 <item>
 <title>Alien Vs. Predador</title>
 -----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1740dfbdd80e0ee6d6e644f8104b1a0c26e7fe78</link>
