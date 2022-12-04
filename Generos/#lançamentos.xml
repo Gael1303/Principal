@@ -3,13 +3,22 @@ standalone="yes"?>
 
 <items>
  
-<item>  <title>Tempestade Infinita</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW&dn=Tempestade%20Infinita%202022%20BluRay%201080p%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<item>  <title>Confess, Fletch</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e00d5dfa2214aa45a8a6872c42eccf03dc64866a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/66dDPP1nX7DbrResrMa5VJs4jeZ.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/bLnKfdudFATpmmmr2d2G3fS7gq4.jpg</fanart>
+<genre>Crime, Comédia, Mistério</genre> / <year>2022</year> / <rate></rate> / <aired>2022/09/16</aired> / <duration>5880</duration>
+<info>O repórter investigativo I.M. Fletch envolve-se numa teia de assassinatos conectada ao mundo das obras de arte. Quando ele mesmo é considerado um dos suspeitos, precisa buscar respostas para provar a sua inocência. Baseado na série de livros de Gregory McDonald, é um reboot do personagem interpretado por Chevy Chase nos anos 1980.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>O Diário de um Banana: As Regras do Rodrick</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8cc1d8bbeb2c556cdda6461ff88513d2560c325</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4Mwa7LdBSena8MSYWzazpEMnRWq.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/xEUz44bmr8EOPFQrVZ5ebxgN8Eq.jpg</fanart>
+<genre>Animação, Comédia, Família</genre> / <year>2022</year> / <rate></rate> / <aired>2022/12/02</aired> / <duration>4440</duration>
+<info>As travessuras desenfreadas do estudante do ensino médio Greg Heffley, angustiado e propenso a desastres, continuam, concentrando-se desta vez em seu relacionamento complicado com o irmão mais velho, Rodrick. Agora, Greg assume um de seus maiores desafios - sobreviver um fim de semana sozinho com Rodrick e cumprir sua crescente lista de regras</info> </item>
+----------------------------------------------------------------------------
+ <item>  <title>Tempestade Infinita</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:QFRFFQE5WZO5Z3ASLF6SKWJ2TA32KRZW&dn=Tempestade%20Infinita%202022%20BluRay%201080p%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jYN6Ezx8jm8BI6g2PANVvmUST3p.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/9Nli3SqSlikvAAxpGkOUfSVB2G6.jpg</fanart>
 <genre>Drama, Thriller</genre> / <year>2022</year> / <rate></rate> / <aired>2022/03/23</aired> / <duration>5820</duration>
 <info>Ao subir o Monte Washington em Nova Hampshire, uma experiente alpinista decide voltar antes de chegar ao cume enquanto uma nevasca se aproxima. Mas ao descer, ela encontra um homem sozinho e desamparado, e se encarrega de tirar os dois da montanha antes que anoiteça e eles sucumbam à tempestade. Baseado em uma história real.</info> </item>
 ----------------------------------------------------------------------------
- 
-<item>  <title>Era Uma Vez um Gênio</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CSIPWMIFJYZVSESSJ6B5CRJUG4EL2OVD&dn=Era%20Uma%20Vez%20um%20G%C3%AAnio%202022%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+ <item>  <title>Era Uma Vez um Gênio</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:CSIPWMIFJYZVSESSJ6B5CRJUG4EL2OVD&dn=Era%20Uma%20Vez%20um%20G%C3%AAnio%202022%20BluRay%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/w1zL4hVb4Ngg02VVxllBDT048Nn.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/1eUqrEy4aeJeNg9gX1trTzzfleR.jpg</fanart>
 <genre>Drama, Romance</genre> / <year>2022</year> / <rate>7.0</rate> / <aired>2022/08/24</aired> / <duration>6480</duration>
 <info>Uma estudiosa solitária viaja para Istambul e descobre um Djinn que lhe oferece três desejos em troca de sua liberdade.</info> </item>
