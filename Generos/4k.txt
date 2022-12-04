@@ -1,3 +1,8 @@
+<item> <title>O Território - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ca7cc2b46680a8ee470522d0eef1f5bf9354b6a&dn=The.Territory.2022.2160p.DSNP.WEB-DL.DDPA5.1.HDR.DV.HEVC-APEX&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2850&tr=udp%3a%2f%2f9.rarbg.to%3a2760&tr=udp%3a%2f%2ftracker.thinelephant.org%3a12720&tr=udp%3a%2f%2ftracker.slowcheetah.org%3a14760</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oSpcwqg93u1D55P4wsQSh1hdjdh.jpg</thumbnail>
+<genre>Documentário</genre> <aired>2022/08/09</aired></item>
+---------------------------------------------------------------------------------------
 <item>  <title>Guardiões da Galáxia: Especial de Festas - 4K</title>  
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c44bb18e715a96792796223e243771244d92ac70&dn=Guardioes%20da%20Galaxia.Especial%20de%20Festas%202022%202160p%20WEB-DL%204K%20DUAL%205.1-www.animestotais.xyz&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/c5v6VCc7bdxWDkKc5ilYsxhOeUp.jpg</thumbnail> 
