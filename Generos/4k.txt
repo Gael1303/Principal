@@ -1,5 +1,26 @@
-<item> <title>O Território - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ca7cc2b46680a8ee470522d0eef1f5bf9354b6a&dn=The.Territory.2022.2160p.DSNP.WEB-DL.DDPA5.1.HDR.DV.HEVC-APEX&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2850&tr=udp%3a%2f%2f9.rarbg.to%3a2760&tr=udp%3a%2f%2ftracker.thinelephant.org%3a12720&tr=udp%3a%2f%2ftracker.slowcheetah.org%3a14760</link>
+<item>
+<title>Avatar - 4K Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19915db23af6b02bd81013abb8648cf1215f563f</link>
+<thumbnail>https://numsabo.files.wordpress.com/2010/02/avatar-filme-zonlusomundo.jpg</thumbnail>
+<genre>Ficção Cientifica, Aventura</genre> <aired>2009/12/18</aired>
+</item> 
+
+<item>  <title>A Chegada - 4K</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b5743e1a8cec34a92a45fcccdfafa6ab26874b8</link>
+<thumbnail>https://m.media-amazon.com/images/I/91XCwnt8Z0L._AC_SL1500_.jpg</thumbnail>
+<genre>Ficção científica / Thriller</genre> / <year>2016</year> / <aired>2016/11/24</aired> </item>
+----------------------------------------------------------------------------
+<item>  <title>Fragmentado - 4K Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a9177205f2e2490c7e66a1334570265f71f1ab0</link>
+<thumbnail>https://imagizer.imageshack.com/v2/640x480q90/924/OrMW0z.jpg</thumbnail>
+<genre>Thriller / Terror</genre> / <year>2016</year> / <aired>2016/03/17</aired> </item>
+----------------------------------------------------------------------------
+<item>  <title>Blade Runner 2049 - 4K Leg</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ead83768c87118cff3a9340c62a6246fbbf7edd</link>
+<thumbnail>https://i.imgur.com/07nyxiK.png</thumbnail>
+<genre>Ficção científica / Ação</genre> / <year>2017</year> / <aired>2017/10/05</aired> </item>
+----------------------------------------------------------------------------
+<item> <title>O Território - 4K</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8ca7cc2b46680a8ee470522d0eef1f5bf9354b6a&dn=The.Territory.2022.2160p.DSNP.WEB-DL.DDPA5.1.HDR.DV.HEVC-APEX&tr=http%3a%2f%2ftracker.trackerfix.com%3a80%2fannounce&tr=udp%3a%2f%2f9.rarbg.me%3a2850&tr=udp%3a%2f%2f9.rarbg.to%3a2760&tr=udp%3a%2f%2ftracker.thinelephant.org%3a12720&tr=udp%3a%2f%2ftracker.slowcheetah.org%3a14760</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/oSpcwqg93u1D55P4wsQSh1hdjdh.jpg</thumbnail>
 <genre>Documentário</genre> <aired>2022/08/09</aired></item>
 ---------------------------------------------------------------------------------------
@@ -732,19 +753,6 @@ Ação | Aventura
 <aired>2022/06/03</aired>
 <genre>Mistério, Thriller, Terror</genre>
 </item>
-
-
-<item>
-<title>Avatar - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:9d306dfe7661cd617131cb0dfd6e631f290f821d</link>
-<thumbnail>https://numsabo.files.wordpress.com/2010/02/avatar-filme-zonlusomundo.jpg</thumbnail>
-<genre>Ficção Cientifica, Aventura</genre>
-<info>
-</info>
-</item> 
-
-
-
 
 <item>
 <title>Cópias: De Volta à Vida - 4K</title>
