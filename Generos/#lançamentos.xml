@@ -2,7 +2,12 @@
 standalone="yes"?>
 
 <items>
-
+ 
+<item>  <title>Hellraiser</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:RE7GELGTY7NOSLURZX7CCYHS6I53YLIV&dn=Hellraiser%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/8JbQec3ZYvC0lnxBtn6bnY9lHwi.jpg</fanart>
+<genre>Terror, Mistério</genre> / <year>2022</year> / <rate>6.1</rate> / <aired>2022/09/28</aired> / <duration>7260</duration>
+<info>Em “Hellraiser”, uma jovem lutando contra o vício se apossa de uma antiga caixa de quebra-cabeça, sem saber que seu objetivo é convocar os Cenobites, um grupo de seres sobrenaturais sádicos de outra dimensão.</info> </item>
+----------------------------------------------------------------------------   
 <item>  <title>Abaixo o Rei</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:AYXO4J2J2KQ73UBXJJGTSOXZVL4CPQE3&dn=Abaixo%20o%20Rei%202022%20WEB-DL%201080p%20DUAL%202.0&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/j96pQXRWtfaP6EfGZw600f8Ofxm.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/nxwL3mgFcZSbzKPe1BVQHs81B3G.jpg</fanart>
 <genre>Drama, Música</genre> / <year>2022</year> / <rate>5.7</rate> / <aired>2022/06/28</aired> / <duration>6000</duration>
@@ -706,12 +711,6 @@ Um grupo de amigos ricos se reúne para fazer uma grande festa em uma mansão re
 <genre>Thriller, Ação, Comédia</genre> / <year>2022</year> / <rate>4.9</rate> / <aired>2022/09/01</aired> / <duration>5640</duration>
 <info>Segue o hacker Connor, seu melhor amigo Avi e um astuto bibliotecário que se vêem perdidos ao serem forçados a competir em um sofisticado jogo de recrutamento global de uma sociedade secreta de dark web.</info> </item>
 ----------------------------------------------------------------------------
-<item>  <title>Hellraiser - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb1016c10c8fd83d216084cab694e3401b2c7401</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/8JbQec3ZYvC0lnxBtn6bnY9lHwi.jpg</fanart>
-<genre>Terror, Mistério</genre> / <year>2022</year> / <rate>6.1</rate> / <aired>2022/09/28</aired> / <duration>7260</duration>
-<info>Em “Hellraiser”, uma jovem lutando contra o vício se apossa de uma antiga caixa de quebra-cabeça, sem saber que seu objetivo é convocar os Cenobites, um grupo de seres sobrenaturais sádicos de outra dimensão.</info> </item>
-----------------------------------------------------------------------------   
 <item>  <title>Não! Não Olhe!</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIDKFUVRT2VOQOBBB3YIGNQU23S3JUFT&dn=N%C3%A3o%20N%C3%A3o%20Olhe%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg</fanart>
