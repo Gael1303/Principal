@@ -169,7 +169,7 @@ Gael
 	</channel>
 </channels>
 -----------------------------------------------------------------------------------------------------------------------------
-
+<channels>
 <channel>
 <name>[COLOR yellow]»PARA EVITAR TRAVAMENTOS OU PERDA DE SEED'S, ALTEREM SEU DNS«[/COLOR]</name>
 <thumbnail>https://st.depositphotos.com/2332949/4799/i/600/depositphotos_47994911-stock-photo-exclamation-mark-symbol-attention-sign.jpg</thumbnail>
@@ -180,3 +180,4 @@ Gael
 Ate.te
 GAEL</info>
 </channel>
+</channels>
