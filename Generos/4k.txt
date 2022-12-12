@@ -1,3 +1,7 @@
+<item>  <title>Emancipation: Uma História de Liberdade - 4K - Leg</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb4fd403367260b1d6aec63c95a152b71a96e88a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/jYFoJyZpuqRC2MrPiLY0pHDTxAZ.jpg</fanart>
+<genre>Ação, Thriller, História, Drama</genre> / <year>2022</year> / <rate>7.2</rate> / <aired>2022/12/02</aired> </item>
+----------------------------------------------------------------------------
 <item>  <title>Hellraiser - 4K</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eeb25be2c21adef1103f29046a58da3d20fc612e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/8JbQec3ZYvC0lnxBtn6bnY9lHwi.jpg</fanart>
 <genre>Terror, Mistério</genre> / <year>2022</year> / <rate>6.1</rate> / <aired>2022/09/28</aired></item>
@@ -9,11 +13,6 @@
 <genre>Ficção Cientifica, Aventura</genre> <aired>2009/12/18</aired>
 </item> 
 
-<item>  <title>A Chegada - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2b5743e1a8cec34a92a45fcccdfafa6ab26874b8</link>
-<thumbnail>https://m.media-amazon.com/images/I/91XCwnt8Z0L._AC_SL1500_.jpg</thumbnail>
-<genre>Ficção científica / Thriller</genre> / <year>2016</year> / <aired>2016/11/24</aired> </item>
-----------------------------------------------------------------------------
 <item>  <title>Fragmentado - 4K - Leg</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a9177205f2e2490c7e66a1334570265f71f1ab0</link>
 <thumbnail>https://imagizer.imageshack.com/v2/640x480q90/924/OrMW0z.jpg</thumbnail>
