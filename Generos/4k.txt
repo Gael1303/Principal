@@ -6,13 +6,6 @@
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f9ZAIUxTTk23vo1BC9Ur1Rx5c2E.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/8JbQec3ZYvC0lnxBtn6bnY9lHwi.jpg</fanart>
 <genre>Terror, Mistério</genre> / <year>2022</year> / <rate>6.1</rate> / <aired>2022/09/28</aired></item>
 -----------------------------------------
-<item>
-<title>Avatar - 4K - Leg</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:19915db23af6b02bd81013abb8648cf1215f563f</link>
-<thumbnail>https://numsabo.files.wordpress.com/2010/02/avatar-filme-zonlusomundo.jpg</thumbnail>
-<genre>Ficção Cientifica, Aventura</genre> <aired>2009/12/18</aired>
-</item> 
-
 <item>  <title>Fragmentado - 4K - Leg</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a9177205f2e2490c7e66a1334570265f71f1ab0</link>
 <thumbnail>https://imagizer.imageshack.com/v2/640x480q90/924/OrMW0z.jpg</thumbnail>
