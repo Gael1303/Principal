@@ -140,3 +140,15 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7fbac1b6f63097426af3a0c89fcc034d1f1d626e</link>
 <thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
 </item>
+
+<item>
+<title>Rick and Morty - T06 E09</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b30a6b0347b9014f3756fecd21abb6005e87359b</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
+</item>
+
+<item>
+<title>Rick and Morty - T06 E10</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:823227cec61925f6c78129c97b6181108166bfb6</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/wwNZjZuBZy2oF5ovPiwAzNOmO3l.jpg</thumbnail>
+</item>
