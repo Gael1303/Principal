@@ -1,7 +1,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR green][B]FIL[/COLOR][COLOR yellow]MES[/COLOR][/B]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] FILMES</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-55-48-439.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Filmes.xml</externallink>
 <fanart>https://bravi.tv/wp-content/uploads/2018/08/VOD_shutterstock.jpg</fanart>
@@ -11,7 +11,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR green][B]STREA[/COLOR][COLOR yellow]MINGS[/COLOR][/B] </name>
+<name>[COLOR blue][B]≡[/B][/COLOR] STREAMINGS</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-29-215.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Streamings.xml</externallink>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2020/05/06113757/plataformas-de-streaming.jpg</fanart>
@@ -21,7 +21,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR green][B]SÉRIES[/COLOR] [COLOR yellow]ANIMADAS[/COLOR][/B] </name>
+<name>[COLOR blue][B]≡[/B][/COLOR] SÉRIES ANIMADAS </name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-46-998.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Series_Animadas.xml</externallink>
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
@@ -31,7 +31,7 @@
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR green][B]DORA[/COLOR][COLOR yellow]MAS[/COLOR][/B] </name>
+<name>[COLOR blue][B]≡[/B][/COLOR] DORAMAS</name>
 <thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Picsart_22-09-06_12-05-33-420.jpg</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Doramas</fanart>
@@ -67,7 +67,7 @@ Aba com os doramas mais populares</info>
 
 <channels>
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR pink][B]DOAÇOES[/B][/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR yellow][B]DOAÇOES[/B][/COLOR]</name>
 <thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Screenshots_2022-09-06-12-08-28.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://</fanart>
@@ -83,9 +83,4 @@ Atenciosamente
 Gael</info>
 </channel>
 </channels>
-
-
-
-
-
 
