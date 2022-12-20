@@ -3,6 +3,17 @@ standalone="yes"?>
 
 <items>
  
+<item>  <title>Bromates</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:12e26d698caf14d1d571c098911cba9fae4ab4e5</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hAaJ1XFp5FELxwJ98IWI598zaMy.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/umURGLeZ48xdf1jxzY9rnVa8fDx.jpg</fanart>
+<genre>Comédia</genre> / <year>2022</year> / <rate></rate> / <aired>2022/10/07</aired> / <duration>5820</duration>
+<info>Os melhores amigos de longa data Sid e Jonesie são abandonados por suas respectivas namoradas. Ambos sem uma situação de vida, eles decidem se tornar "bromates", bros que são companheiros de quarto, o que coloca seu relacionamento à prova final.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Código do Armagedom</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4d78dc7ba88b95fe9a031cac5f9e990e9fbbce45</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mtE3VJ0MjmfUrBgI4vbEERkwFMi.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/9VGoHzj08HUNBeW7z8ZyKknDGpv.jpg</fanart>
+<genre>Ação, Aventura</genre> / <year>2022</year> / <rate></rate> / <aired>2022/11/14</aired> / <duration>6120</duration>
+<info>Uma viagem ao exterior muda a história de três irmãos, que se deparam com um antigo tesouro do avô que os levará à maior aventura de suas vidas na descoberta da existência de uma antiga ordem mundial que pretende interferir nos acontecimentos do fim dos tempos.</info> </item>
+---------------------------------------------------------------------------- 
+ 
 <item> 
 <title>A Queda</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8d4fd38127758ab0ba795647e2895c7cd3d4e752</link>
