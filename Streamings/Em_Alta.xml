@@ -1,3 +1,19 @@
+<channels> <channel>
+<name>Jack Ryan</name>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z8yXhmNmc54TsMK2Ig4V4SHdkOX.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/6ovk8nrrSmN1ieT14zBAxcHbMU7.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20jack%20ryan</externallink>
+<info>Quando o analista da CIA Jack Ryan esbarra em uma série de transferências bancárias suspeitas, sua busca por respostas o afasta da segurança de sua mesa de trabalho e o joga em um jogo mortal de gato e rato pela Europa e pelo Oriente Médio, com um terrorista em ascensão preparando um grande ataque contra os EUA e seus aliados.</info>
+<aired>2018/08/31</aired> <studio>AMAZON</studio>
+</channel></channels>
+
+<channels><channel>
+<name>Emily Em Paris</name>
+---<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Series_raw/serie%20emily%20em%20paris</externallink>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/2QeSY4fkl3tKRAg3HEiTHxSJg8j.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/xkKIruOg4NoADdPjJJrvfiJHRdZ.jpg</fanart>
+<genre>Drama, Comédia</genre> <aired>2020/10/02</aired> <studio>NETFLIX</studio>
+<info> Emily Cooper consegue o trabalho dos sonhos em Paris. Agora, ela precisa administrar a carreira, os amigos e o amor na Cidade Luz.</info>
+</channel></channels>
+
 <channels><channel> <name>Wandinha</name>
 ---<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/wandinha</externallink>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ctI52NGXwDluCmAY9kOLqGg9hb5.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/sbe5fN4NxKTe5CitlIj8zjnv3V1.jpg</fanart>
