@@ -2,8 +2,28 @@
 standalone="yes"?>
 
 <items>
- 
-<item>  <title>Noite Infeliz - Leg</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc5c8e00e35d481efc3a341f511e6e1f0e919d66</link>
+
+<item>  <title>Glass Onion: Um Mistério Knives Out</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ff6ac33513abc17ccfa748bfa44fad16ace339a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/1gKurtZWrqsXB7mSYWY0W4CpUjl.jpg</fanart>
+<genre>Mistério, Thriller, Comédia</genre> / <year>2022</year> / <rate>8.0</rate> / <aired>2022/11/23</aired> / <duration>8340</duration>
+<info>O famoso detetive Benoit Blanc vai à Grécia para desvendar um mistério que envolve um bilionário e seu eclético círculo de amizades.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>A Luz do Demônio</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4add78d286995bb5c7dd89c2745a9dbb334ea5b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/t2mK9akzwmnGYIXHH9qShBP55QX.jpg</fanart>
+<genre>Terror, Thriller</genre> / <year>2022</year> / <rate></rate> / <aired>2022/10/23</aired> / <duration>5580</duration>
+<info>Irmã Ann é uma inquieta de 25 anos que acredita devotamente que realizar exorcismos é sua vocação. Mas ela está em desacordo com as tradições da instituição: freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que percebe seu dom especial, ela pode observar sessões de treinamento reais. Seu desejo de provar a si mesma toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a Irmã Ann fica cara a cara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes são plenamente realizadas.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Mundo Estranho</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ac448b749c004dd3595c0881f9cab30bfe8b933</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg</fanart>
+<genre>Animação, Ficção científica, Aventura, Família</genre> / <year>2022</year> / <rate>4.9</rate> / <aired>2022/11/24</aired> / <duration>6120</duration>
+<info>Uma lendária família de exploradores, os Clades, enquanto eles tentam navegar por uma terra inexplorada e traiçoeira ao lado de uma equipe heterogênea, incluindo uma bolha travessa, um cachorro de três patas e uma enorme quantidade de criaturas famintas.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Um Amor com Sabor de Natal</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f52df1b9c3f200ef1b89b865bcb71f340c83439</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/kIV1ZYWl0EFbB0TXI2MNre6uLUV.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/qZrRxARKINfih4tbNw2pQOHZIL3.jpg</fanart>
+<genre>Família, Drama</genre> / <year>2022</year> / <rate>6.1</rate> / <aired>2022/11/24</aired> / <duration>5040</duration>
+<info>Uma aspirante a arquiteta descobre que a padaria de sua falecida mãe enfrenta dificuldades. Suas esperanças são renovadas quando ela decide participar de um concurso de biscoitos de gengibre e disputa um prêmio que mudará sua vida.</info> </item>
+---------------------------------------------------------------------------- 
+ <item>  <title>Noite Infeliz - Leg</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc5c8e00e35d481efc3a341f511e6e1f0e919d66</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rZSsZpKPcttcdJtEfCuNP2xwwvl.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/6mEYUYdkKoVCMeYf3rTFj0L1uyv.jpg</fanart>
 <genre>Ação, Comédia, Crime, Thriller</genre> / <year>2022</year> / <rate>7.4</rate> / <aired>2022/12/01</aired> / <duration>6720</duration>
 <info>Para o inferno com "tudo está calmo". Da 87North, os produtores despidos de Anônimo, John Wick, Atômica, Deadpool 2 e Velozes & Furiosos: Hobbs & Shaw, vem aí um feriado escuro como carvão que diz que você deve sempre apostar no vermelho. Quando uma equipe de mercenários invade um complexo familiar rico na véspera de Natal, levando todos de reféns, a equipe não está preparada para um combatente surpresa: Papai Noel (David Harbour, Viúva Negra, série Stranger Things) está no local, e ele está prestes a mostrar por que esse Papai não é nenhum santo.</info> </item>
