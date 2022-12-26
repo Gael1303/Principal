@@ -1,3 +1,5 @@
+<items>
+
 <item>
 <title>The Witcher: A Origem - Minissérie</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f4f64bd8a2cfd90d21f1a76ede51291377f7f18f</link>
@@ -5,4 +7,5 @@
 <duration>3000</duration>
 <genre>Ação | Drama | Fantasia</genre>
 </item>
-----------------------------------------
+
+</items>
