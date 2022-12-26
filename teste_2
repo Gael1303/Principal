@@ -1,9 +1,13 @@
+
 <channels>
-<channel> <name>The Witcher: A Origem [COLOR yellow]3.2[/COLOR]</name>
----<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/the-witcher-a-origem</externallink>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/hoVuI69nygLQBJ4FqgRKnukDeKt.jpg</fanart>
-<genre>Action & Adventure, Sci-Fi & Fantasy</genre> <aired>2022/12/25</aired> <studio>NETFLIX</studio>
-<info>Situado em um mundo élfico 1200 anos antes do mundo de The Witcher, A série mapeia as origens do primeiro Witcher e os eventos que levam à "conjunção das esferas", quando os mundos de monstros, homens e elfos fundido para se tornar um.</info> 
-</channel>
-</channels>
----------------------------------------------
+
+<channel>
+        <name>The Witcher: A Origem [COLOR yellow]3.2[/COLOR]</name>
+        <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mlgUWds7UXHFQx4bealSnn4Ib7A.jpg</thumbnail> 
+        <fanart>https://www.themoviedb.org/t/p/original/hoVuI69nygLQBJ4FqgRKnukDeKt.jpg</fanart>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Series_raw/raw_2/the-witcher-a-origem</externallink>
+    <votes>3.2</votes> <studio>NETFLIX</studio>
+    <info>Situado em um mundo élfico 1200 anos antes do mundo de The Witcher, A série mapeia as origens do primeiro Witcher e os eventos que levam à "conjunção das esferas", quando os mundos de monstros, homens e elfos fundido para se tornar um.</info>
+  </channel>
+    
+ </channels>
