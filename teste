@@ -1,22 +1,11 @@
 <channels>
-	<!-- opicional -->
-    <channels_info> <!-- this is opitonal -->
-      <title>Testing XML</title> <!-- if channels_info, a title is required, other elements are optional -->
-      <genre>News</genre>
-      <description>this is the descripton string</description>
-      <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
-      <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
-      <date>04.01.2013</date>
-      <credits>divingmule, Johnny Cache</credits>
-    </channels_info>
-	<!-- opicional -->
-    
-    <channel>
+<channel>
         <name>ANIMES</name>
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Animes</info>
-		<externallink>http://localhost/gujal/itensrc.xml</externallink>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Streamings/Netflix.xml</externallink>
+		<date>26/12/2022</date>
     </channel>
 	
 	<channel>
