@@ -1,10 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?>
-
-<layouttype>thumbnail</layouttype>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
-	<channel>
-		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR yellow][B]POPULARES[/B][/COLOR]</name>
+
+<channel>
+        <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR yellow][B]POPULARES[/B][/COLOR]</name>
 		<thumbnail>https://png.pngtree.com/png-vector/20190830/ourlarge/pngtree-stock-graph-without-bars-positive-green-going-up-png-image_1711783.jpg</thumbnail>
 		<externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Em_Alta.xml</externallink>
 		<fanart>https://w7.pngwing.com/pngs/444/1017/png-transparent-bar-chart-graph-of-a-function-graph-going-up-text-logo-graph-of-a-function.png</fanart>
@@ -20,9 +19,9 @@ At.te
 Gael
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]APPLE TV+[/COLOR]</name>
 		<thumbnail>https://www.macpricesaustralia.com.au/wp-content/uploads/2019/10/Apple-TV-app-icon-1024x1024.png</thumbnail>
@@ -32,9 +31,9 @@ Gael
 [B]SÉRIES DISPONIVEIS APPLETV+[/B]
 </info>
 	</channel>
-</channels>
 
-<channels>
+-------------------------------------------------------------------------------------------------------------------------
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]CRUNCHYROLL[/COLOR]</name>
 		<thumbnail>http://store-images.s-microsoft.com/image/apps.44134.9007199266244356.8c8f8b98-231f-43f4-b251-7e5c4931b8a2.0a5801df-68bf-4fb5-888b-40f49a061c80</thumbnail>
@@ -44,9 +43,9 @@ Gael
 [B]ANIMES DISPONIVEIS CRUNCHYROLL[/B]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DISNEY+[/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41Wi5MOPDbL.jpg</thumbnail>
@@ -56,9 +55,9 @@ Gael
 [B]SÉRIES DISPONIVEIS DISNEY+[/B]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FUNIMATION[/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41VoTPYjdPL.png</thumbnail>
@@ -68,9 +67,9 @@ Gael
 [B]ANIMES DISPONIVEIS FUNIMATION[/B]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]GLOBOPLAY[/COLOR]</name>
 		<thumbnail>https://play-lh.googleusercontent.com/FGkwAiCMsdzHLpWnhk_rG-LpcIoCNgJDMrMCKxf_LTaXiWEboFAyeMQCf9eDI4MzjOg</thumbnail>
@@ -80,9 +79,9 @@ Gael
 [B]SÉRIES DISPONIVEIS GLOBOPLAY[/B]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]HBO MAX[/COLOR]</name>
 		<thumbnail>https://play-lh.googleusercontent.com/GmIOtlRHzTffK3WSyNrz4NNrWFh_yUuhQb9UHXztk0ZxeeFzAUD52b9YVTGh7nsdJ8c</thumbnail>
@@ -92,9 +91,9 @@ Gael
 [B]SÉRIES DISPONIVEIS HBO MAX[/B]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]NETFLIX[/COLOR]</name>
 		<thumbnail>https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png</thumbnail>
@@ -104,9 +103,9 @@ Gael
 [B]SÉRIES DISPONIVEIS NETFLIX[/B]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]OUTROS STREAMINGS[/COLOR]</name>
 		<thumbnail>https://hiseye.org/wp-content/uploads/2020/06/Streaming-service-collage--900x877.jpg</thumbnail>
@@ -116,10 +115,10 @@ Gael
 [B]SÉRIES DISPONIVEIS YOUTUBE / HULU / PARAMOUNT+[/B]
 </info>
 	</channel>
-</channels>
+
 
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]PARAMOUNT+[/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/31T6d13zC6L.png</thumbnail>
@@ -129,9 +128,9 @@ Gael
 [B]SÉRIES DISPONIVEIS PARAMOUNT+[/B]
 </info>
 	</channel>
-</channels>
+
 ------------------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]PRIME VIDEO[/COLOR]</name>
 		<thumbnail>https://images-na.ssl-images-amazon.com/images/I/41mpv9rBhmL.png</thumbnail>
@@ -141,9 +140,9 @@ Gael
 [B]SÉRIES DISPONIVEIS PRIME VIDEO[/B]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]STAR+[/COLOR]</name>
 		<thumbnail>https://pbs.twimg.com/profile_images/1393234224124207106/g9IKiOQQ_400x400.jpg</thumbnail>
@@ -153,9 +152,9 @@ Gael
 [B]SÉRIES DISPONIVEIS STAR+[/B]
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 	<channel>
 		<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR yellow][B]TODAS AS SERIES[/B][/COLOR]  - [COLOR gray]966[/COLOR]</name>
 		<thumbnail>https://www.ciadosdescontos.com/static/2016/01/melhores-series.jpg</thumbnail>
@@ -167,9 +166,9 @@ Gael
 [COLOR yellow]Dica:[/COLOR] Para buscar uma serie em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome da série
 </info>
 	</channel>
-</channels>
+
 -----------------------------------------------------------------------------------------------------------------------------
-<channels>
+
 <channel>
 <name>[COLOR yellow]»PARA EVITAR TRAVAMENTOS OU PERDA DE SEED'S, ALTEREM SEU DNS«[/COLOR]</name>
 <thumbnail>https://st.depositphotos.com/2332949/4799/i/600/depositphotos_47994911-stock-photo-exclamation-mark-symbol-attention-sign.jpg</thumbnail>
@@ -180,4 +179,5 @@ Gael
 Ate.te
 GAEL</info>
 </channel>
+
 </channels>
