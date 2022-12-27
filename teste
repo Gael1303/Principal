@@ -4,7 +4,7 @@
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Animes</info>
-		<externallink>https://github.com/Gael1303/Principal/raw/main/teste_2</externallink>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Menu_Acesso/Streamings.xml</externallink>
 		<date>26/12/2022</date>
     </channel>
 	
@@ -13,7 +13,7 @@
         <thumbnail>http://community-links.googlecode.com/svn/icons/news-icon.png</thumbnail>
         <fanart>http://community-links.googlecode.com/svn/icons/news-fanart.jpg</fanart>
 		<info>Canais do farruk</info>
-		<externallink>https://github.com/Gael1303/Principal/raw/main/teste-filme</externallink>
+		<externallink>https://github.com/Gael1303/Principal/raw/main/Menu_Acesso/Filmes</externallink>
     </channel>
 
 </channels>	
