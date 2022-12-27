@@ -1,25 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 
 <channels>
+
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] FILMES</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] VOD</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-55-48-439.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Filmes.xml</externallink>
 <fanart>https://bravi.tv/wp-content/uploads/2018/08/VOD_shutterstock.jpg</fanart>
 <info>[B]Um acervo muito bem organizado com diversas qualidades de filmes[/B]</info>
 </channel>
-</channels>
 
-<channels>
+
+
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] STREAMINGS</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] SERVIÇOS DE STREAMING</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-29-215.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Streamings.xml</externallink>
 <fanart>https://cdn.falauniversidades.com.br/wp-content/uploads/2020/05/06113757/plataformas-de-streaming.jpg</fanart>
 <info>[B]Séries variadas e separadas por plataformas de streaming[/B]</info>
 </channel>
-</channels>
 
-<channels>
+
+
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] SÉRIES ANIMADAS </name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-56-46-998.jpg</thumbnail>
@@ -27,9 +29,9 @@
 <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
 <info>[B]Séries animadas via TORRENT e LINK DIRETO[/B]</info>
 </channel>
-</channels>
 
-<channels>
+
+
 <channel>
 <name>[COLOR blue][B]≡[/B][/COLOR] DORAMAS</name>
 <thumbnail>https://archive.org/download/picsart-22-09-06-12-05-33-420/Picsart_22-09-06_12-05-33-420.jpg</thumbnail>
@@ -39,20 +41,20 @@
 
 Aba com os doramas mais populares</info>
 </channel>
-</channels>
 
-<channels>
+
+
 <channel>
 <name>_________________________</name>
 <thumbnail>https://</thumbnail>
 <externallink>https://</externallink>
 </channel>  
-</channels>
+
 
   
-<channels>
+
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]STATUS DO ADDON[/COLOR]: [COLOR green][B]ONLINE[/B][/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]STATUS DO ADDON[/COLOR]: [COLOR green][B]EM MANUTENÇÃO COMPLETA[/B][/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/2048px-Gtk-dialog-info.svg.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://</fanart>
@@ -63,4 +65,5 @@ Aba com os doramas mais populares</info>
 
 </info>
 </channel>  
+
 </channels>
