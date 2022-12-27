@@ -1,6 +1,4 @@
-<?xml version="1.0" encoding="utf-8"
-standalone="yes"?>
-
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <channels>
 
 <channel>
@@ -8,14 +6,11 @@ standalone="yes"?>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-16-561.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
-<info>[COLOR yellow]Doações via PIX[/COLOR]:
-
-thepiratebr.ofc@gmail.com 
-
-At.te
-Gael
-</info>
+<info>[COLOR yellow]Doações via PIX[/COLOR]: thepiratebr.ofc@gmail.com </info>
 </channel>
+
+  
+  
   
 </channels>
 
