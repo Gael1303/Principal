@@ -1,3 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
+
 <item> <title>Avatar - 3D</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc489b01eab48e85bbfe6031abcd702015c0d8ee</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tXmTHdrZgNsULqCbThK2Dt2X9Wt.jpg</thumbnail>
@@ -158,3 +162,5 @@
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:074f13c9369e0de0c6445d3d87a6c2ff1bc56d3a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mynTfFRQlomVQ2pvAPRpK2a4sxC.jpg</thumbnail>
 <genre>Aventura, Ação, Ficção científica</genre> <aired>2010/12/14</aired> <duration>7560</duration></item>
+  
+</items>  
