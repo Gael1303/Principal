@@ -294,8 +294,8 @@ Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisará salvar
 <info>Na Europa, um agente da CIA que se tornou assassino tenta escapar de forças misteriosas enquanto tenta salvar a vida das filhas que não sabem que ele existe.</info></item>
 ----------------------------------------------------------------------------
 <item>  <title>Jurassic World: Dominio</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d301ccb078b82ca01ec35ce1388cd1f41ed9821$nome=Jurassic World: Dominio - 1080p</link>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f24791347953d9cbd9724d9d63db8025f070c67$nome=Jurassic World: Dominio - 1080p Full</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:6d301ccb078b82ca01ec35ce1388cd1f41ed9821&name=Jurassic World: Dominio - 1080p</link>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2f24791347953d9cbd9724d9d63db8025f070c67&name=Jurassic World: Dominio - 1080p Full</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
 <genre>Ação, Aventura, Ficção científica</genre> 2022 <votes>5.9</votes> <date>2022/06/01</date> <duration>8820</duration>
 <info>Quatro anos após a destruição da Ilha Nublar, os dinossauros agora vivem – e caçam – ao lado de humanos em todo o mundo. Esse frágil equilíbrio remodelará o futuro e determinará, de uma vez por todas, se os seres humanos continuarão sendo os principais predadores em um planeta que agora compartilham com as criaturas mais temíveis da história.</info> </item>
@@ -414,7 +414,52 @@ Em Assassino Sem Rastro, Alex Lewis é um assassino experiente com reputação d
 <thumbnail>https://image.tmdb.org/t/p/w342/bM3HhLpEn2saU2o7oe7i9OCjmt.jpg</thumbnail>
 <info>No futuro, as pessoas raramente saem do conforto de suas casas, utilizando-se de androides, para se comunicarem e transitarem pelas ruas sem correr o risco de se ferirem. Quando um jovem e morto por uma arma que nao so inutiliza o robô como “liquidifica o cerebro” do operador, o policial Tom Greer (Bruce Willis), se poe a investigar nao so a origem dessa arma, mas o que ha por tras desse assassinato, ja que o jovem em questao e o filho do idealizador dos androides.[/I]</info></item>
 ----------------------------------------------------------   
+<item>
+<title>Dejà Vu</title> <duration>7200</duration> <date>2006/11/22</date> <genre>Ação, Ficção</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:13e022f7e925fc98f1ebdb59c54f2afdbe2da658</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/8yYM8oQAlJ9OUvMv7FZqCjIS1dT.jpg</thumbnail>
+<info>Doug Carlin (Denzel Washington) trabalha para a Agência do Tabaco, Álcool e Armas de Fogo. Chamado para recuperar provas apos a explosao de uma bomba em uma balsa localizada em Nova Orleans, Carlin descobre que aquilo que a maioria das pessoas acredita estar apenas em sua mente e bem mais poderoso do que se imagina. Ele descobre entao um meio de viajar no tempo, o que possibilita que evite que a explosao ocorra.[/I]</info></item>
+----------------------------------------------------------    
+<item> <title>O Assassino: O Primeiro Alvo </title> <duration>7200</duration> <date>2017/11/21</date> <genre>Ação, Suspense</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:df4f8d6bb0623d3808597d14570b18eec15dc850</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/juJrnDHS8kIDzdjtLkP9329bmah.jpg</thumbnail>
+<info>Devastado pela morte da noiva diante de seus olhos em um atentado terrorista, Mitch Rapp (Dylan O’Brien) dedica-se incansavelmente à vingança, o que chama a atençao da CIA. Recrutado, o descontrolado rapaz e enviado para o rigido treinamento de Stan Hurley (Michael Keaton), veterano militar que prepara assassinos secretos de atuaçao internacional e tem serias ressalvas à avaliaçao psicologica de Mitch.[/I]</info></item>
+----------------------------------------------------------  
+<item> <title>Drive </title> <duration>6000</duration> <date>2012/03/02</date> <genre>Ação, Crime</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:511cf8ceb3fa4062514249d004e8058c55b47974</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/602vevIURmpDfzbnv5Ubi6wIkQm.jpg</thumbnail>
+<info>Durante o dia um motorista (Ryan Gosling) trabalha como mecânico e dublê em filmes de Hollywood, enquanto que à noite ele presta serviços para a mafia. Ele e vizinho de Irene (Carey Mulligan), que e casada e tem um filho com Standard (Oscar Isaac). Percebendo a situaçao dificil de Standard, que saiu ha pouco tempo da prisao, o motorista o convida para realizar um assalto. So que o golpe da errado, o que coloca em risco as vidas do motorista, Irene e seu filho.</info></item>
+--------------------------------------------------------------------------
+<item><title>Esquadrao 6</title> <duration>7200</duration> <date>2019/12/10</date> <genre>Ação, Suspense</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0f33810b34937f9c1f740976807cf4bcb42dd504</link>1
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/11/14/15/36/5224064.png</thumbnail>
+<info>Em “Esquadrao 6”, Ryan Reynolds e um bilionario à la Tony Stark declarado morto e que resolve se aproveitar disso. Ele cria uma equipe “fantasma”, com pessoas dadas como mortas, para agir mundo afora sem deixar vestigios. Ele nao quer se preocupar com tratados, respeitar leis ou a burocracia, seu negocio e agir.[/I]</info></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+<item><title>13 Horas: Os Soldados Secretos de Benghazi </title> <duration>7200</duration> <date>2016/02/04</date> <genre>Ação, Gueraa</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:79d5c798a7a5473f558578d6d318c91d453f8a4e</link>1
+<thumbnail>https://image.tmdb.org/t/p/w342/K4lEgO47Axbidt5MJo5KljpP3G.jpg</thumbnail>
+<info>Baseado em fatos reais, o longa conta a historia de um grupo de seis soldados privados que trabalham num complexo da CIA em Benghazi, na Libia, em 2012. Em um aniversario dos atentados de 11 de setembro, eles precisaram defender um posto diplomatico que recebe a visita de um embaixador americano, e que, obviamente, sera um alvo de terroristas.[/I]</info></item>
 
+<item><title>O Codigo </title> <duration>5700</duration> <date>2012/04/27</date> <genre>Ação, Suspense</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:75d50702f873ccba3acd636edaa4b2e34a0ea914</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/oAW1cpxsJh4QS5nsS18VpVBeaKI.jpg</thumbnail>
+<info>Luke (Jason Statham) e um ex-policial durao que salvou uma menina oriental (Catherine Chan) das maos de bandidos dentro de um trem do metrô. O unico problema e que ele nao fazia ideia de que ela era portadora de uma informaçao extremamente importante, capaz de mobilizar a mafia russa, chinesa e ainda policiais corruptos. Agora, ele tambem tem o que todos querem e vai defender com a propria vida para que a justiça seja feita, nem que para isso seja necessario começar uma guerra urbana.[/I]</info></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    
+<item><title>Dia de Treinamento </title> <duration>7200</duration> <date>2002/03/15</date> <genre>Ação, Suspense</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:22be356b2d9ca9e550a27904d37abc8cca09a542</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/5X4zeznwORmk3c7al9G86fwzkSq.jpg</thumbnail>
+<info>Jake Hoyt, um jovem policial de Los Angeles, entra para a equipe de narcoticos da policia e recebe como oficial de treinamento e parcerio Alonzo Harris, um policial veterano e corrupto. Com o passar do dia, o jovem e exposto a todo tipo de corrupçao e e ainda acusado de assassinato, acontecimentos que sao orquestrados por Alonzo a fim de encobrir um engano cometido por ele junto à mafia russa, que pode fazer com que ele seja morto se nao conseguir uma grande quantia de dinheiro ate a meia-noite.[/I]</info></item>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>    
+<item> <title>Marcados Para Morrer </title> <duration>6600</duration> <date>2012/11/09</date> <genre>Ação, Suspense</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f332110f2ebd45ca28c7604ad66eb803beb411b9</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/fkD6IXxs5J0Ye82mvoxX3gRBz3m.jpg</thumbnail>
+<info>Taylor (Jake Gyllenhaal) e Zavala (Michael Peña) sao dois jovens policiais de Los Angeles, que arriscam suas vidas todos os dias patrulhando os bairros mais perigosos da cidade. Apos uma operaçao rotineira, os oficiais confiscam uma pequena quantia em dinheiro que pertencia a um traficante local. A apreensao faz com que os tiras se tornem alvo de um cartel, mas isso nao significa que irao colocar o pe no freio. Os policiais tambem vivem momentos importantes em suas vidas pessoais. Taylor começa um relacionamento com a bela Janet (Anna Kendrick), enquanto que o parceiro esta prestes a ter seu primeiro filho.[/I]</info></item>
+----------------    
+<item><title>O Homem de Lugar Nenhum - Leg</title> <duration>6900</duration> <date>2010/08/04</date> <genre>Ação, Crime</genre>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:b1f66a7aecde010bc0bf33687622b274ce204ec5</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/14QbjXp8m3LN9l1U4SoBWy441kr.jpg</thumbnail>
+<info>A unica ligaçao do ex-agente especial Tae-shik com o resto do mundo e uma menina, So-mi, que mora nas proximidades de sua casa. Sua mae, Hyo-Jeong contrabandeia drogas para uma organizaçao de traficantes e confia Tae-shik com o produto, sem deixa-lo saber. Os traficantes descobrem e sequestram Hyo-Jeong e So-mi. A gangue promete liberta-los se Tae-shik fizer uma entrega para eles, no entanto, o que eles realmente planejam e um grande complô para eliminar o lider da organizaçao rival.[/I]</info></item>
+----------------  
 
 
 </items>
