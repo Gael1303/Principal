@@ -154,7 +154,14 @@ Gael
 	</channel>
 
 -----------------------------------------------------------------------------------------------------------------------------
-
+	<channel>
+               <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]SÉRIES ANIMADAS[/COLOR]</name>
+               <thumbnail>https://www.apptuts.net/wp-content/uploads/2020/03/melhores-s%C3%A9ries-de-anima%C3%A7%C3%A3o-capa.jpg</thumbnail>
+               <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Streamings/Series_Animadas.xml</externallink>
+               <fanart>https://opetroleo.com.br/wp-content/uploads/2022/02/Imagem1.png</fanart>
+               <info>[B]SÉRIES ANIMADAS[/B]</info>
+        </channel>
+-------------------------------
 	<channel>
 		<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR yellow][B]TODAS AS SERIES[/B][/COLOR]  - [COLOR gray]966[/COLOR]</name>
 		<thumbnail>https://www.ciadosdescontos.com/static/2016/01/melhores-series.jpg</thumbnail>
