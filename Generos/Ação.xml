@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+<item> <title>John Wick: De Volta ao Jogo </title> 
+<thumbnail>https://image.tmdb.org/t/p/w342/3A2e7RGIXfcTnX7ZCZ6UNIb24vA.jpg</thumbnail>
+<genre>Açao/Suspense</genre> <aired>2014/11/27</aired> <duration>6060</duration>
+<info>John Wick e um lendario assassino de aluguel aposentado, lidando com o luto apos perder o grande amor de sua vida. Quando um gângster invade sua casa, mata seu cachorro e rouba seu carro, ele e forçado a voltar à ativa e inicia sua vingança.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:29dec5ec6302c8521a394a193bfdc3f68d2d8459</link> </item>
 
+<item> <title>John Wick 2: Um Novo Dia Para Matar</title> <genre>Açao/Suspense</genre> <aired>2017/02/16</aired> <duration>7320</duration>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed077b83ac8d1828247a9f3a808ed06ea42f6f9</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/k36UzsRQaY6E055cdYPdYbyREer.jpg</thumbnail>
+<info>A continuaçao de John Wick chegou totalmente dublada, o filme de açao mais aguardado do ano de 2017 acabou de ser lançado com qualidade de bluray. Apos recuperar seu carro, John Wick (Keanu Reeves) acredita que enfim podera se aposentar. Entretanto, a reapariçao de Santino DAntonio (Riccardo Scarmacio) atrapalha seus planos. Dono de uma promissoria em nome de Wick, por ele usada para deixar o posto de assassino profissional da Alta Cupula, Santino cobra a divida existente e insiste para que ele mate sua propria irma, Gianna (Claudia Gerini).</info></item>
+
+<item> <title>Anônimo</title> <genre>Açao/Suspense</genre> <aired>2021/05/13</aired> <duration>5460</duration>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:470b8a934f1448e9dba3d2bb62668bad6e2a5f05</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/8ooU1cMApznZmMps6UCRsuSQPg6.jpg</thumbnail>
+<info>O longa acompanha a vida de um homem comum que impede um grupo de bandidos de assediar uma mulher na rua. A boa açao, porem, o leva a ser perseguido pelo chefe do trafico de drogas da cidade, parente de um dos criminosos que busca vingança.</info></item>
+
+<item> <title>Aqueles Que Me Desejam a Morte</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:aed15d580e43f6c9fddc9da67c5e097650bc4b48</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/gPFlBElSqV2cPPKivrMxVEcZxgT.jpg</thumbnail>
+<genre>Ação/Drama/Suspense</genre> <duration>6000</duration> <aired>2021/05/27</aired>
+<info>Um garoto de 14 anos testemunha um assassinato brutal, recebe uma identidade falsa e está escondido em um programa de habilidades selvagens para adolescentes problemáticos, enquanto os assassinos matam qualquer um que entrar em seu caminho em uma busca para alcançá-lo.</info></item>
+
+<item> <title>Infiltrado</title><link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:10ccb57ea7c6a8ac1e85dae90726699e79cb0e32</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/rNz8wy63GAabztAUkO4xMGk3upx.jpg</thumbnail>
+<genre>Ação/Suspense</genre> <aired>2021/08/26</aired> <duration>7200</duration>
+<info>Hill, mais conhecido como H, um misterioso homem, trabalha numa companhia de carros-forte responsável pela movimentação de milhares de milhões de dólares em Los Angeles.</info> </item>
 
 <item> <title>Top Gun: Maverick</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32b37bf92b92028f53c5aedffe9928239a2684d7</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg</thumbnail>
