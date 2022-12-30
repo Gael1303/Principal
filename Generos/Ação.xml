@@ -1,6 +1,32 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-       
+
+<item> <title>Operação Red Sparrow</title> <duration>8400</duration> <genre>Suspense/Ação</genre> <aired>2018/03/01</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:cb433d0db5fe173c409f733b289f5268c1a9f195</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/ooeyCPepghIobLfd8bijHepSWgR.jpg</thumbnail>
+<info>Outrora talentosa bailarina, Dominika Egorova e convencida a se tornar uma Sparrow, ou seja, uma sedutora treinada na melhor escola de espionagem russa. Apos passar pelo arduo processo de aprendizagem, ela se torna a mais talentosa espia do pais e precisa lidar com o agente da CIA Nathaniel Nash. Os dois, no entanto, acabam desenvolvendo uma paixao proibida que ameaça nao so suas vidas, mas tambem as de outras pessoas.</info></item>
+
+<item> <title>Anna: O Perigo Tem Nome</title> <duration>7200</duration> <genre>Ação/Suspense</genre> <aired>2019/08/29</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:54e76c030a267c8f75a8c4d96fc77b53d3298471</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/itUXQRTYJYDM5vwJFDWKb0uxqoC.jpg</thumbnail>
+<info>Anna Poliatova e aparentemente so uma modelo famosa e requisitada pelas marcas de luxo. No entanto, um segredo faz com que ela se torne uma das assassinas mais perigosas e bem treinadas do mundo.</info></item>
+
+<item> <title>007: Sem Tempo para Morrer</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:892067dec36944db97d80ec90ebcc0ed456fd22e</link>
+<thumbnail>https://www.themoviedb.org/t/p/w500/luE0KG1rWfUptbgNtlNtL5sihyd.jpg</thumbnail>
+<duration>9720</duration> <genre>Ação/Suspense</genre> <aired>2021/09/30</aired>
+<info>A ajuda de James Bond (Daniel Craig) é requerida pela CIA quando a missão de resgatar um cientista sequestrado se mostra mais traiçoeira do que esperada, levando-o a uma trilha deixada por um misterioso vilão (Rami Malek), armado com uma perigosa nova tecnologia.</info></item>
+
+<item> <title>Colombiana: Em Busca de Vingança</title> <duration>6600</duration> <genre>Ação/Suspense</genre> <aired>2011/09/11</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a4f7b8f10cec03e5719085e9a8f4a044b7b14bde</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/gjifZ4KVT3p5JlH16ZRyWuCwZrg.jpg</thumbnail>
+<info>Cataleya (Zoe Saldana) testemunhou a morte de seus pais quando era apenas uma menina. Agora, trabalha para o seu tio como uma assassina profissional, mas nao consegue esquecer seu objetivo maior que e se vingar daqueles que tiraram da sua vida as pessoas que ela mais amava. Para isso, os mafiosos que cometeram o crime sentirao o gosto de sua vingança.</info></item> 
+
+<item> <title>Controle Absoluto</title> <duration>7200</duration> <genre>Ação/Suspense</genre> <aired>2008/09/26</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:816c3f8463eb08c008c00d24b76298943f92dffb</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/93/64/20/20270489.jpg</thumbnail>
+<info> Jerry Shaw (Shia LaBeouf) e Rachel Holloman (Michelle Monaghan) nao se conhecem, ate que um telefonema feito por uma mulher desconhecida os une. Ameaçando a vida de ambos e de suas familias, a voz utiliza a tecnologia do dia-a-dia para rastrear e controlar todos os seus movimentos. Logo eles se tornam os fugitivos mais procurados do pais, precisando se unir para descobrir o que realmente esta ocorrendo.</info></item> 
+             
 <item> <title>Megatubarão</title> <duration>6780</duration> <genre>Ação/Ficção Cientifica</genre> <aired>2018/08/09</aired>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4839c5193ecae63a32ccacc0148e82fcdd1ff5f2</link>
 <thumbnail>https://br.web.img2.acsta.net/pictures/18/04/10/04/46/5013486.jpg</thumbnail>
@@ -1340,6 +1366,75 @@ Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as 
 <thumbnail>https://http2.mlstatic.com/D_NQ_NP_650229-MLB41483276872_042020-O.jpg</thumbnail>
 <info>A pequena cidade de Salem se torna caotica quando um hacker anônimo começa a revelar as mensagens pessoais e os segredos de milhares de pessoas.[/I]</info></item>
         
+<item>
+<title>Ender's Game: O Jogo do Exterminador</title> <duration>6840</duration> <genre>Ação/Ficção Cientifica</genre> <aired>2013/12/20</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a63755cfceb25413ef88face5101b5d457d4bd4d</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/a8nXYg6hIRnUy5Xli0kBUZ1xtKT.jpg</thumbnail>
+<info>Para impedir um novo ataque da força alienigena que quase acabou com a raça humana, o jovem Ender Wiggin e recrutado pelo corpo militar internacional. Ele treina para se transformar no melhor jogador, e sua missao e acabar com a guerra.[/I]</info></item>
 
+<item> <title>Assassin's Creed</title> <duration>6900</duration> <genre>Ação/Aventura</genre> <aired>2017/01/12</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ecb6992f4ea69da0ae5c079e277804fe56ead789</link>1
+<thumbnail>https://www.themoviedb.org/t/p/w500/ne5LmY2zq2dTG8TDGJOrCB4IbRy.jpg</thumbnail>
+<info>Cal Lynch revive as aventuras do guerreiro Aguilar, seu ancestral espanhol do seculo XV. Dotado de novos conhecimentos e incriveis habilidades, ele volta aos dias de hoje pronto para enfrentar a poderosa organizaçao dos Templarios.[/I]</info></item>
+
+<item> <title>John Carter: Entre Dois Mundos</title> <duration>7920</duration> <genre>Ação/Aventura</genre> <aired>2012/03/09</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a03eda0e5ce14f794acddeffaf2356898aae0068</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/93/44/20039802.jpg</thumbnail>
+<info>Quando o veterano da Guerra Civil John Carter acorda misteriosamente na superficie de Marte, ele nao tem ideia da aventura que o aguarda. Ele acaba se envolvendo em um conflito epico entre os habitantes do planeta e o destino de todos esta em suas maos.[/I]</info></item>
+
+<item> <title>Agente do Futuro</title> <duration>6600</duration> <genre>Ficção Cientifica/Ação</genre> <aired>2014/10/17</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c8f01c9cf9ade183b554ed7150f82603dc8f2132</link>
+<thumbnail>https://upload.wikimedia.org/wikipedia/en/thumb/6/65/Automata_poster.jpg/220px-Automata_poster.jpg</thumbnail>
+<info>Em 2044, Jacq Vaucan e um agente de seguro da Robotic Corporation, que realiza investigaçoes sobre manipulaçao de robôs. Em uma visita de rotina, ele faz descobertas que terao profundas consequências para a raça humana. Resta a Jacq desvendar um misterio mais complexo que qualquer maquina ja criada.[/I]</info></item>
+
+<item> <title>A 5° Onda</title> <duration>6720</duration> <genre>Ficção Cientifica/Ação</genre> <aired>2016/01/21</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:51afddefca9c226bf44dc051bd202c1ae48dac24</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/15/12/11/19/15/262364.jpg</thumbnail>
+<info>Uma serie de ataques alienigenas ameaça a raça humana. Separada da familia, uma adolescente esta disposta a fazer de tudo para encontrar o irmao antes que a quinta onda extermine a humanidade.[/I]</info></item>
+
+<item> <title>Jogos Vorazes</title> <duration>8400</duration> <genre>Ação/Ficção científica</genre> <aired>2012/03/23</aired>
+<thumbnail>https://image.tmdb.org/t/p/w342/xAmbI0D90t74Xeq6K9nGeTXkd1U.jpg</thumbnail>
+<info>Num futuro distante, boa parte da populaçao e controlada por um regime totalitario, que relembra esse dominio realizando um evento anual – e mortal – entre os 12 distritos sob sua tutela. Para salvar sua irma caçula, a jovem Katniss Everdeen (Jennifer Lawrence) se oferece como voluntaria para representar seu distrito na competiçao e acaba contando com a companhia de Peeta Melark (Josh Hutcherson), desafiando nao so o sistema dominante, mas tambem a força dos outros oponentes.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:015380b6afa40fde80c73e58591dbcf6804cadc1</link></item>
+
+<item> <title>Jogos Vorazes: Em Chamas </title> <duration>7200</duration> <genre>Ação/Ficção científica</genre> <aired>2013/11/15</aired>
+<thumbnail>https://image.tmdb.org/t/p/w342/m1lky5ftnhLRpkoYWKssH8qvlRU.jpg</thumbnail>
+<info>Apos sairem vencedores da ultima ediçao dos Jogos Vorazes, as atitudes desafiadoras de Katniss e Peeta acabam inspirando uma rebeliao contra a opressiva Capital. No entanto, os dois sao obrigados a participarem de uma ediçao especial do torneio, o Massacre Quaternario, que acontece apenas a cada 25 anos, e reune vencedores das ediçoes anteriores.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fdfe68f6450bd6e938d71463a6a8ecd7de63c303</link></item>
+
+<item> <title>Predadores</title> <duration>5820</duration> <genre>Ação/Ficção científica</genre> <aired>2010/07/07</aired>
+<thumbnail>https://image.tmdb.org/t/p/w342/yMoBX1a9165eLJVvBQCRA3TZCHI.jpg</thumbnail>
+<info>Em um planeta misterioso, um mercenario e um grupo de assassinos a sangue a frio agora sao presas. Uma nova raça de alienigenas persegue os humanos pela floresta densa e o grupo precisa se unir se nao quiser virar trofeu dos caçadores intergalacticos.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7867331511d2de3332993e218967e8942a698ae0</link></item>
+
+<item> <title>Guerra dos Mundos </title> <duration>7200</duration> <genre>Ação/Ficção científica</genre> <aired>2005/06/26</aired>
+<thumbnail>https://image.tmdb.org/t/p/w342/uQeGcReMaNf3XhELojGUknVzyQu.jpg</thumbnail>
+<info>Ray Ferrier e um estivador divorciado, afastado de seus filhos, que vivem com a mae. Quando sua ex-esposa deixa as crianças para ele cuidar durante alguns dias, o planeta e atacado por alienigenas que surgem do chao conduzindo tripods e destruindo tudo que encontram pelo caminho. Ray tenta proteger os seus filhos e fugir para Boston para se juntar a sua ex-esposa. Durante o trajeto, enfrenta varias adversidades e ataques.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:eb5540b9522f1946fe934fdfaaaa0c1331424b0c</link></item>
+
+<item> <title>Herois</title> <duration>6660</duration> <genre>Ação/Ficção científica</genre> <aired>2009/02/06</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:2cb4f4b7ba988108b3dba4d64cdb89c65ca2ba6f</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/35I2zdjHEZbcDW6a0WoJHHz0MCT.jpg</thumbnail>
+<info>Depois que seu pai e brutalmente assassinado por uma agência clandestina do governo, Nick Gant jura vingança e da inicio ao seu plano com a ajuda de um grupo de pessoas com poderes paranormais.</info> </item> 
+
+<item> <title>Planeta dos Macacos: A Origem</title> <duration>6300</duration> <genre>Ação/Ficção científica</genre> <aired>2011/08/26</aired>
+<thumbnail>https://image.tmdb.org/t/p/w342/qxe4ONZAgtC0mfsIuOyqVU9JREj.jpg</thumbnail>
+<info>Will Rodman tenta encontrar a cura do Alzheimer. Para isso, ele usa o pai e Cesar, um filhote de macaco, como cobaias. Mas Cesar demonstra uma inteligência fora do comum. Quando o primata e colocado em uma gaiola com outros de sua especie, ele se revolta e lidera uma rebeliao contra os humanos.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:44e2c73f1fa53573d175f750308c993d690c7472</link></item>
+
+<item> <title>Maze Runner: Prova de Fogo</title> <duration>7800</duration> <genre>Ação/Ficção científica</genre> <aired>2015/09/01</aired>
+<thumbnail>https://image.tmdb.org/t/p/w342/zpdGT57Rn3mAZsNOkeDeINB6L9v.jpg</thumbnail>
+<info>Apos escapar do labirinto, Thomas (Dylan O’Brien) e os garotos que o acompanharam em sua fuga da Clareira precisam agora lidar com uma realidade bem diferente: a superficie da Terra foi queimada pelo sol e eles precisam lidar com criaturas disformes chamadas Cranks, que desejam devora-los vivos.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1138c2ca99610e1ce4316cbe73665a1362984462</link></item>
+
+<item> <title>Divergente</title> <duration>9000</duration> <genre>Ficção científica/Ação</genre> <aired>2014/04/17</aired>
+<thumbnail>https://image.tmdb.org/t/p/w342/kLX3LtUcOsoJXfyp8D31aqwDoNc.jpg</thumbnail>
+<info>Na futuristica Chicago, quando a adolescente Beatrice (Shailene Woodley) completa 16 anos ela tem que escolher entre as diferentes facçoes que a cidade esta dividida. Elas sao cinco e cada uma representa um valor diferente, como honestidade, generosidade e coragem. Beatrice surpreende a todos e ate a si mesma quando decide pela facçao dos destemidos, diferente da familia. Ao entrar para a Audacia ela torna-se Tris e entra numa jornada para afastar seus medos e descobrir quem e de verdade. Alem disso conhece Quatro (Theo James), rapaz experiente que consegue intriga-la e encanta-la ao mesmo tempo.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5e078593f64752e05a57cadfdb39f13650c6b2a5</link> </item>
+
+<item> <title>A Torre Negra</title> <duration>7200</duration> <genre>Ação/Fantasia</genre> <aired>2017/08/24</aired>
+<thumbnail>https://image.tmdb.org/t/p/w342/t4IeczvPNloj3IrDm2NjALKMV01.jpg</thumbnail>
+<info>Um pistoleiro chamado Roland Deschain (Idris Elba) percorre o mundo em busca da famosa Torre Negra, predio magico que esta prestes a desaparecer. Essa busca envolve uma intensa perseguiçao ao poderoso Homem de Preto (Matthew McConaughey), passagens entre tempos diferentes, encontros intensos e confusoes entre o real e o imaginario. Baseado na obra literaria homônima de Stephen King.</info>
+---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:533b14b8f27b443d5e607cba29335a10c993cdcd</link> </item
   
 </items>
