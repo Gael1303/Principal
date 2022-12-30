@@ -1,6 +1,26 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
-        
+       
+<item> <title>Megatubarão</title> <duration>6780</duration> <genre>Ação/Ficção Cientifica</genre> <aired>2018/08/09</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4839c5193ecae63a32ccacc0148e82fcdd1ff5f2</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/18/04/10/04/46/5013486.jpg</thumbnail>
+<info>Na fossa mais profunda do Oceano Pacifico, a tripulaçao de um submarino fica presa dentro do local apos ser atacada por uma criatura pre-historica que se achava estar extinta, um tubarao de mais de 20 metros de comprimento, o Megalodon. Para salva-los, um oceanografo chinês contrata Jonas Taylor, um mergulhador especializado em resgates em agua profundas que ja encontrou com a criatura anteriormente.[/I]</info></item>
+
+<item> <title>Bumblebee</title> <duration>6900</duration> <genre>Ação/Ficção Cientifica</genre> <aired>2018/12/25</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:4c9bd582d4da768213f4b31f6f96f3034e0916f5</link>
+<thumbnail>https://br.web.img2.acsta.net/pictures/18/11/19/14/34/1632343.jpg</thumbnail>
+<info>Refugiado em um ferro-velho na California, Bumblebee, machucado e sem condiçao de uso, e encontrado e consertado pela jovem Charlie. Quando Bee ganha vida, porem, ela percebe que seu novo amigo e bem mais do que um simples automovel.[/I]</info> </item>
+
+<item> <title>Gigantes de Aço</title> <duration>7500</duration> <genre>Ação/Ficção Cientifica</genre> <dateadded>2011/10/21</dateadded> <rating>10</rating>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:bbdcf202c5198ab957167ce0883cdad2a3baa7c6</link>
+<thumbnail>https://br.web.img3.acsta.net/medias/nmedia/18/87/32/75/19874355.jpg</thumbnail>
+<info>Em um futuro proximo, as maquinas substituem os homens no ringue. As lutas de boxe, nesse contexto, acontecem entre robôs de alta tecnologia. Charlie, um ex-lutador frustrado, nao consegue se adaptar. Quando tudo parece perdido, ele se une ao filho para construir um competidor imbativel.[/I]</info></item>
+
+<item> <title>A Rebelião</title> <duration>6600</duration> <genre>Ficção/Ação/Suspense</genre> <aired>2019/03/28</aired>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:237f13b70cf4fd79629c97de25c4a387f73dbac1</link>
+<thumbnail>https://br.web.img3.acsta.net/pictures/19/02/28/15/09/5892478.jpg</thumbnail>
+<info>Dez anos apos uma invasao alienigena, os humanos sao divididos em rebeldes e colaboracionistas. Em Chicago, o jovem Gabriel se junta à resistência terrestre, mas ainda nao esta ciente do perigo que paira sobre ele e seus camaradas.[/I]</info></item>
+
 <item> <title>22 Milhas</title> <duration>5700</duration> <genre>Ação/Policial/Suspense</genre> <aired>2018/09/05</aired>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:62e9089168af17e682f45f70f5ab5773f54535ee</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/9afzbg7Mhpg5srX87qUlwuD28Qm.jpg</thumbnail>
