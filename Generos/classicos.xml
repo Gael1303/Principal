@@ -1,3 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+
 <item> <title>Matou a Família e Foi ao Cinema</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:ec226719d36b85c49a421d175a345a99ddbf7b81</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zW3BVM8Fh30BAcg5VXokaS8i0Nt.jpg</thumbnail>
@@ -575,3 +578,5 @@
 <info>Elvira (Cassandra Peterson) é a anfitriã de um programa de baixo orçamento sobre filmes de terror, mas tudo pode mudar quando ela herda da tia Morgana (Cassandra Peterson) uma velha mansão em Fallwell, Massachusetts, uma pequena cidade com apenas 1313 habitantes. Ela sonha em vender a casa e ir para Las Vegas, mas encontra dois sérios problemas: O primeiro são os habitantes da cidade, que ficam espantados com o modo de como ela se veste e se comporta. Liderados por Chastity Pariah (Edie McClurg), eles fazem forte oposição à presença de Elvira na cidade. O segundo problema é Vincent Talbot (William Morgan Sheppard), um tio de Elvira que não herdou nada, mas deseja obter de qualquer maneira um "livro de receitas" que também foi herdado por Elvira, que dará a ele imensos poderes para fazer diversos tipos de bruxarias.</info>
 <genre>Terror, Comédia</genre> <aired>1988/09/30</aired> <duration>5760</duration> </item>
 ---------------------------------------------------------------------------------------
+
+</items>  
