@@ -1,6 +1,24 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
+<item> <title>Os Mercenários</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d8a9b3a456a42801de0178b31b6297f345921243</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/tTfRV9lOBi3YDJpYXqbj4Ai04g2.jpg</thumbnail>
+<genre>Ação/Aventura</genre> <duration>6180</duration> <aired>2010/08/13</aired>
+<info>Um grupo de mercenários, liderado por Barney Ross, e seus homens de confiança aceitam uma missão que parece ser rotineira: uma operação secreta, a mando da Igreja, para invadir o país sul-americano de Vilena e derrubar seu ditador. Não demora muito para o grupo perceber que a missão é uma operação suicida. Presos em uma perigosa teia de traições, mas sabendo que um inocente está em perigo, Barney e seus homens decidem finalizar o trabalho.</info> </item>
+
+<item><title>Corrida Mortal</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:e5f262862f0c1e730ac7817b444f3e961cea62cf</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/a58L5z5LyADGVfAYfYmf5VaEk3y.jpg</thumbnail>
+<genre>Ação/Ficção científica</genre> <duration>6660</duration> <aired>2008/08/22</aired>
+<info>Jensen Ames (Jason Statham) é um ex-piloto profissional condenado por um terrível assassinato. Encarcerado em Terminal Island, uma prisão de segurança máxima com regras próprias, ele se vê obrigado a voltar às pistas e participar de uma competição mortal cujo vencedor pode conquistar a liberdade. O problema é que lá a corrida e os competidores são diferentes, enquanto a vontade de matar e ser livre correm lado a lado.</info> </item>
+
+<item> <title>Transformers: A Vingança dos Derrotados</title>
+-----<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:191b3e7b6982820e0da26f8c090c2a77e73622a2</link>
+<thumbnail>https://image.tmdb.org/t/p/w342/19AaiftqKuLJQu0cUrfpiPanR6l.jpg</thumbnail>
+<genre>Ação/Ficção científica</genre> <duration>9000</duration> <aired>2009/06/24</aired>
+<info>Passaram-se dois anos desde que Sam Witwicky e os Autobots salvaram a raça humana e tentam ter uma vida normal: Sam está começando a faculdade, enquanto os Autobots trabalham com uma organização militar secreta e tentam construir uma casa para eles na Terra. Porém, um antigo Decepticon conhecido como ‘The Fallen’ aparece para se vingar, então Sam e sua namorada Mikaela precisam desvendar a história dos Transformes e achar um caminho para derrotá-lo.</info></item>
+        
 <item> <title>John Wick: De Volta ao Jogo </title> 
 <thumbnail>https://image.tmdb.org/t/p/w342/3A2e7RGIXfcTnX7ZCZ6UNIb24vA.jpg</thumbnail>
 <genre>Açao/Suspense</genre> <aired>2014/11/27</aired> <duration>6060</duration>
