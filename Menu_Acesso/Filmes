@@ -17,25 +17,26 @@ Ate.te
 GAEL</info>
 </channel>  
 
-<channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR yellow]POPULARES[/COLOR]</name>
-<thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-04-751.jpg</thumbnail>
-<externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Populares.xml</externallink>
-<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
-<info>[B]FILMES MAIS POPULARES DE ACORDO COM PESQUISAS GOOGLE.[/B]</info>
-</channel>  
+ 
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]LANÇAMENTOS 2022[/COLOR]</name>
+<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR white]FILMES RECENTES[/COLOR]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-16-561.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lan%C3%A7amentos.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
 <info></info>
 </channel>
 
+<channel>
+<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR yellow]FILMES MAIS POPULARES[/COLOR]</name>
+<thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-04-751.jpg</thumbnail>
+<externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Populares.xml</externallink>
+<fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
+<info>[B]FILMES MAIS POPULARES DE ACORDO COM PESQUISAS GOOGLE.[/B]</info>
+</channel> 
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]CINEMA[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES NOS CINEMAS[/COLOR]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-32-547.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/%23lancamentos_cinema.xml</externallink>
 <fanart>https://img.freepik.com/vetores-gratis/conceito-de-filme-de-cinema_1302-12571.jpg?w=2000</fanart>
@@ -43,7 +44,7 @@ GAEL</info>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]GENEROS[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]POR GENEROS[/COLOR]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-57-53-568.jpg</thumbnail>
 <fanart>https://</fanart>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Menu_Acesso/Categorias_de_filmes.xml</externallink>
@@ -61,7 +62,7 @@ GAEL</info>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]4K[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES EM 4K[/COLOR]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-58-42-070.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/4k</externallink>
 <fanart>https://www.tremplin-numerique.org/wp-content/uploads/2022/01/Intel-interrompt-la-lecture-de-disques-Blu-Ray-4K-sur-de.jpg</fanart>
@@ -71,7 +72,7 @@ GAEL</info>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]IMAX[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES EM IMAX[/COLOR]</name>
 <thumbnail>https://archive.org/download/picsart-22-09-02-13-35-21-113/Picsart_22-09-02_13-35-21-113.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/imax</externallink>
 <fanart>https://www.hardware.com.br/wp-content/uploads/static/wp/2022/06/02/1-2.jpg</fanart>
@@ -81,7 +82,7 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 </channel> 
   
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]DOLBY VISION[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES EM DOLBY VISION[/COLOR]</name>
 <thumbnail>https://archive.org/download/cineroom/Picsart_22-09-01_17-59-47-604.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/Dolby_Vision.xml</externallink>
 <fanart>https://www.hardware.com.br/static/wp/2019/12/25/90-4.jpg?fm=pjpg&ixlib=php-3.3.0</fanart>
@@ -94,7 +95,7 @@ Recomendado para TV's acima de 55 Polegadas  </info>
 </channel>
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]3D[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES EM 3D[/COLOR]</name>
 <thumbnail>https://archive.org/download/picsart-22-09-01-17-58-58-554/Picsart_22-09-01_17-58-58-554.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/3d.xml</externallink>
 <fanart>https://recantododragao.com.br/wp-content/uploads/2014/04/Cinema-3D-e1454216651947.jpg</fanart>
