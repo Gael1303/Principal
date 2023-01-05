@@ -2,8 +2,11 @@
 <items>
 
 
-<item>
-<title>X: A Marca da Morte - 4K</title>
+<item>  <title>Emancipation: Uma História de Liberdade - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb4fd403367260b1d6aec63c95a152b71a96e88a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>
+<genre>Ação, Thriller, História, Drama</genre><rate>7.2</rate> / <aired>2022/12/02</aired> </item>  
+  
+<item> <title>X: A Marca da Morte - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07c79ffbe79804fa6669b9a7a36728c5e58aa3d6</link>
 <thumbnail>https://www.themoviedb.org/t/p/original/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg</thumbnail>
 <genre>Terror</genre> 2022 <rate>6.6</rate> <aired>2022/04/13</item>
