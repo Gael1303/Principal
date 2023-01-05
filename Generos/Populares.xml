@@ -1,27 +1,68 @@
-<item>  <title>Adão Negro</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8483ba53d4ecf509442073b493f7168e9f2f1a7a</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg</fanart>
-<genre>Ação, Ficção</genre> / <year>2022</year> / <rate>7.3</rate> / <aired>2022/10/20</aired> / <duration>7500</duration>
-<info>"[I]O mundo precisava de um herói. Agora ele tem Adão Negro.[/I]"
-
-Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.</info> </item>
-----------------------------------------
-
-<item> 
-<title>Sorria</title>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+  
+<item>  <title>O Menu</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:a9e57df142c8ae555366cfd8d8229eb88fa2e654</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/1AVgrULJOujYOCu1PzbhPeWCADk.jpg</fanart>
+<genre>Suspense/Terror/Comédia</genre> / <rate>7.5</rate> / <aired>2022/11/17</aired> / <duration>6420</duration>
+<info>Um casal viaja para uma ilha costeira para comer em um restaurante exclusivo onde o chef preparou um cardápio farto, com algumas surpresas chocantes.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Glass Onion: Um Mistério Knives Out</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:0ff6ac33513abc17ccfa748bfa44fad16ace339a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zQJcENHbZUpLQ8RKYt9wTzcXCwv.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/1gKurtZWrqsXB7mSYWY0W4CpUjl.jpg</fanart>
+<genre>Mistério, Thriller, Comédia</genre>  8.0 / <aired>2022/11/23</aired> / <duration>8340</duration>
+<info>O famoso detetive Benoit Blanc vai à Grécia para desvendar um mistério que envolve um bilionário e seu eclético círculo de amizades.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Emancipation: Uma História de Liberdade</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:d4e85f65416f1fa30d8dd89b69418ddd93ac1462</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/jYFoJyZpuqRC2MrPiLY0pHDTxAZ.jpg</fanart>
+<genre>Ação, Thriller, História, Drama</genre> 7.2 / <aired>2022/12/02</aired> / <duration>7920</duration>
+<info>Peter, um escravo em fuga é forçado a despistar caçadores implacáveis e os pântanos impiedosos da Louisiana numa tortuosa jornada em direção ao Norte.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Sorria</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:65726944c9f5adc33a7d4331d2930482779b1409</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/mVNPfpydornVe4H4UCIk7WevWjf.jpg</fanart>
-<genre>Terror, Mistério, Thriller</genre>
-<year>2022</year>
-<rate>7.0</rate>
-<aired>2022/09/23</aired>
-<duration>6900</duration>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gJbMkl9e2NZcjlKpXuK9QaExobN.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/mVNPfpydornVe4H4UCIk7WevWjf.jpg</fanart>
+<genre>Terror, Mistério, Thriller</genre><aired>2022/09/23</aired><duration>6900</duration>
 <info>"[I]Uma vez que você vê. É tarde demais[/I]"
 
 Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dra. Rose Cotter começa a vivenciar eventos assustadores que ela não consegue explicar.</info>
 </item>
 -----------------------------------
+<item> <title>X: A Marca da Morte</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:139e83864245731f67fd74adee27f9bc1cfdddd1</link>
+<thumbnail>https://www.themoviedb.org/t/p/original/As5dKK7fLOlCyVwjqoW5pyiDz6D.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/70Rm9ItxKuEKN8iu6rNjfwAYUCJ.jpg</fanart>
+<genre>Terror</genre>  6.6 <aired>2022/04/13</aired> <duration>6900</duration>
+<info>‎Em 1979, um grupo de jovens cineastas começou a fazer um filme adulto na zona rural do Texas, mas quando seus anfitriões reclusos e idosos os pegam no ato, o elenco se encontra‎ lutando por suas vidas.‎</info></item>
+-----------------------
+<item>  <title>A Luz do Demônio</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c4add78d286995bb5c7dd89c2745a9dbb334ea5b</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/mYa1vhjTYakyNCB65lR8Y7jujBn.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/t2mK9akzwmnGYIXHH9qShBP55QX.jpg</fanart>
+<genre>Terror, Thriller</genre>  <aired>2022/10/23</aired> / <duration>5580</duration>
+<info>Irmã Ann é uma inquieta de 25 anos que acredita devotamente que realizar exorcismos é sua vocação. Mas ela está em desacordo com as tradições da instituição: freiras não podem realizar exorcismos, apenas padres. Com o apoio de um mentor, um professor que percebe seu dom especial, ela pode observar sessões de treinamento reais. Seu desejo de provar a si mesma toma um rumo pessoal quando ela conhece um dos pacientes mais perturbados da escola. Durante seus encontros angustiantes, a Irmã Ann fica cara a cara com uma força demoníaca que infesta a escola e tem laços misteriosos com seu próprio passado. É então que o poder do mal e suas próprias habilidades surpreendentes são plenamente realizadas.</info> </item>
+----------------------------------------------------------------------------
+<item>  <title>Mundo Estranho</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:5ac448b749c004dd3595c0881f9cab30bfe8b933</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4KXsKY8j87jr1oX2uwO1tMbl4Px.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/5wDBVictj4wUYZ31gR5WzCM9dLD.jpg</fanart>
+<genre>Animação, Ficção científica, Aventura, Família</genre> /  / 4.9 / <aired>2022/11/24</aired> / <duration>6120</duration>
+<info>Uma lendária família de exploradores, os Clades, enquanto eles tentam navegar por uma terra inexplorada e traiçoeira ao lado de uma equipe heterogênea, incluindo uma bolha travessa, um cachorro de três patas e uma enorme quantidade de criaturas famintas.</info> </item>
+----------------------------------------------------------------------------
+<item> <title>Top Gun: Maverick</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32b37bf92b92028f53c5aedffe9928239a2684d7</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/vvfjmGd4iypwE89e3ZkhEsTNQyH.jpg</fanart>
+<genre>Ação, Drama</genre> <aired>2022/05/23</aired> <duration>7860</duration>
+<info>[I]"Sinta a necessidade... A necessidade de velocidade."[/I]
+    
+Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.</info></item>
+-------------
+<item> <title>Tudo Em Todo O Lugar Ao Mesmo Tempo</title>
+<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c490f97f49055af4927b2b23197eecc15c7d014&dn=Tudo%20em%20Todo%20o%20Lugar%20ao%20Mesmo%20Tempo%202022%20BluRay%201080p%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fd0SHLE9xQD2odct8OBxt4r7cSu.jpg</thumbnail>
+<genre>Ação, Aventura, Comédia</genre> <rate>8.8</rate> <aired>2022/05/17</aired> <duration>8340</duration>
+<info></info>"[I]O universo é muito maior do que você imagina.[/I]"
+  
+Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisará salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.</info>
+</item>
+----------------------
+<item>  <title>Adão Negro</title> <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:8483ba53d4ecf509442073b493f7168e9f2f1a7a</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gE1KNghdInNh0VDcfFQlAy4PTEL.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/bQXAqRx2Fgc46uCVWgoPz5L5Dtr.jpg</fanart>
+<genre>Ação, Ficção</genre> / 2022 / <rate>7.3</rate> / <aired>2022/10/20</aired> / <duration>7500</duration>
+<info>"[I]O mundo precisava de um herói. Agora ele tem Adão Negro.[/I]"
+
+Quase 5.000 anos depois de ter sido concedido com os poderes onipotentes dos deuses egípcios - e de ter sido preso, - Adão Negro se ergue de seu túmulo, pronto para trazer sua justiça ao mundo moderno.</info> </item>
+----------------------------------------  
   
 
 <item>
@@ -30,7 +71,7 @@ Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dr
 <thumbnail>https://www.themoviedb.org/t/p/original/uRdpVgEufzYNVnDPTXEjt0mpD99.jpg </thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/ft1jH9Zrjx48obILr8NpgfvLYku.jpg</fanart>
 <genre>Drama, Suspense, Terror</genre>
-<year>2022</year>
+2022
 <aired>2022/08/19</aired>
 <duration>5940</duration>
 <info>Lena Klammer orquestra uma fuga brilhante de uma unidade psiquiátrica russa e viaja para os Estados Unidos, representando a filha desaparecida de uma família rica. Mas a nova vida de Lena como "Esther" vem com uma ruga inesperada e a coloca contra uma mãe que protegerá sua família a qualquer custo. </info>
@@ -40,7 +81,7 @@ Após testemunhar um acidente traumático e bizarro envolvendo um paciente, a Dr
 <item>  <title>Não! Não Olhe!</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:KIDKFUVRT2VOQOBBB3YIGNQU23S3JUFT&dn=N%C3%A3o%20N%C3%A3o%20Olhe%202022%20WEB-DL%201080p%20DUAL%205.1&tr=udp%3A%2F%2Ftracker.openbittorrent.com%3A80%2Fannounce</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jDNkXOzqdffE5LIO4Nv4a2VxFCq.jpg</thumbnail> <fanart>https://www.themoviedb.org/t/p/original/yRutvYkM3OP8N9oqqfjSK1VC7fs.jpg</fanart>
-<genre>Terror, Mistério, Ficção científica, Thriller</genre> <year>2022</year> <rate>7.5</rate> <aired>2022/07/20</aired> <duration>7200</duration> <originaltitle>NOPE</originaltitle>
+<genre>Terror, Mistério, Ficção científica, Thriller</genre> 2022 <rate>7.5</rate> <aired>2022/07/20</aired> <duration>7200</duration> <originaltitle>NOPE</originaltitle>
 <info>"[I]Como se diz "milagre ruim"?[/I]"
 
 Os residentes de uma ravina solitária do interior da Califórnia testemunham uma descoberta estranha e assustadora vinda do céu.</info> </item>
@@ -48,25 +89,25 @@ Os residentes de uma ravina solitária do interior da Califórnia testemunham um
 <item>  <title>Homem-Aranha: Sem Volta Para Casa - Extendido</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:afa26f6a979036145055809dd016f25f1c5571a4</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fVzXp3NwovUlLe7fvoRynCmBPNc.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg</fanart>
-<genre>Ação, Aventura, Ficção científica</genre> / <year>2021</year> / <rate>8.0</rate> / <aired>2021/12/16</aired> / <duration>8940</duration> <studio>HBO MAX</studio>
+<genre>Ação, Aventura, Ficção científica</genre> / 2021 / <rate>8.0</rate> / <aired>2021/12/16</aired> / <duration>8940</duration> <studio>HBO MAX</studio>
 <info>Peter Parker é desmascarado e não consegue mais separar sua vida normal dos grandes riscos de ser um super-herói. Quando ele pede ajuda ao Doutor Estranho, os riscos se tornam ainda mais perigosos, e o forçam a descobrir o que realmente significa ser o Homem-Aranha...</info> </item>
 ----------------------------------------------------------------------------
 <item>  <title>Noites Brutais</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:add57b8fb6a130a9fbf94da6ac1b07f2073fd149</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tA5OE1P8GAEuASNtus5zhJrooI4.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/67kTU8DU5YZYrBybH4gppqptZK9.jpg</fanart>
-<genre>Terror, Mistério, Thriller</genre> / <year>2022</year> / <rate>7.5</rate> / <aired>2022/09/09</aired> / <duration>6180</duration>
+<genre>Terror, Mistério, Thriller</genre> / 2022 / <rate>7.5</rate> / <aired>2022/09/09</aired> / <duration>6180</duration>
 <info>Chegando a Detroit para uma entrevista de emprego, uma jovem aluga uma casa. Mas quando chega tarde da noite, ela descobre que a casa já havia sido alugada e ocupada por um homem estranho. Contrariando seu bom senso, ela decide passar a noite, mas logo descobre que há muito mais a temer do que um simples inquilino inesperado.</info> </item>
 ----------------------------------------------------------------------------
 <item>  <title>Jaula</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:074316dde3a02c01fb429e15a0e4b3142a5fc93e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6Z15Huy4yRmbocR2BHzBEApcab2.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/54x6WfreK5gIr6VlXpQYB7u7e1b.jpg</fanart>
-<genre>Terror, Thriller</genre> / <year>2022</year> / <rate>7.0</rate> / <aired>2022/09/09</aired> / <duration>6360</duration>
+<genre>Terror, Thriller</genre> / 2022 / <rate>7.0</rate> / <aired>2022/09/09</aired> / <duration>6360</duration>
 <info>Um casal encontra uma criança traumatizada. Mas, para descobrir quem ela é e desvendar seu passado obscuro, será necessário decifrar seu comportamento estranho.</info> </item>
 ----------------------------------------------------------------------------
 <item>  <title>A Escola do Bem e do Mal</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:370b7896d23cf6c1d7f7a2a812f42c99bc36bb7e</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fbo6sHohCSQDOY6RYPQX3zO886y.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/yfoRyss13kYAYSNoZY2vkOcYcIK.jpg</fanart>
-<genre>Fantasia, Ação, Drama</genre> / <year>2022</year> / <rate>8.3</rate> / <aired>2022/10/19</aired> / <duration>8760</duration> <studio>NETFLIX</studio>
+<genre>Fantasia, Ação, Drama</genre> / 2022 / <rate>8.3</rate> / <aired>2022/10/19</aired> / <duration>8760</duration> <studio>NETFLIX</studio>
 <info>Sophie e Agatha são grandes amigas. Mas será que essa amizade vai resistir dentro de uma escola mágica que treina heróis e vilões?</info> </item>
 ----------------------------------------------------------------------------   
 <item> 
@@ -75,7 +116,7 @@ Os residentes de uma ravina solitária do interior da Califórnia testemunham um
 <thumbnail>https://www.themoviedb.org/t/p/original/6moyjAEMV9OZ3EurotIX0mPiK6y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/pdD47rPAYKVdPasoyhSAFPIFIWo.jpg</fanart>
 <genre>Ação, Comédia, Crime</genre>
-<year>2022</year>
+2022
 <rate>7.5</rate>
 <aired>2022/07/03</aired>
 <duration>7620</duration>
@@ -88,7 +129,7 @@ Os residentes de uma ravina solitária do interior da Califórnia testemunham um
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/djM2s4wSaATn4jVB33cV05PEbV7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/r2bjq5nrwb9Qtc13KXyDNTsBePY.jpg</fanart>
 <genre>Ação, Thriller</genre>
-<year>2022</year>
+2022
 <rate>7.3</rate>
 <aired>2022/09/23</aired>
 <duration>6420</duration>
@@ -101,7 +142,7 @@ Os residentes de uma ravina solitária do interior da Califórnia testemunham um
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/crnUUp1cyqwR9NeGhdt0mMQNN0Y.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8TUb2U9GN3PonbXAQ1FBcJ4XeXu.jpg</fanart>
 <genre>Thriller, Terror</genre>
-<year>2022</year>
+2022
 <rate></rate>
 <aired>2022/08/11</aired>
 <duration>5580</duration>
@@ -115,7 +156,7 @@ Os residentes de uma ravina solitária do interior da Califórnia testemunham um
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/6OEBp0Gqv6DsOgi8diPUslT2kbA.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/p1F51Lvj3sMopG948F5HsBbl43C.jpg</fanart>
 <genre>Ação, Aventura, Comédia</genre>
-<year>2022</year>
+2022
 <rate>7.2</rate>
 <aired>2022/07/07</aired>
 <duration>7140</duration>
@@ -125,20 +166,7 @@ Thor parte em uma jornada diferente de tudo que já enfrentou – uma busca pela
 </item>
 ----------------------------------------------------------------------------
 
-<item>
-<title>Top Gun: Maverick</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:32b37bf92b92028f53c5aedffe9928239a2684d7</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/jTrXwK56EoLHHxfBkpwGdfmy2uh.jpg</thumbnail>
-<fanart>https://www.themoviedb.org/t/p/original/vvfjmGd4iypwE89e3ZkhEsTNQyH.jpg</fanart>
-<genre>Ação, Drama</genre>
-<year>2022</year>
-<rate>8.6</rate>
-<aired>2022/05/23</aired>
-<duration>7860</duration>
-<info>[I]"Sinta a necessidade... A necessidade de velocidade."[/I]
-    
-Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinha, Pete "Maverick" Mitchell está de volta, rompendo os limites como um piloto de testes corajoso. No mundo contemporâneo das guerras tecnológicas, Maverick enfrenta drones e prova que o fator humano ainda é essencial.</info>
-</item>
+
 
 <item> 
 <title>Samaritano</title>
@@ -146,7 +174,7 @@ Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinh
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/z0de9eo5QznG9KEijDvROHrYSfo.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hYZ4a0JvPETdfgJJ9ZzyFufq8KQ.jpg</fanart>
 <genre>Ficção científica, Drama, Ação, Fantasia</genre>
-<year>2022</year>
+2022
 <rate>6.4</rate>
 <aired>2022/08/26</aired>
 <duration>5940</duration>
@@ -161,7 +189,7 @@ Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinh
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cIh164JVqUGwVc5fkHsMKkfi9aV.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/h9zyS1LrufwLI9FyhiPjPWsppEK.jpg</fanart>
 <genre>Terror, Thriller</genre>
-<year>2022</year>
+2022
 <rate>7.4</rate>
 <aired>2022/05/29</aired>
 <duration>6120</duration>
@@ -175,7 +203,7 @@ Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinh
 <thumbnail>https://www.themoviedb.org/t/p/original/2pxKwxMbd5l3BxK5fBgVCWYweH2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/luN8SoFuDxxXitmFItkL435BSzk.jpg</fanart>
 <genre>Drama, Romance</genre>
-<year>2022</year>
+2022
 <aired>2022/08/19</aired>
 <duration>6780</duration>
 <info>O relacionamento de Laura e Massimo está na balança enquanto eles tentam superar os problemas de confiança enquanto um Nacho tenaz trabalha para separá-los.</info>
@@ -188,7 +216,7 @@ Depois de mais de 30 anos de serviço como um dos principais aviadores da Marinh
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4CYhJ9WNHIc1WRrQ5kYwBtmMvNB.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/rLo9T9jEg67UZPq3midjLnTUYYi.jpg</fanart>
 <genre>Drama, História, Música</genre>
-<year>2022</year>
+2022
 <rate>7.8</rate>
 <aired>2022/07/14</aired>
 <duration>9540</duration>
@@ -204,7 +232,7 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <thumbnail>https://www.themoviedb.org/t/p/original/g7Ii9sYAFG96W7cvMQ4zXq39RJ5.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/sNhzcUw5cg4JwICjnHZ5XhTKNrU.jpg</fanart>
 <genre>Ação, Ficção, Suspense</genre>
-<year>2022</year>
+2022
 <aired>2022/08/05</aired>
 <duration>6000</duration>
 <info>Ambientado no mundo da Nação Comanche no início de 1700, "O Predador: A Caçada" é a história não contada de uma jovem guerreira altamente qualificada, desesperada para proteger seu povo do perigo iminente. Ela persegue e finalmente confronta sua presa, que acaba sendo um predador alienígena altamente evoluído com um arsenal tecnologicamente avançado, resultando em um confronto brutal e aterrorizante entre os adversários.</info>
@@ -217,7 +245,7 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gmY6yEyvLlkqrgqYNXPp1llPZeT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/qpH6z1e4Lm9O4vWClSfDzSxPnqd.jpg</fanart>
 <genre>Ação, Fantasia, Terror</genre>
-<year>2022</year>
+2022
 <rate>7.5</rate>
 <aired>2022/08/12</aired>
 <duration>6780</duration>
@@ -231,7 +259,7 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tzFAboMUGJKoPQEtlxfxbbYsSWa.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/nmGWzTLMXy9x7mKd8NKPLmHtWGa.jpg</fanart>
 <genre>Família, Animação, Aventura, Comédia</genre>
-<year>2022</year>
+2022
 <rate>7</rate>
 <aired>2022/06/30</aired>
 <duration>5220</duration>
@@ -244,27 +272,13 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wc3cGQUF4P2Jetawf7YqzaWQsNc.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/tqUD26YGjKmFqOJAgbNBah1gX0N.jpg</fanart>
 <genre>Animação, Ficção científica, Aventura, Ação, Família</genre>
-<year>2022</year>
+2022
 <rate>4.6</rate>
 <aired>2022/06/16</aired>
 <duration>6420</duration>
 <info>A aventura de ação e ficção científica apresenta a história de origem definitiva de Buzz Lightyear - o herói que inspirou o brinquedo - apresentando o lendário Space Ranger que conquistaria gerações de fãs.</info>
 </item>
 
-<item>
-<title>Tudo Em Todo O Lugar Ao Mesmo Tempo</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:1c490f97f49055af4927b2b23197eecc15c7d014&dn=Tudo%20em%20Todo%20o%20Lugar%20ao%20Mesmo%20Tempo%202022%20BluRay%201080p%20DUAL%205.1&tr=udp%3a%2f%2ftracker.openbittorrent.com%3a80%2fannounce</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/fd0SHLE9xQD2odct8OBxt4r7cSu.jpg</thumbnail>
-<genre>Ação, Aventura, Comédia</genre>
-<year>2022</year>
-<rate>8.8</rate>
-<aired>2022/05/17</aired>
-<duration>8340</duration>
-<info>"[I]O universo é muito maior do que você imagina.[/I]"
-  
-  Uma imigrante chinesa parte rumo a uma aventura onde, sozinha, precisará salvar o mundo, explorando outros universos e outras vidas que poderia ter vivido. Contudo, as coisas se complicam quando ela fica presa nessa infinidade de possibilidades sem conseguir retornar para casa.</info>
-</item>
-----------------------
 
 <item>
 <title>Águas Profundas</title>
@@ -273,7 +287,7 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <fanart>https://www.themoviedb.org/t/p/original/lcITbesmy0IBO6TXTAgQHJE6Asx.jpg</fanart>
 <info>Em Águas Profundas nos leva para dentro do casamento perfeito de Vic (Affleck) e Melinda (de Armas) Van Allen para descobrir os perigosos jogos mentais que eles jogam e o que acontece com as pessoas que são apanhadas neles.</info>
 <genre>Drama, Mistério, Suspense</genre>
-<year>2022</year>
+2022
 <aired>2022/03/18</aired>
 <duration>6960</duration>
 </item>
@@ -285,7 +299,7 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <fanart>https://www.themoviedb.org/t/p/original/6zbKgwgaaCyyBXE4Sun4oWQfQmi.jpg</fanart>
 <info>Quando dois ladrões invadem sua casa no subúrbio uma noite, Hutch se recusa a defender a si mesmo ou a sua família, na esperança de evitar violência grave. Seu filho adolescente, Blake, está desapontado com ele e sua esposa, Becca, parece se afastar ainda mais. Em consequência, o incidente acerta a raiva latente de Hutch, desencadeando instintos adormecidos e impulsionando-o em um caminho brutal que revelará segredos obscuros e habilidades letais para salvar sua família.</info>
 <genre>Drama, Mistério, Suspense</genre>
-<year>2022</year>
+2022
 <aired>2021/05/12</aired>
 <duration>5520</duration>
 </item>
@@ -297,7 +311,7 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <thumbnail>https://www.themoviedb.org/t/p/original/rvX8f3QuUkYtirO0hL9CoeXMzkv.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/wo3l9p0S7pcvwlzlndtKgq0peRJ.jpg</fanart>
 <genre>Ação, Aventura, Ficção científica</genre>
-<year>2022</year>
+2022
 <rate>5.9</rate>
 <aired>2022/06/01</aired>
 <duration>8820</duration>
@@ -312,7 +326,7 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <thumbnail>https://m.media-amazon.com/images/M/MV5BMWEwNjhkYzYtNjgzYy00YTY2LThjYWYtYzViMGJkZTI4Y2MyXkEyXkFqcGdeQXVyNTM0OTY1OQ@@._V1_FMjpg_UX1000_.jpg</thumbnail>
 <fanart>https://i0.wp.com/www.theperiodictableofawesome.com/wp-content/uploads/2022/03/uncharted-website.jpeg?fit=840%2C560&ssl=1</fanart>
 <genre>Ação | Aventura</genre>
-<year>2021</year>
+2021
 <rate>6.6</rate>
 <aired>2022/02/17</aired>
 <duration>6900</duration>
@@ -325,7 +339,7 @@ A história de vida de Elvis Presley vista através do relacionamento complicado
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hq2igFqb31fDqGotz8ZuUfwKgn8.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/gUNRlH66yNDH3NQblYMIwgZXJ2u.jpg</fanart>
 <genre>Fantasia, Ação, Aventura</genre>
-<year>2022</year>
+2022
 <rate>7.3</rate>
 <aired>2022/05/05</aired>
 <duration>7560</duration>
@@ -340,7 +354,7 @@ Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vJfLNvOMK1Ek7OvpKgBDSqH2kN1.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/fqw8nJLPRgKRyFSDC0xBsC06NGC.jpg</fanart>
 <genre> Ação/Aventura</genre>
-<year>2022</year>
+2022
 <rate>7.8</rate>
 <aired>2022/04/22</aired>
 <duration>8220</duration>
@@ -353,7 +367,7 @@ Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/vsX9gj7t56ZlMYKNYccskeW5adT.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/1Ds7xy7ILo8u2WWxdnkJth1jQVT.jpg</fanart>
 <genre>Ação, Aventura, Comédia</genre>
-<year>2022</year>
+2022
 <rate>6.5</rate>
 <aired>2022/04/21</aired>
 <duration>6720</duration>
@@ -366,7 +380,7 @@ Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A7WtrzlvLAhdmXObY9aZCRhtAMs.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/afQ6TOyRHDcmG9y0awCeDJVjs2V.jpg</fanart>
 <genre>Ação, Comédia</genre>
-<year>2022</year>
+2022
 <rate>7.4</rate>
 <aired>2022/06/24</aired>
 <duration>6600</duration>
@@ -379,7 +393,7 @@ Doutor Estranho, com a ajuda de aliados místicos antigos e novos, atravessa as 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/f4SvCKIUrC2cDR7Xo4k1kaGAqQ2.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/50DSlLDTB9l99A26vpEeyjWic14.jpg</fanart>
 <genre>Ação, Aventura, Comédia</genre>
-<year>2022</year>
+2022
 <rate>7.1</rate>
 <aired>2022/04/07</aired>
 <duration>7200</duration>
@@ -393,7 +407,7 @@ Depois de se estabelecer em Green Hills, Sonic está pronto para mais liberdade 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/odVv1sqVs0KxBXiA8bhIBlPgalx.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/8QpzqK3nPGxpqpKqhe6QasTGBWQ.jpg</fanart>
 <info>‎Uma força misteriosa derruba a lua de sua órbita ao redor da Terra e a envia em rota de colisão com a vida como a conhecemos.‎</info>
-<year>2022</year>
+2022
 <rate>5.3</rate>
 <aired>2022/04/01</aired>
 <duration>7200</duration>
@@ -409,7 +423,7 @@ Depois de se estabelecer em Green Hills, Sonic está pronto para mais liberdade 
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/emj0dVlz5zSnvOfMZJA2zrWyW6Z.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/kiH3KPWi7BaRMvdAigcwrUFViHl.jpg</fanart>
 <genre>Ação, Thriller, Crime</genre>
-<year>2022</year>
+2022
 <rate>5.6</rate>
 <aired>2022/06/23</aired>
 <duration>6840</duration>
@@ -426,7 +440,7 @@ Em Assassino Sem Rastro, Alex Lewis é um assassino experiente com reputação d
 <info>
 Baseado no personagem de mesmo nome da Marvel Comics, Michael Morbius (Jared Letto) sempre sofreu com uma condição rara em seu sangue que o faz andar de bengala e desde criança ser excluído por outros, mas sua vida solitária foi preenchida por livros. Após se formar na faculdade, Doutor Morbius é renomado na área de biomedicina e tenta achar uma cura para sua rara condição, afim de não apenas se ajudar, mas ajudar outras pessoas que também sofrem como ele. Experimentando com o DNA de morcegos, Morbius espera achar a cura e se usa como teste para o soro. Usando o DNA que isolou e uma mistura de eletrochoque, a cura foi um sucesso temporário, mas os efeitos colaterais acabaram transformando-o em um pseudo-vampiro e que agora precisa sobreviver como um. Apesar de ganhar capacidades iguais a de um morcego, Morbius precisa de sangue humano para sobreviver, os efeitos colaterais também o fez mudar fisicamente, ganhando presas e uma pele pálida. Além disso, a cada pessoa que ele morde, ela também vira um ser igual a ele.</info>
 <genre>Ação, Ficção, Terror</genre>
-<year>2022</year>
+2022
 <rate>5.1</rate>
 <aired>2022/03/31</aired>
 <duration>6240</duration>
@@ -461,7 +475,7 @@ Baseado no personagem de mesmo nome da Marvel Comics, Michael Morbius (Jared Let
 <fanart>https://www.themoviedb.org/t/p/original/jYEW5xZkZk2WTrdbMGAPFuBqbDc.jpg</fanart>
 <genre>Ficção Científica, Aventura</genre>
 <aired>2021/10/22</aired>
-<year>2021</year>
+2021
 <duration>9300</duration>
 <info>Em um futuro distante, planetas são comandados por casas nobres que fazem parte de um império feudal intergalático. Paul Atreides é um jovem cuja família toma o controle do planeta deserto Arrakis, também conhecido como Duna. A única fonte da especiaria Melange, a substância mais importante do cosmos, Arrakis se mostra ser um planeta nem um pouco fácil de governar.</info>
 </item>
@@ -483,7 +497,7 @@ Baseado no personagem de mesmo nome da Marvel Comics, Michael Morbius (Jared Let
 <thumbnail>https://www.themoviedb.org/t/p/original/ynHncD1HQZEQA2r747uv3eL3XDY.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/esBSjRyUg3E66uFOrsQDjPcbWMY.jpg</fanart>
 <genre>Animação, Aventura, Família, Fantasia</genre>
-<year>2022</year>
+2022
 <rate>7.4</rate>
 <aired>2022/06/24</aired>
 <duration>6900</duration>
@@ -508,7 +522,7 @@ Baseado no personagem de mesmo nome da Marvel Comics, Michael Morbius (Jared Let
 <fanart>https://www.themoviedb.org/t/p/original/7py8kUCYaOdFn1TfVS87BDBySOz.jpg</fanart>
 <genre>Comédia, Ação, Aventura, Ficção Científica</genre>
 <aired>2021/08/19</aired>
-<year>2021</year>
+2021
 <duration>6900</duration>
 <info>Um caixa de banco preso a uma entediante rotina tem sua vida virada de cabeça para baixo quando ele descobre que é personagem em um brutalmente realista vídeo game de mundo aberto. Agora ele precisa aceitar sua realidade e lidar com o fato de que é o único que pode salvar o mundo.</info>
 </item>
@@ -519,7 +533,7 @@ Baseado no personagem de mesmo nome da Marvel Comics, Michael Morbius (Jared Let
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/25aPHMlZNP5F3fgxUo4XB7xUVz7.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/hGr0FrLI74vqpBWTBOPloDBwOAK.jpg</fanart>
 <genre>Comédia, Drama, Esporte</genre>
-<year>2022</year>
+2022
 <rate>7.5</rate>
 <aired>2022/06/08</aired>
 <duration>7080</duration>
@@ -544,7 +558,7 @@ Baseado no personagem de mesmo nome da Marvel Comics, Michael Morbius (Jared Let
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/gopGghuMtmdMviBcl9G0JfVB2RZ.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/zGLHX92Gk96O1DJvLil7ObJTbaL.jpg</fanart>
 <genre>Aventura, Família, Fantasia</genre>
-<year>2022</year>
+2022
 <rate>6.5</rate>
 <aired>2022/04/14</aired>
 <duration>8580</duration>
@@ -571,7 +585,7 @@ O professor Alvo Dumbledore (Jude Law) sabe que o poderoso mago das trevas Gelle
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wd7b4Nv9QBHDTIjc2m7sr0IUMoh.jpg</thumbnail>
 <fanart>https://www.themoviedb.org/t/p/original/IYUD7rAIXzBM91TT3Z5fILUS7n.jpg</fanart>
 <genre>Ação, Drama</genre>
-<year>2022</year>
+2022
 <rate>9.1</rate>
 <votes>9.1</votes>
 <aired>2022/03/03</aired>
@@ -586,7 +600,7 @@ Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas pro
 <thumbnail>https://image.tmdb.org/t/p/w342/fUEv9INjh1HEdbD9BAExioSO65a.jpg</thumbnail>
 <genre>Ação, Terror, Suspense</genre>
 <aired>2020/06/24</aired>
-<year>2020</year>
+2020
 <duration>5880</duration>
 <info>Um vírus terrível destrói a cidade, e um homem se tranca no apartamento para sobreviver. Desconectado do mundo, ele tenta desesperadamente encontrar uma saída.</info>
 </item>
@@ -597,7 +611,7 @@ Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas pro
 <thumbnail>http://conteudo.imguol.com.br/c/entretenimento/18/2022/03/16/os-caras-malvados-estreia-no-dia-17-de-marco-no-brasil-1647451918784_v2_3x4.jpg</thumbnail>
 <fanart>https://leiturinha.com.br/blog/wp-content/uploads/2020/03/03-08_pkl_collab-universal-caras-malvados_blog_banner.png</fanart>
 <genre>Animação,Familia</genre>
-<year>2022</year>
+2022
 <rate>7.0</rate>
 <aired>2022/05/02</aired>
 <duration>6000</duration>
@@ -643,7 +657,7 @@ Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas pro
 <fanart>https://www.themoviedb.org/t/p/original/ADJ6V8W96It4KElY2SPZvkKPBR.jpg</fanart>
 <genre>Terror, Suspense</genre>
 <aired>2019/03/21</aired>
-<year>2019</year>
+2019
 <duration>7200</duration>
 <info>Adelaide e Gabe levam a família para passar um fim de semana na praia e descansar. Eles começam a aproveitar o ensolarado local, mas a chegada de um grupo misterioso muda tudo e a família se torna refém de seres com aparências iguais às suas.</info>
 </item>
@@ -655,7 +669,7 @@ Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas pro
 <fanart>https://www.themoviedb.org/t/p/original/9pkZesKMnblFfKxEhQx45YQ2kIe.jpg</fanart>
 <genre>Suspense</genre>
 <aired>2017/03/12</aired>
-<year>2016</year>
+2016
 <duration>7020</duration>
 <info>Embora Kevin tenha revelado 23 personalidades a seu psiquiatra, uma ainda permanece submersa, pronta para se materializar e dominar todas as outras. Quando sua compulsão o força a raptar três adolescentes, Kevin vive uma guerra para sobreviver dentre os que habitam dentro dele, além dos outros em tono dele, à medida que as divisões que separam seus compartimentos começam a se despedaçar.
 </info>
@@ -715,3 +729,6 @@ Após dois anos espreitando as ruas como Batman, Bruce Wayne se encontra nas pro
 <aired>2019/04/11</aired>
 <duration>6960</duration>
 </item> 
+
+
+</items>
