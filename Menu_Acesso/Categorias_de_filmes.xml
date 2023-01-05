@@ -1,30 +1,13 @@
-
-
-
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <channels>
         
-<channel>
-<name>[COLOR yellow]»EM MANUTENÇÃO, TENHAM PACIENCIA!«[/COLOR]</name>
-<thumbnail>https://st.depositphotos.com/2332949/4799/i/600/depositphotos_47994911-stock-photo-exclamation-mark-symbol-attention-sign.jpg</thumbnail>
-<externallink>https://</externallink>
-<fanart>https://</fanart>
-<info>
-*MELHORIAS NOS LINKS
-*OPÇÃO PARA ORDEM ALFABETICA
-*CACHE PARA CARREGAMENTO DE PAGINAS
-  
-Para ajudar o projeto, PIX: thepiratebr.ofc@gmail.com  
 
-Ate.te
-GAEL</info>
-</channel>   
   
 <channel>
-<name>[COLOR yellow][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR] [COLOR yellow]AÇÃO[/COLOR] - [COLOR gray]383[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR] [COLOR yellow]AÇÃO[/COLOR] - [COLOR gray]383[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/A%C3%A7%C3%A3o.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -35,7 +18,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]ANIMAÇÃO[/COLOR] - [COLOR gray]543[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/animacao.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
 
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>  
 </channel>
@@ -80,7 +63,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]COMÉDIA[/COLOR] - [COLOR gray]539[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/comedia.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -90,7 +73,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]DOCUMENTARIOS[/COLOR] - [COLOR gray]184[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Documentarios.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
 
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
   
@@ -102,7 +85,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]DRAMA[/COLOR] - [COLOR gray]739[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/drama.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -124,7 +107,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]FICÇÃO CIENTIFICA[/COLOR] - [COLOR gray]254[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/fic%C3%A7ao</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -135,7 +118,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]GUERRA[/COLOR] - [COLOR gray]179[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/guerra.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -146,7 +129,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]LGBT'S[/COLOR] - [COLOR gray]28[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Lgbt.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -166,7 +149,7 @@ GAEL</info>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/nacional.xml</externallink>
 <fanart>https://images8.alphacoders.com/714/thumb-1920-714662.png</fanart>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -177,7 +160,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]RELIGIOSOS[/COLOR] - [COLOR gray]64[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/religiosos.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -188,7 +171,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]ROMANCE[/COLOR] - [COLOR gray]547[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/romance.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -209,7 +192,7 @@ GAEL</info>
 <name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]TERROR[/COLOR] - [COLOR gray]668[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/terror.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
+<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
