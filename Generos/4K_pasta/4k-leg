@@ -2,21 +2,6 @@
 <items>
 
 
-
-<item>  <title>Emancipation: Uma História de Liberdade - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fb4fd403367260b1d6aec63c95a152b71a96e88a</link>
-<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/izTIOynukDcN9dp7uPlwBjHr8f5.jpg</thumbnail>  <fanart>https://www.themoviedb.org/t/p/original/jYFoJyZpuqRC2MrPiLY0pHDTxAZ.jpg</fanart>
-<genre>Ação, Thriller, História, Drama</genre> / 2022 / <rate>7.2</rate> / <aired>2022/12/02</aired> </item>
-----------------------------------------------------------------------------
-<item>  <title>Fragmentado - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7a9177205f2e2490c7e66a1334570265f71f1ab0</link>
-<thumbnail>https://imagizer.imageshack.com/v2/640x480q90/924/OrMW0z.jpg</thumbnail>
-<genre>Thriller / Terror</genre> / 2016 / <aired>2016/03/17</aired> </item>
-----------------------------------------------------------------------------
-<item>  <title>Blade Runner 2049 - 4K</title>
-<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:7ead83768c87118cff3a9340c62a6246fbbf7edd</link>
-<thumbnail>https://i.imgur.com/07nyxiK.png</thumbnail>
-<genre>Ficção científica / Ação</genre> / 2017 / <aired>2017/10/05</aired> </item>
-----------------------------------------------------------------------------
 <item>
 <title>X: A Marca da Morte - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:07c79ffbe79804fa6669b9a7a36728c5e58aa3d6</link>
@@ -686,5 +671,6 @@
 <genre> Action, Thriller</genre>
 ---<link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:c6b97daf25647e8f024434d6e5162f5763603dc9</link>
 </item>
+
 
 </items>
