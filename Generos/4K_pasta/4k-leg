@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <items>
 
-<item>  <title>The Menu - 4K</title>
+<item>  <title>Puss in Boots: The Last Wish - 4K</title>  <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:f3b81d8739b1c91b89a862cc648e5c55903101ef</link>
+<thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/65NBNqJiaHeCmqDqkCmrRplJXw.jpg</thumbnail> 
+<genre>Animação/Aventura</genre> / <rate>7.6</rate> / <aired>2022/12/07</aired> </item>
+----------------------------------------------------------------------------  
+  <item>  <title>The Menu - 4K</title>
 <link>plugin://plugin.video.elementum/play?uri=magnet:?xt=urn:btih:fc79410b5ae208b6d1e94675f4a00a8545de4a9a</link>
 <thumbnail>https://www.themoviedb.org/t/p/w600_and_h900_bestv2/qE4FZQiaQcKo9mYuqu2SwLIgbwG.jpg</thumbnail>
 <genre>Suspense/Comédia/Terror</genre> / <aired>2022/11/17</aired> </item>
