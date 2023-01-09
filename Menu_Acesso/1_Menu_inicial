@@ -20,25 +20,15 @@
 
 
 <channel>
-<name>_________________________</name>
-<thumbnail>https://</thumbnail>
-<externallink>https://</externallink>
-</channel>  
-
-
-  
-
-<channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]STATUS DO ADDON[/COLOR]: [COLOR green][B]EM MANUTENÇÃO[/B][/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR yellow]PROJETO PAUSADO TEMPORARIAMENTE[/COLOR]</name>
 <thumbnail>https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Gtk-dialog-info.svg/2048px-Gtk-dialog-info.svg.png</thumbnail>
 <externallink>https://</externallink>
 <fanart>https://</fanart>
-<info>Verifique as informações antes de acessar as abas do addon.
-
-[COLOR yellow]Categoria em manutenção:[/COLOR]
+<info>ADDON VOLTARA EM BREVE. MAS CONTINUARA FUNCIONANDO NESSE TEMPO!
 
 
 </info>
-</channel>  
+</channel> 
+ 
 
 </channels>
