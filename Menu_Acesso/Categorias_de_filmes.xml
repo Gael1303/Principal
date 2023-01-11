@@ -4,10 +4,10 @@
 
   
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR] [COLOR yellow]AÇÃO[/COLOR] - [COLOR gray]383[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR] [COLOR yellow]AÇÃO[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/A%C3%A7%C3%A3o.xml</externallink>
-<info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
+<info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
   
 [COLOR yellow]Dica:[/COLOR] Para buscar um filme em especifico, entre na categoria e ao seu lado esquerdo clique em "FILTRO" e digite o nome do filme</info>
 </channel>
@@ -15,7 +15,7 @@
 ------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]ANIMAÇÃO[/COLOR] - [COLOR gray]543[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]ANIMAÇÃO[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/animacao.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -26,7 +26,7 @@
 -----------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]AVENTURA[/COLOR] - [COLOR gray]47[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]AVENTURA[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Aventura.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
@@ -38,7 +38,7 @@
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]BIOGRAFICOS[/COLOR] - [COLOR gray]42[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]BIOGRAFICOS[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Biografia.xml</externallink>
 
@@ -50,7 +50,7 @@
 ------------------------------------------------------------
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]CLÁSSICOS[/COLOR] - [COLOR gray]85[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]CLÁSSICOS[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/classicos.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
@@ -60,7 +60,7 @@
 --------------------------------------------------------------------------
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]COMÉDIA[/COLOR] - [COLOR gray]539[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]COMÉDIA[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/comedia.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -70,7 +70,7 @@
 --------------------------------------------------------------------------
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]DOCUMENTARIOS[/COLOR] - [COLOR gray]184[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]DOCUMENTARIOS[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Documentarios.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -82,7 +82,7 @@
 ----------------------------------------------------------------------------
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]DRAMA[/COLOR] - [COLOR gray]742[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]DRAMA[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/drama.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -93,7 +93,7 @@
 -----------------------------------------------------
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]FAROESTE[/COLOR] - [COLOR gray]85[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]FAROESTE[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Faroeste.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
@@ -104,7 +104,7 @@
 ---------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]FICÇÃO CIENTIFICA[/COLOR] - [COLOR gray]254[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]FICÇÃO CIENTIFICA[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://raw.githubusercontent.com/Gael1303/Principal/main/Generos/fic%C3%A7ao</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -115,7 +115,7 @@
 ----------------------------------------------------------------------------
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]GUERRA[/COLOR] - [COLOR gray]179[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]GUERRA[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/guerra.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -126,7 +126,7 @@
 -------------------------------------------------------------------------------------
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]LGBT'S[/COLOR] - [COLOR gray]28[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]LGBT'S[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Lgbt.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -136,7 +136,7 @@
 
 -------------------------------------------------------------------------------------
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]MAFIA[/COLOR] - [COLOR gray]35[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]MAFIA[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Mafia.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
@@ -145,7 +145,7 @@
 </channel>  
 -------------------                                                    
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]NACIONAIS[/COLOR] - [COLOR gray]307[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]NACIONAIS[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/nacional.xml</externallink>
 <fanart>https://images8.alphacoders.com/714/thumb-1920-714662.png</fanart>
@@ -157,7 +157,7 @@
 ----------------------------------------------------------------------------------------
 
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]RELIGIOSOS[/COLOR] - [COLOR gray]64[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]RELIGIOSOS[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/religiosos.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -168,7 +168,7 @@
 -------------------------------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]ROMANCE[/COLOR] - [COLOR gray]547[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]ROMANCE[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/romance.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
@@ -179,7 +179,7 @@
 -----------------------------------------------------------------------------------------
                                                     
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]SUSPENSE[/COLOR] - [COLOR gray]277[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]SUSPENSE[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/Suspense.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]ONLINE[/B]
@@ -189,7 +189,7 @@
 
 ------------------------------------------------------------------------------------------
 <channel>
-<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]TERROR[/COLOR] - [COLOR gray]668[/COLOR]</name>
+<name>[COLOR blue][B]≡[/B][/COLOR] [COLOR white]FILMES [/COLOR][COLOR yellow]TERROR[/COLOR]</name>
 <thumbnail>https://ia801402.us.archive.org/11/items/picsart-22-08-30-14-21-32-340/Picsart_22-08-30_14-22-24-151.jpg</thumbnail>
 <externallink>https://github.com/Gael1303/Principal/raw/main/Generos/terror.xml</externallink>
 <info>[B][COLOR green]▲[/COLOR]MANUTENÇÃO[/B]
